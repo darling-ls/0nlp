@@ -1,6 +1,6 @@
 # Environment setup (Ubuntu Linux, headless)
 
-This guide sets up the Python ETL (Transform + Load) and optionally the Angular frontend on an Ubuntu server without a GUI.
+This guide sets up the Python ETL (Transform + Load) and optionally the React (Vite) frontend on an Ubuntu server without a GUI.
 
 ## What to do first (quick roadmap)
 
@@ -110,7 +110,7 @@ python processing/db_loader.py \
   --graph-out data/processed/graph_data.json
 ```
 
-## 6) (Optional) Install Node.js + Angular CLI (headless)
+## 6) (Optional) Install Node.js + run the React frontend (headless)
 
 You have two common options on Ubuntu:
 
@@ -125,34 +125,40 @@ node -v
 npm -v
 ```
 
-Install Angular CLI and D3:
+Install frontend dependencies:
 
 ```bash
-npm install -g @angular/cli
 cd frontend
-npm install d3
+npm install
+```
+
+If you run locally (no Docker), copy the latest graph export into the React public folder:
+
+```bash
+mkdir -p frontend/public/data
+cp data/processed/graph_data.json frontend/public/data/graph_data.json
 ```
 
 Run the dev server on a headless machine:
 
 ```bash
-ng serve --host 0.0.0.0 --port 4200
+npm run dev -- --host 0.0.0.0 --port 5173
 ```
 
 Then open from your laptop:
-- `http://<server-ip>:4200`
+- `http://<server-ip>:5173`
 
 ### Option B: Use Ubuntu packages (may be older)
 
 If your distro Node version is old, prefer `nvm`.
 
-## 7) (Optional) Accessing the Angular dev server securely
+## 7) (Optional) Accessing the dev server securely
 
-If you do not want to expose port `4200`, use SSH port forwarding from your laptop:
+If you do not want to expose port `5173`, use SSH port forwarding from your laptop:
 
 ```bash
-ssh -L 4200:localhost:4200 <user>@<server-ip>
+ssh -L 5173:localhost:5173 <user>@<server-ip>
 ```
 
 Then open locally:
-- `http://localhost:4200`
+- `http://localhost:5173`

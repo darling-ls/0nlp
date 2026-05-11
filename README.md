@@ -4,7 +4,7 @@ This project transforms Moroccan Customs "Classement Tarifaire" circulars (text 
 
 - A normalized dataset (`.jsonl`) ready for future RAG/LLM indexing
 - A PostgreSQL relational schema to support document metadata, semantic chunks, and inter-circular relationships
-- A lightweight graph export (`graph_data.json`) for a force-directed dependency visualizer (Angular + D3)
+- A lightweight graph export (`graph_data.json`) for a force-directed dependency visualizer (React + D3)
 
 ## Start here (recommended order)
 
@@ -21,8 +21,9 @@ This project transforms Moroccan Customs "Classement Tarifaire" circulars (text 
 - Load: `processing/db_loader.py` -> PostgreSQL tables + `data/processed/graph_data.json`
 
 4) (Optional) Visualize:
-- Copy `data/processed/graph_data.json` to `frontend/src/assets/graph_data.json`
-- Add the component from `frontend/src/app/graph-view/` into your Angular app
+- Local (no Docker): copy `data/processed/graph_data.json` to `frontend/public/data/graph_data.json`
+- Docker: `docker-compose.yml` mounts `data/processed/` into the React app automatically
+- Run the React app in `frontend/` (it fetches `/data/graph_data.json`)
 
 ## How it works (what happens in each phase)
 
@@ -67,9 +68,8 @@ This project transforms Moroccan Customs "Classement Tarifaire" circulars (text 
 |- sql/
 |  `- init.sql                  # Deliverable 2
 |- frontend/
-|  `- src/
-|     |- app/graph-view/        # Deliverable 4 component code
-|     `- assets/graph_data.json # produced by loader (copy here)
+|  |- public/data/              # static mount for graph_data.json
+|  `- src/components/GraphView.tsx
 |- docker-compose.yml
 |- requirements.txt
 |- setup_env.md
@@ -138,4 +138,3 @@ The processor tries common field names like:
 - `category`, `url`
 
 The join key is always normalized to `reference_number` in the form `YYYY/NNN`.
-

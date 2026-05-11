@@ -41,7 +41,13 @@ Place your files:
 
 ## 3) Create `.env` (database settings + ETL connection string)
 
-Create a file named `.env` in the repo root:
+Start from the example:
+
+```bash
+cp .env.example .env
+```
+
+Then edit `.env` if needed. Default:
 
 ```env
 POSTGRES_DB=adii_kg
@@ -52,6 +58,7 @@ DATABASE_URL=postgresql+psycopg://postgres:postgres@db:5432/adii_kg
 
 Notes:
 - `db` in `DATABASE_URL` is the Docker Compose service name for PostgreSQL.
+- PostgreSQL is exposed on the host at port `5454` (see `docker-compose.yml`) to avoid clashing with local Postgres.
 
 ## 4) Start DB + ETL
 
@@ -110,13 +117,13 @@ docker compose up --build
 
 `-v` removes the named volume (`pg_data`) that stores PostgreSQL data.
 
-## 8) Optional: run the Angular frontend container
+## 8) Optional: run the React frontend container
 
 The `frontend` service is behind a Compose profile (so it does not run by default).
 
 Requirements:
-- A real Angular app exists in `./frontend` (with `frontend/package.json`)
-- `frontend/src/assets/graph_data.json` exists (copy from `data/processed/graph_data.json`)
+- A React (Vite) app exists in `./frontend` (this repo includes one: `frontend/package.json`)
+- The ETL output exists at `data/processed/graph_data.json` (mounted into the container at `/app/public/data/graph_data.json`)
 
 Run:
 
@@ -125,8 +132,7 @@ docker compose --profile frontend up --build
 ```
 
 Headless access:
-- Open from your laptop: `http://<server-ip>:4200`
+- Open from your laptop: `http://<server-ip>:5173`
 - Or use SSH port forwarding:
-  - `ssh -L 4200:localhost:4200 <user>@<server-ip>`
-  - then open `http://localhost:4200`
-
+  - `ssh -L 5173:localhost:5173 <user>@<server-ip>`
+  - then open `http://localhost:5173`

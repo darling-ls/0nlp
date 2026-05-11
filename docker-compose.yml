@@ -6,7 +6,7 @@ services:
       POSTGRES_USER: ${POSTGRES_USER:-postgres}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
     ports:
-      - " 5454:5432"
+      - "5454:5432"
     volumes:
       - pg_data:/var/lib/postgresql/data
       - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
@@ -38,12 +38,13 @@ services:
       context: .
       dockerfile: frontend/Dockerfile
     ports:
-      - "4200:4200"
+      - "5173:5173"
     depends_on:
       - etl
     volumes:
       - ./frontend:/app
       - /app/node_modules
+      - ./data/processed:/app/public/data:ro
 
 volumes:
   pg_data:
