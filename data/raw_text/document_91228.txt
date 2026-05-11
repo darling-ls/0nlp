@@ -1,0 +1,181 @@
+--- Page 1 (parsed text) --Rabat, le 16/12/2022
+Circulaire n° 6390/313
+OBJET: Procédure de dédouanement des produits pétroliers destinés à certains secteurs.
+REF. : Circulaires n° 4363/212 du 30/12/1994 et n° 5460/312 du 12/08/2014 et note n°
+D286/16/ADII/100 du 13/01/2016.
+Conformément aux dispositions de l’article 191 du décret d’application du Code des Douanes et
+Impôts Indirects, les produits pétroliers destinés à l’approvisionnement des navigations maritimes
+pouvant prétendre à l’exonération des droits et taxes doivent être extraits des Entrepôts Privés
+Particuliers Spéciaux (EPPS).
+Cependant, et suite à l’arrêt de l’activité de raffinage de la SAMIR, les sociétés de distribution des
+produits pétroliers ont été autorisées, à titre de facilité, à approvisionner les navigations maritimes
+susvisées en produits pétroliers dédouanés et ce, dans le cadre du régime de l’exportation
+préalable.
+Ceci dit, et dans l’objectif de mettre en place un mode opératoire permettant d’harmoniser et
+d’uniformiser la gestion des opérations d’approvisionnement des navigations maritimes
+concernées en produits pétroliers et d’intégrer également d’autres dont notamment le soutage et
+le cabotage, il a été procédé à l’élaboration, après large concertation avec la profession, d’une
+procédure consolidée telle qu’elle est détaillée au niveau de l’annexe ci-après.
+La procédure élaborée qui entre en vigueur à compter du 26/12/2022 présente l’avantage
+d’assurer la traçabilité, d’optimiser les contrôles et de permettre une meilleure transparence dans
+la gestion de ces produits.
+Toute difficulté d’application sera signalée à l’administration centrale sous le timbre de la
+présente.
+SGIA/Diffusion/16-12-22/12h20
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Page 1
+Annexe à la circulaire n° 6390/313 du 16/12/2022
+Procédure de dédouanement des produits pétroliers destinés à certains secteurs détaxés
+1- Flux d’avitaillement des bateaux de pêche et des navigations maritimes effectuées par les
+unités de la marine royale et de la gendarmerie royale
+Le régime à utiliser est l’entrepôt privé particulier spécial (EPPS), selon le mode opératoire ci-après:
+ A l’entrée:
+Souscription d’une déclaration définitive d’EPPS (régime 037), combinée le cas échéant, pour
+couvrir l’acheminement des produits pétroliers du bureau douanier d’importation vers celui dont
+relève le port de pêche, appuyée des documents exigibles (bon de livraison et/ou facture…etc. );
+L’engagement d’importation sera imputé, le cas échéant, à la déclaration d’entrée en EPPS pour
+permettre le règlement financier du fournisseur étranger;
+Cas particulier des enlèvements, pour ce flux, des produits pétroliers non dédouanés depuis les
+bacs de Horizon Tangiers Terminals - HTT situés dans la zone d’accélération industrielle de
+Tanger-Med:
+ Souscription d’une déclaration d’EPPS combinée (code régime 037) sur la base des éléments
+du bon de livraison provisoire, reprenant, notamment, la quantité avant chargement du
+moyen de transport, libellée en volume apparent. Après chargement, le déclarant doit
+annexer à la déclaration susvisée le bon de livraison définitif visé par les services du bureau
+douanier d’émission et reprenant les données définitives, en particulier le volume à 15°;
+ Lors de la réception au niveau du bureau de destination, le service douanier procède aux
+vérifications nécessaires (intégrité des scellés, contrôle documentaire … etc. ); .
+ En cas d’écart entre les éléments déclarés initialement et ceux du bon de livraison définitif
+(volume, valeur, poids…etc. ), le déclarant doit introduire une demande de modification
+reprenant les éléments définitifs à prendre en charge, en l’occurrence ceux du bon de
+livraison définitif. Cette demande sera traitée sans suites contentieuses et permettra la prise
+en charge du compte d’EPPS sur la base des éléments du bon de livraison définitif, en
+particulier le volume à 15°.
+ A la sortie:
+La régularisation s’effectuera par une déclaration de mise à la consommation ou d’exportation en
+fonction de la destination desservie. Cette déclaration peut être souscrite en mode simplifié couvrant
+les quantités des carburants livrées durant une période d’un mois au maximum.
+En cas d’avitaillement des bateaux de pêche, il y a lieu d’utiliser les régimes suivants:
+Avitaillement en carburants des bateaux de pêche marocains, toutes catégories confondues
+(embarcations de pêche artisanale ou bateaux de pêche côtière ou hauturière battant pavillon
+marocain), le régime à utiliser est la mise à la consommation en suite d’EPPS (Code régime 047)
+et ce, avec indication du code franchise approprié:
+ 1065 pour la pêche artisanale; ou
+ 1080 pour la pêche côtière ou hauturière.
+Avitaillement en carburants des navires de pêche battant pavillon étranger disposant d’une
+licence de pêche hauturière:
+ En cas de facturation en devises étrangères: les opérations de livraison seront couvertes
+par des déclarations d’exportation en suite d’EPPS (code régime 075).
+ En cas de facturation en dirhams: les opérations de livraison sont couvertes par des
+déclarations de mise à la consommation en suite d’EPPS (code régime 047) avec indication du
+code franchise approprié, à savoir le code 1080.
+--- Page 3 (parsed text) --Page 2
+Remarques et observations:
+Si l’approvisionnement des EPPS est opéré à partir des produits pétroliers déjà placés sous
+d’autres EPPS, il sera procédé à des mutations d’entrepôt conformément à la procédure en
+vigueur moyennant la souscription d’un acquit-à-caution de transit (code régime 085) suivi d’une
+déclaration de transfert et d’entrée en entrepôt (codes régime 080 ou 081), avec possibilité de
+bénéfice d’une procédure allégée consistant à couvrir les transferts par des transits avec
+enlèvements partiels et des entrées en entrepôt simplifiées couvrant une période d’un mois;
+Le recours au régime d’exportation préalable avec utilisation de l’ancien mode provisionnel,
+instauré temporairement suite à l’arrêt de la SAMIR pour l’approvisionnement des secteurs
+détaxés, ne sera plus autorisé. En cas de besoin justifié, l’opérateur peut souscrire une
+déclaration d’exportation préalable définitive (code régime 079), combinée si le bureau
+d’enlèvement est différent de celui de livraison;
+Au bureau de destination et pour les besoins de suivi et de contrôle de livraison à la destination
+privilégiée (secteur de la pêche notamment) et afin d’uniformiser le traitement au niveau
+national, il sera procédé à la souscription d’une déclaration d’entrepôt de produits pétroliers
+(code régime 090) portant sur les mêmes espèces et quantités des produits pétroliers. Le compte
+RED sera apuré, au fur et à mesure des livraisons, par des déclarations d’apurement (codes
+régimes 075 ou 047) enregistrées en mode simplifié éventuellement;
+Le recours au régime de l’EPPS en cas de stockage communautaire: conformément aux
+dispositions de l’article 125-2° du Code des Douanes et Impôts Indirects, l’agrément d’EPPS
+permet l’entreposage de marchandises identiques à celles désignées mais appartenant à une
+personne autre que le bénéficiaire. En d’autres termes, cet article prévoit la possibilité
+d’obtenir l’agrément au nom de l’entité gestionnaire de l’entrepôt communautaire et la
+souscription de la déclaration d’EPPS au nom d’autres sociétés pétrolières;
+Entreposage mixte des carburants dédouanés et sous douane: les opérateurs désireux de
+bénéficier de cette facilité doivent adresser leurs demandes, appuyées des justificatifs
+nécessaires, à la Direction des Etudes et de la Coopération Internationale (Services des Impôts
+Indirects), qui statuera sur ces dossiers.
+2- Flux de soutage direct sans stockage intermédiaire par camions citernes des carburants nondédouanés provenant des bacs HTT
+La procédure à observer pour ce type de flux est comme suit:
+Souscription d’une déclaration sous le régime d’admission temporaire (code régime 332: autres
+AT) définitive, combinée du bureau douanier de Tanger-Med vers le bureau douanier de
+destination et appuyée des documents nécessaires (Facture et/ou bon de livraison …etc. ); Le
+délai d’admission temporaire à accorder est de 30 jours;
+L’engagement d’importation sera imputé, le cas échéant, à la déclaration susvisée pour
+permettre le règlement financier du fournisseur étranger;
+Régularisation, selon le cas, par une déclaration d’exportation ou de mise à la consommation en
+décharge du compte d’AT concerné, appuyée des documents nécessaires (facture et/ou bon de
+livraison) visés par le service douanier du ressort.
+3- Flux d’avitaillement en carburants dédouanés à partir des bacs de stockage HTT à destination
+des sociétés installées dans la zone d’accélération industrielle, des navires et ferrys
+Le régime à utiliser dans ce cas est l’exportation préalable moyennant la souscription d’une déclaration
+définitive (code régime 079) avec annexion des documents nécessaires (facture et/ou bon de livraison).
+--- Page 4 (parsed text) --Page 3
+4- Flux d’avitaillement des EPPS par cabotage à partir des bacs de stockage HTT
+Ce type de flux s’applique aux carburants non dédouanés à partir des bacs de stockage HTT, acheminés
+par voie maritime (cabotage) depuis le port de Tanger-Med vers le port de destination et destinés à
+l’approvisionnement des entrepôts érigés en EPPS.
+La procédure à observer est comme suit:
+ Transfert des carburants depuis le port de Tanger-Med vers celui de destination:
+Souscription d’une déclaration de cabotage (code régime 003: transport maritime intérieur),
+appuyée des documents exigibles (facture et/ou bon de livraison);
+ Formalités de dédouanement au bureau de destination: après arrivée du produit, il sera
+procédé comme suit:
+Souscription d’une déclaration d’EPPS (code régime 037) avec imputation, le cas échéant, d’un
+engagement d’importation pour permettre le règlement financier du fournisseur;
+Au cas où il s’agit d’une opération de revente directe au profit d’une société confrère avec
+règlement financier du fournisseur étranger par le cédant, il sera procédé à la souscription
+simultanée de deux déclarations:
+ L’une sous le régime d’admission temporaire (code régime 332: autres AT) souscrite par le
+cédant en dispense de caution et avec imputation d’un engagement d’importation pour
+permettre le règlement financier du fournisseur étranger;
+ L’autre d’entrepôt en suite de RED (code régime 081) souscrite par le client-cessionnaire, en
+décharge du compte d’admission temporaire concerné.
+ Régularisation des comptes d’EPPS: la régularisation des comptes d’EPPS (codes régime 037
+ou 081) s’effectuera par la suscription de déclaration d’apurement en fonction de la
+destination (exportation, mise à la consommation …etc. ) avec indication, le cas échéant, du
+code franchise approprié en cas d’approvisionnement des secteurs détaxés.
+5- Flux des carburants destinés au Palais Royal et aux missions diplomatiques
+Le régime à utiliser est l’exportation préalable dès lors que ces bénéficiaires s’approvisionnent auprès
+des stations-service en carburants dédouanés.
+La procédure applicable pour le cas d’espèce est comme suit:
+Souscription simultanée par le bénéficiaire cessionnaire de deux déclarations, l’une de cession
+exportation préalable en dispense de caution (code régime 084) appuyées des justificatifs
+nécessaires ouvrant droit à la franchise (Bon de Franchise …etc. ) et l’autre de mise à la
+consommation en suite d’admission temporaire (code régime 044) venant en décharge du
+compte de cession créé;
+La compensation s’effectuera moyennant la souscription par le cédant de déclarations
+d’importation en compensation d’exportation préalable, souscrites sous le code régime
+approprié (020 ou 021), avec imputation des comptes d’avoir créés.
+NB: A titre de facilité, notamment lorsque les cessionnaires sont dans l’incapacité de souscrire les
+déclarations d’exportation préalable indirecte (code régime 084), l’opération peut être concrétisée
+moyennant la souscription de déclarations d’exportation préalable définitive (régime 079) souscrites
+par le cédant.
+--- Page 5 (parsed text) --Page 4
+6- Compensation d’exportation préalable: taux d’incertitude
+En application de la circulaire n° 5460/312 du 12/08/2014, il a été institué, de concert avec le
+Groupement des Pétroliers du Maroc (GPM), un taux d’incertitude (+/-t%) pour les importations en vrac
+des produits pétroliers.
+Le taux d’incertitude susvisé est appliqué aux déclarations d’importation par mise à la consommation
+ainsi qu’en matière de compensation d’exportation préalable (codes régime 020 ou 021) des produits
+pétroliers.
+Pour les déclarations souscrites sous le régime de compensation d’exportation préalable, l’écart
+constaté entre les éléments quantitatifs reconnus par le service et ceux déclarés sera traité dans la
+limite du taux d’incertitude précité sans suites contentieuses avec redressement des imputations des
+comptes d’avoir et:
+
+sans paiement des droits et taxes en cas de déficit;
+
+avec paiement des droits et taxes ou prise en charge sous RED en cas d’excédent.
+7- Tenue des écritures
+Pour les besoins de suivi et de contrôle, les opérations portant sur les produits pétroliers objet des flux
+susvisés doivent être inscrites dans la comptabilité matières des sociétés concernées par procédé
+informatique. Cette comptabilité doit faire ressortir, notamment:
+ La nature, les valeurs et les quantités des produits pétroliers placés sous régimes suspensifs
+(entrepôt, admission temporaire, transit, exportation préalable…etc. );
+ La nature, les valeurs et les quantités des produits pétroliers admis en apurement desdits
+régimes.
+Cette comptabilité matières doit être présentée à première réquisition des agents de l’administration.

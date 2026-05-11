@@ -1,0 +1,56 @@
+--- Page 1 (parsed text) --Rabat, le 03 Octobre 2017
+Circulaire n°5712/300
+OBJET: Confirmation par voie informatique de l’acte de cautionnement bancaire pour la
+garantie des opérations réalisées sous régimes économiques en douane.
+Poursuivant son processus de dématérialisation des formalités douanières, il a paru utile de
+mettre en place une procédure adaptée pour le cautionnement bancaire des opérations
+initiées sous les régimes économiques en douane.
+A cet effet, une nouvelle procédure a été mise en place, de concert avec les organismes
+bancaires, permettant à ces derniers de confirmer, par voie informatique, leurs engagements
+vis-à-vis de l’Administration pour la garantie des opérations réalisées sous lesdits régimes.
+Ainsi, la matérialisation jusqu’à présent de l’engagement de la banque caution par la signature
+sur la version papier de la déclaration sera remplacée par sa validation électronique sur le
+système BADR. Cette procédure est consentie dans le cadre d’une convention signée entre la
+douane et la banque caution concernée.
+Pour ce faire, le module « Dédouanement » sur BADR a été enrichi par de nouvelles
+fonctionnalités permettant aux banques d’accéder aux déclarations de leurs clients, de valider
+leurs cautionnements et de consulter la situation des comptes qu’elles cautionnent. Un guide
+d’utilisation intitulé « Validation électronique de la caution bancaire » est mis à la disposition
+des banques sur le site Internet de l’Administration www. douane. gov. ma, onglet
+« Entreprises » à travers le lien « Procédures et guides liés au dédouanement en ligne ».
+L’accès du banquier à ce système s’effectue moyennant un certificat électronique délivré par
+Barid Al-Maghrib en plus d’un login et d’un mot de passe attribués selon la procédure intitulée
+« Attribution et retrait des codes d’accès des banques au système BADR », accessible à travers
+le même lien ci-dessus.
+Il est à préciser que les opérations, dont la caution a été validée par l’agence bancaire
+concernée, sont identifiées au niveau du système BADR à travers un message de confirmation.
+En cas de non validation par la banque, un message bloquant l’opération de dépôt physique
+est affiché à l’agent douanier (voir le détail fourni en annexe).
+SGIA/Diffusion/03-10-17/11h30
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Cette nouvelle procédure deviendra obligatoire pour l’ensemble des banques, à partir du
+16 octobre 2017.
+A compter de cette date et jusqu’à ce qu’il en soit décidé autrement, les banques
+continueront à apposer leurs signatures sur le formulaire papier de la DUM dans les
+conditions d’usage.
+Durant cette phase transitoire, les cautions bancaires engagées à même les déclarations, au
+titre des opérations sous régimes économiques, seront contrôlées selon la procédure actuelle
+d’agrément des cautions par les receveurs.
+Toute difficulté d’application rencontrée sera signalée à l’Administration Centrale sous le
+timbre de la présente.
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --A N N E X E A LA CIRCULAIRE N°5712/300 DU 03 OCTOBRE 2017
+1. Historique de la déclaration
+Dès la validation de la caution par la banque, l’historique de la déclaration est enrichi par
+l’évènement en question précisant la date, l’intervention (Valider CB) et le numéro de CNI du
+banquier ayant validé la caution:
+2. Consultation de la déclaration
+La validation de la caution par la banque permet de marquer le statut de la caution VALIDEE
+(onglet CAUTION):
+[Note: 2 image(s) found on this page. ]
+--- Page 4 (parsed text) --3. Dépôt physique de la déclaration
+Au dépôt de la déclaration, un message est affiché à l’agent douanier l’informant que la
+caution a été validée par la banque:
+En cas de non validation par la banque, un message bloquant l’opération de dépôt est
+affiché à l’agent douanier:
+[Note: 2 image(s) found on this page. ]

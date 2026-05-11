@@ -1,0 +1,61 @@
+--- Page 1 (parsed text) --Rabat, le 08/04/2026
+CIRCULAIRE N° 6731/232
+Objet: Classement dans le tarif du droit d’importation d’un robot humanoïde dénommé
+"MORNINE" et d’un robot animat dénommé "AIMOGA".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation d’un robot
+humanoïde dénommé "MORNINE" et d’un robot animat dénommé "AIMOGA".
+Description et utilisation
+I.
+MORNINE
+Il s’agit d’un robot humanoïde bipède conçu pour ressembler et agir comme un humain, avec un
+visage en silicone, capable de parler plusieurs langues grâce à un grand modèle de langage (LLM)
+intégré, servant de consultant automobile dans les showrooms, expliquant les voitures, guidant les
+clients et même servant des boissons, tout en utilisant une vision par ordinateur et des gestes pour
+interagir naturellement, avec l'objectif à terme d'assister dans les tâches domestiques et de soins.
+ Caractéristiques principales
+
+Apparence humanoïde: Conception biomimétique avec une tête et un corps qui imitent les
+mouvements humains, y compris des mains;
+
+Intelligence Artificielle (IA): Propulsé par un LLM et des modèles multimodaux pour
+comprendre le langage naturel, les gestes et les expressions faciales;
+
+Interaction naturelle: Peut converser, répondre aux questions, suivre des instructions et
+même exprimer des émotions via son visage en silicone;
+
+Capacités avancées: Intègre la vision par ordinateur, la reconnaissance vocale et des
+systèmes de navigation pour se déplacer et percevoir son environnement;
+
+Applications: Actuellement utilisé comme vendeur de voitures mais peut être utilisé selon le
+besoin pour des rôles de compagnon ou d'assistant domestique;
+
+Utilise une combinaison de vision, de parole et d'autres capteurs pour interpréter les
+commandes et l'environnement;
+
+Possède un système moteur bionique et du matériel de qualité automobile pour une marche
+bipède stable.
+II.
+AIMOGA
+Il s’agit d’un chien robot quadrupède conçu pour la compagnie, la sécurité et les tâches d'inspection.
+Il est doté d’un degré de liberté "DOF" égale à 13 lui permettant de se déplacer sur des terrains
+complexes et d’éviter les obstacles. Il est capable de monter des escaliers et de pénétrer dans des
+garages pour des missions de patrouille.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --Ce robot a des fonctions interactives, notamment, le positionnement de la source sonore, la
+reconnaissance des commandes vocales et la réalisation de tours comme la danse et la poignée de
+main. Il dispose d'une charge utile maximale de 5 kg et d'une autonomie allant jusqu'à 6, 48 km. Il est
+conçu pour la surveillance 24h/24 et 7j/7 et l'accompagnement à domicile.
+Les robots MORNINE et AIMOGA sont des robots à usages multiples programmés pour exécuter des
+tâches et des mouvements, ils ont la faculté d'appréhender l'environnement dans lequel ils
+travaillent et d'analyser les informations ainsi obtenues afin de pouvoir modifier le comportement
+type pour s'adapter aux variations de ce milieu.
+Classement:
+De ce qui précède, Les robots en question peuvent être employés à des fonctions diverses et ne sont
+pas conçus pour une application particulière et partant, sont classés, par application des RGI 1 et 6 à
+la sous-position 8479. 89 du Système harmonisé, rubrique 84. 79. 89. 70. 00 du tarif du droit
+d’importation.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/08-04-26/16h00
+[Note: 1 image(s) found on this page. ]

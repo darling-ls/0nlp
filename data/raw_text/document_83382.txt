@@ -1,0 +1,258 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 6168/312
+Objet: Dématérialisation de la déclaration provisionnelle.
+Réf. : Circulaires n° 5885/312 du 26/12/2018 et n° 5460/312 du 12/08/2014.
+La circulaire n° 5885/312 du 26/12/2018 relative à la dématérialisation du circuit de dédouanement
+a prévu une procédure provisoire pour le cas des déclarations provisionnelles dans l’attente d’une
+informatisation plus aboutie.
+A présent, il a été décidé de dématérialiser ce type de déclarations selon les modalités ci-après et
+le mode opératoire repris en annexe I.
+I.
+Enregistrement
+La déclaration provisionnelle est enregistrée en deux étapes:
+Enregistrement de la DUM initiale qui constitue l’ouverture du dossier provisionnel;
+Enregistrement des sous-DUM qui couvrent les différents voyages (envois/arrivages) réalisés
+dans le cadre de la déclaration provisionnelle.
+1. DUM initiale
+La DUM initiale est créée sur le système informatique « BADR » en sélectionnant le type « Nouvelle
+Provisionnelle » avec indication des codes SH exacts et des données quantitatives prévisionnelles
+(poids, valeur, etc. ).
+La DUM initiale est signée électroniquement par le déclarant conformément aux dispositions de
+l’article 203 bis du code des douanes et impôts indirects et selon les modalités prévues par la
+circulaire n° 5885/312 du 26/12/2018.
+2. Sous-DUM
+La création des sous DUM doit se faire dans le cadre du dossier provisionnel ouvert par la DUM
+initiale correspondante. Pour ce, le déclarant doit indiquer la référence de la DUM initiale sur le
+système informatique qui restitue automatiquement les champs relatifs aux onglets « Entête » et
+« Articles ». Les autres énonciations, notamment, la quantité et la valeur des marchandises
+relatives au voyage considéré, sont complétées par le déclarant.
+Pour les opérations d’importation, chaque sous-DUM doit obligatoirement pré-apurer une ligne de
+déclaration sommaire. Les mêmes règles de gestion du pré-apurement appliquées aux DUM
+normales s’appliquent aux sous-DUM.
+Les sous DUM enregistrées porteront des références spécifiques associées à la référence de la DUM
+initiale.
+Le chargement des documents à joindre et la signature électronique de la sous DUM sont effectués
+selon les modalités arrêtées par la circulaire précitée. La DUM initiale et les sous DUM avec leurs
+documents joints constituent un document unique et indivisible.
+Rabat, le 12 Mars 2021
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --II.
+Modification et annulation
+La rectification et l’annulation de la DUM initiale et des sous-DUM peuvent être autorisées dans les
+conditions prévues par les articles 78 et 78 bis du code des douanes et impôts indirects.
+Toutefois, sont annulées d’office, sans préjudice des suites contentieuses, les DUM initiales
+enregistrées et pour lesquelles aucune sous DUM n’a été enregistrée au terme du délai accordé
+par le service, qui ne peut excéder un mois.
+III.
+Contrôle des sous DUM
+Chaque sous DUM est traitée, à titre individuel, par le système informatique qui décide de sa
+cotation et du mode de contrôle qui lui sera réservé.
+Le contrôle des sous DUM se fait conformément à la réglementation en vigueur et notamment la
+circulaire n° 5885/312 du 26/12/2018.
+IV.
+Mainlevée
+Conformément aux dispositions de l’article 100 du code des douanes et impôts indirects,
+l’enlèvement des marchandises objet des sous DUM est conditionné par la délivrance, sur le
+système informatique, d’une mainlevée dans les conditions réglementaires en vigueur.
+V.
+Arrêt de la déclaration provisionnelle
+L’arrêt de la déclaration provisionnelle est la formalité par laquelle le déclarant clôture son dossier
+provisionnel arrêtant ainsi la possibilité d’enregistrement de sous DUM supplémentaires.
+A défaut d’arrêt de la déclaration provisionnelle par le déclarant dans le délai imparti, le système
+informatique procédera à la clôture automatique de cette déclaration, sans préjudice des suites
+contentieuses en vigueur.
+VI.
+Cas particuliers du régime de transit
+L’enregistrement de chaque sous DUM sous le régime de transit donnera lieu à l’ouverture d’un
+compte de transit qui sera géré à l’instar des comptes ouverts par des déclarations normales.
+Pour la garantie des droits et taxes suspendus, seules les facilités de cautionnement, hors caution
+mixte, seront acceptées. A cet effet, la DUM provisionnelle initiale doit être assortie du numéro de
+la décision d’octroi d’une facilité de cautionnement valide.
+Pour les besoins d’acheminement et en attendant la mise en œuvre d’une solution complètement
+digitale, les opérateurs auront la possibilité d’éditer une copie de la sous DUM annotée
+automatiquement de l’autorisation d’acheminement et des scellés apposés.
+Par ailleurs et compte tenu de l’importance du facteur temps dans les schémas de production en
+flux tendu, l’administration peut autoriser les opérateurs éligibles à bénéficier d’une procédure de
+transit simplifiée aux conditions ci-après:
+Usage du code SH « 9999999999 », sauf pour les articles soumis à une réglementation
+particulière, pour l’enlèvement des marchandises sous couvert des sous DUM avec indication
+des données globales du lot dédouané (notamment la valeur et le poids);
+Les sous DUM seront annexées des factures y afférentes avec possibilité de leur remplacement,
+en cas de documents volumineux, par un document récapitulatif;
+Pour le cas de sous-DUM avec plusieurs fournisseurs ou clients, le déclarant peut être dispensé
+de joindre les factures à condition de renseigner leurs numéros ainsi que les noms des
+fournisseurs/clients concernés, au niveau de la rubrique « Facture » de l’onglet « Entête de la
+DUM » et ce, selon le mode opératoire repris en annexe II; demeurant entendu que le service
+douanier aura la latitude d’exiger la présentation des factures en cas de besoin;
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --Dans un délai de quarante-huit (48) heures de la délivrance de la mainlevée de la sous DUM, le
+déclarant est tenu de procéder à sa rectification, sans autorisation ni suites contentieuses, en
+renseignant les données exactes des articles enlevés selon leurs codes NGP réels.
+Cette procédure simplifiée sera accordée, sur demande à déposer auprès du service des
+procédures et des méthodes, aux opérateurs justifiant d’une fréquence minimale de cinq (05)
+voyages par jour et/ou dont les sous DUM portent généralement sur plus de dix (10) articles.
+VII.
+Redevance informatique
+La tarification de la redevance informatique pour ce type de déclaration demeure inchangée.
+**********
+Le nouveau circuit de la déclaration provisionnelle sera obligatoire à compter du 26 mars 2021,
+pour les opérations réalisées sous les régimes de transit ainsi que tous les régimes ne donnant pas
+lieu à ouverture d’un compte de régime économique en douane. Les régimes non éligibles pour le
+moment à cette nouvelle procédure continuent de bénéficier du mode provisionnel selon le circuit
+et les règles actuellement en vigueur.
+Aussi, les opérateurs sont-ils invités à prendre leurs dispositions pour réussir le basculement vers
+cette nouvelle procédure qui peut être activée, dès à présent, pour ceux qui le demandent.
+Par ailleurs, il importe de rappeler que la circulaire n° 6037/312 du 17/04/2020 a mis en place, à
+titre d’alternative, une nouvelle formule de déclaration simplifiée, adaptée à la spécificité de
+certaines opérations bénéficiant, par le passé, du mode provisionnel.
+De même, l’administration met à la disposition des opérateurs économiques qui le demandent, un
+mode de souscription des déclarations provisionnelles par Echange de Données Informatisées
+(EDI), leur permettant une meilleure intégration avec leurs systèmes d’information internes.
+Enfin, il demeure entendu que les modalités de fonctionnement de ce type de déclarations,
+arrêtées par circulaire n° 5460/312 du 12/08/2014, sont toujours en vigueur et que toute utilisation
+de la déclaration provisionnelle pour des opérations non éligibles à cette facilité expose son auteur
+aux suites contentieuses en vigueur.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/12-03-21/18h00
+[Note: 2 image(s) found on this page. ]
+--- Page 4 (parsed text) --Annexe I à la circulaire n° 6168/312 du 12/03/2021
+MODE OPERATOIRE
+NOUVELLE DUM PROVISIONNELLE
+1.
+Ajout d’une nouvelle facilité intitulée « Nouvelle Provisionnelle »:
+Le service douanier compétent procède, pour les cas éligibles, à l’ajout de la facilité
+« Nouvelle Provisionnelle » au niveau du menu « Opérateurs: Accès aux facilités »:
+Le délai accordé pour l’arrêt de la nouvelle provisionnelle doit être exprimé en jours.
+Autrement, un message d’erreur s’affiche:
+[Note: 2 image(s) found on this page. ]
+--- Page 5 (parsed text) --Seuls les opérateurs disposant de la facilité précitée peuvent enregistrer une déclaration
+« Nouvelle Provisionnelle ». Autrement, un message de rejet s’affiche lors de la validation
+ou de l’enregistrement de leurs DUMs:
+Les opérateurs déjà autorisés à utiliser la facilité « déclaration provisionnelle » auront
+automatiquement accès à la facilité « Nouvelle Provisionnelle ».
+Il est à noter que l’opérateur doit disposer aussi d’une autre facilitée intitulée « NGP
+générique pour la nouvelle provisionnelle », nouvellement ajoutée, pour qu’il puisse
+déclarer au niveau de ses DUM provisionnelles des NGP génériques. Autrement, un
+message d’erreur s’affiche lors de la validation ou l’enregistrement de ses DUMs:
+[Note: 2 image(s) found on this page. ]
+--- Page 6 (parsed text) --2.
+Le nouveau circuit de la déclaration provisionnelle sera appliqué progressivement.
+Autrement, un message d’erreur sera affiché pour les cas de régimes non autorisés:
+3.
+La nouvelle DUM provisionnelle est composée des déclarations suivantes:
+ La nouvelle DUM provisionnelle initiale:
+Elle formalise l’ouverture du dossier de la nouvelle provisionnelle. Pour créer une nouvelle
+DUM provisionnelle initiale, l’utilisateur est invité à sélectionner la catégorie intitulée
+« Nouvelle Provisionnelle » sur l’écran ci-dessous:
+Après clic sur le bouton « Confirmer », le système affiche l’écran suivant:
+[Note: 4 image(s) found on this page. ]
+--- Page 7 (parsed text) --Cette DUM initiale est composée de cinq onglets: Entête de la DUM, Caution, Articles,
+Documents et Info. Leur contenu est le même que celui d’une déclaration normale, à
+l’exception des points ci-dessous:
+o L’affichage du type « DUM nouvelle provisionnelle (initiale) »
+o Les cautions bancaires et mixtes ne sont plus offertes
+Lors de l’enregistrement de la nouvelle DUM provisionnelle initiale, le système lui attribue
+une référence définitive qui sera utilisée lors de l’enregistrement des sous DUMs:
+ Plusieurs nouvelles sous-DUM provisionnelles:
+Chaque envoi/arrivage doit faire l’objet d’une sous DUM correspondante.
+Le contenu des onglets est le même que celui d’une DUM normale.
+ Pour créer la 1ère sous-DUM, l’utilisateur est invité à:
+ Sélectionner la catégorie Nouvelle Provisionnelle
+ Cocher la case sous DUM
+ Introduire la référence de la déclaration nouvelle provisionnelle
+(attribuée suite à l’enregistrement de la DUM initiale)
+Le clic sur le bouton Confirmer permet au système de restituer quelques informations
+relatives à la déclaration à partir des éléments de la DUM initiale à charge pour l’utilisateur
+de compléter ces informations:
+[Note: 2 image(s) found on this page. ]
+--- Page 8 (parsed text) --Seul l’onglet « Caution » n’est pas restitué par le système. En effet, la caution de la sousDUM est celle de la DUM initiale.
+Après enregistrement, le système attribue une référence spécifique à la sous-DUM.
+L’encadré en rouge de l’écran ci-dessus permet de visualiser l’association de la DUM initiale
+à la sous DUM.
+Cette association est aussi constatée sur le format PDF de la sous DUM en question (voir
+encadré en rouge de l’écran ci-après):
+ La création des autres sous DUM peut être effectuée par copie de la 1ère
+sous DUM. Pour cela, l’utilisateur est invité à:
+ Sélectionner la catégorie Nouvelle Provisionnelle
+ Cocher la case sous DUM
+ Introduire la référence de la déclaration nouvelle provisionnelle
+(attribuée suite à l’enregistrement de la DUM initiale)
+ Sélectionner la case « Création à partir d’une déclaration existante »
+ Introduire la référence de la 1ère sous DUM nouvelle provisionnelle
+[Note: 3 image(s) found on this page. ]
+--- Page 9 (parsed text) --Après enregistrement, le système attribue une référence spécifique à la nouvelle sousDUM:
+Il est à noter que:
+ Le circuit des sous DUM provisionnelles est le même que celui d’une DUM normale
+(Cotation, contrôle, liquidation, etc…).
+ La redevance informatique est appliquée uniquement pour la 1ère sous DUM.
+4.
+Ajout d’une nouvelle liste intitulée « Sous DUM » permettant la consultation de
+l’ensemble des sous DUM provisionnelles associées à une nouvelle DUM provisionnelle
+initiale:
+Le système affiche l’écran suivant invitant l’utilisateur à renseigner la référence de la
+nouvelle DUM provisionnelle:
+Le clic sur le bouton « valider » permet d’afficher la liste des nouvelles sous DUM
+provisionnelles associées à la nouvelle DUM provisionnelle initiale en question:
+[Note: 5 image(s) found on this page. ]
+--- Page 10 (parsed text) --Cette liste contient les informations suivantes:
+ Référence de la sous DUM. Le clic dessus permet de consulter les énonciations de la
+nouvelle sous DUM provisionnelle en question
+ Date de création
+ Date d’enregistrement
+ Numéro de la version courante
+Cette liste est aussi visualisée au niveau du menu contextuel lors de la consultation de la
+DUM initiale ou des sous DUMs qui lui sont associées:
+Le clic dessus permet de consulter la liste des sous-DUMs associées à la DUM initiale en
+question au niveau de l’onglet « Info »:
+5.
+Enrichissement du résultat de la liste des déclarations par l’ajout d’une colonne
+« DUM initiale (nouvelle provisionnelle) ».
+[Note: 3 image(s) found on this page. ]
+--- Page 11 (parsed text) --6.
+L’arrêt de la nouvelle DUM initiale provisionnelle se fait à travers la fonctionnalité
+« Arrêter une DUM provisionnelle » du menu DEDOUANEMENT:
+L’écran ci-après s’affiche invitant l’utilisateur à renseigner la référence de la DUM initiale:
+Après clic sur le bouton, le système restitue la liste des sous DUM associées à la
+DUM initiale en question:
+L’arrêt n’est pas permis si une sous DUM contient toujours le code NGP générique
+9999999999.
+Cette liste comprend les informations suivantes:
+ Référence de la sous DUM. Le clic dessus permet de consulter les énonciations de la
+nouvelle sous DUM provisionnelle en question
+ Date de création
+ Date d’enregistrement
+ Numéro de la version courante
+Le clic sur le lien
+du menu contextuel permet de conclure l’opération:
+[Note: 6 image(s) found on this page. ]
+--- Page 12 (parsed text) --Le statut Arrêt est modifié de « Non » à « Oui » lors de la consultation de la DUM initiale
+en question:
+Le clic sur le lien « RECAPITULATIF », encadré en vert dans l’écran ci-dessus, permet de
+restituer la liste des sous DUMs liées à la DUM initiale en question après arrêt:
+A noter que cette liste est vide avant l’arrêt de la DUM initiale:
+Remarques générales:
+La modification d’une DUM après obtention de la mainlevée est acceptée d’office dans le
+cas où ses NGP génériques ont été remplacées par des NGP définitives même si le
+compte RED de transit associé est déjà déchargé.
+La nouvelle version modifiée par le déclarant, après obtention de la mainlevée, est acceptée
+d’office dans le cas où ses NGP génériques ont été remplacées par des NGP définitives. Les
+autres modifications nécessitent l’appréciation du service.
+Affichage de la référence de la DUM initiale sur le sommier du compte de transit.
+[Note: 3 image(s) found on this page. ]
+--- Page 13 (parsed text) --Annexe II à la circulaire n° 6168/312 du 12/03/2021
+Mode opératoire pour la déclaration des factures
+Au niveau de la rubrique « Facture » de l’onglet « Entête de la DUM », l’opérateur est invité
+à renseigner les factures associées à sa sous-DUM:
+Le clic sur le bouton « Ajouter » permet de renseigner obligatoirement les éléments
+encadrés en rouge ci-après:
+[Note: 2 image(s) found on this page. ]
+--- Page 14 (parsed text) --Le clic sur le bouton « Confirmer » permet d’alimenter la liste des factures:
+Les autres factures sont à saisir selon le même procédé.
+A noter qu’avant la signature de la déclaration:
+Une facture déjà ajoutée peut être modifiée en cliquant sur son numéro d’ordre dans
+la liste des factures. Les données sont restituées et l’utilisateur peut introduire les
+modifications nécessaires. Le clic sur le bouton « Confirmer » permet de valider ces
+modifications.
+Une facture déjà ajoutée peut-être supprimée en cliquant sur son numéro d’ordre
+dans la liste des factures. Les données sont restituées. Le clic sur le bouton
+« Supprimer » permet d’ignorer la facture en question.
+[Note: 1 image(s) found on this page. ]

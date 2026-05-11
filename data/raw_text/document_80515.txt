@@ -1,0 +1,39 @@
+--- Page 1 (parsed text) --Rabat, le 25 décembre 2019
+CIRCULAIRE N° 5995/300
+Objet: Dématérialisation du « Bon à Délivrer ».
+Réf. : Circulaire n° 5885/312 du 26/12/2018.
+Conformément aux dispositions de l’article 67 du code des douanes et impôts indirects et de
+ses textes d’application, la circulaire citée en référence a prescrit au déclarant d’annexer à sa
+déclaration en détail le titre de transport de la marchandise importée, établi par le
+transporteur au nom de l’importateur ou à son ordre.
+Au plan pratique, le connaissement est déposé assorti d’un « Bon à délivrer », établi par le
+transporteur, indiquant, outre les éléments d’identification des marchandises concernées, le
+destinataire autorisé à enlever lesdites marchandises.
+Le bon à délivrer (BAD) est remis également par les exploitants de MEAD et les
+commissionnaires de transport aux destinataires des marchandises auxquelles il se rapporte.
+Dans la perspective de simplification de cette procédure, un nouveau circuit de création et
+d’échange électroniques des BAD via « Portnet » a été implémenté et testé de concert avec
+la profession.
+Le nouveau circuit permet la création automatique des BAD émis, à partir des déclarations
+sommaires et états de dépotage des marchandises, par les opérateurs ci-après:
+les agents maritimes;
+les commissionnaires de transport autorisés (Freight Forwarders);
+les exploitants de MEAD.
+En considération des résultats concluants des tests effectués, il a été décidé de généraliser
+progressivement le circuit dématérialisé du BAD et ce, à compter du 03 février 2020.
+A partir de cette date, les BAD émis par les opérateurs précités, doivent être impérativement
+transmis via le canal d’échange mis en place.
+La mesure concerne, dans une première étape, l’échange du BAD couvrant les envois objet:
+des déclarations sommaires et états de dépotage (envois manifestés) enregistrés dans
+tous bureaux portuaires à l’exception du bureau de Tanger-Med;
+des états de dépotage enregistrés par les exploitants de MEAD.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --Il demeure entendu qu’à terme, la délivrance de la mainlevée des déclarations en détail
+couvrant les envois concernés sera subordonnée à la réception du BAD électroniquement via
+« PortNet ».
+Enfin et jusqu’à ce qu’il soit décidé autrement, le titre de transport continue à être
+téléchargé et annexé à la déclaration en détail à laquelle il se rapporte.
+Toute difficulté d’application doit être signalée à l’administration sous le timbre de la
+présente.
+SGIA/Diffusion/25-12-19/14h20
+[Note: 1 image(s) found on this page. ]

@@ -1,0 +1,254 @@
+--- Page 1 (parsed text) --Rabat, le 12/04/2018
+CIRCULAIRE N° 5782/411
+Objet: Badges d’accès aux bureaux des douanes
+Réf: Circulaire n° 4710/212 du 25/06/2001
+Dans l’objectif d’assurer une meilleure gestion des flux des usagers de l’Administration, il
+a été procédé, par circulaire susvisée, à la mise en place d’un système de badges
+cartonnés permettant, à certaines catégories d’opérateurs, d’accéder aux bureaux des
+douanes.
+Poursuivant les efforts de modernisation, il a été décidé de refondre la procédure de
+délivrance des badges et de lui consacrer une application informatique dédiée.
+L’objet de la présente circulaire est d’exposer cette nouvelle procédure:
+I. Types de badges
+Il existe six types de badges codifiés comme suit:
+Type Badge
+Bénéficiaire
+01
+Personnes habiles des sociétés de transit (transitaires)
+02
+Gérants des sociétés de transit (transitaires)
+03
+Mandataires des sociétés de transit (transitaires)
+04
+Gérants des sociétés opérant en douane
+05
+Mandataires des sociétés ou des groupements de sociétés (opérant en douane)
+09
+Porteurs de badges provisoires
+Il est à préciser que les personnes sollicitant des informations dans les bureaux
+douaniers, ne sont pas concernées par cette procédure. Des badges « Visiteur » leur
+seront délivrés au niveau de l’accueil de l’Administration, contre présentation d’une
+pièce d’identité.
+SGIA/Diffusion/12-04-18/11h00
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --II. Format du badge
+A l’exception des badges provisoires du type « 09 », les autres badges reprennent les
+informations suivantes (voir modèles de badges au niveau de l’annexe 1):
+ La raison sociale de l’opérateur;
+ Une bande de couleur bleue ou verte, respectivement pour les
+transitaires et les sociétés qui opèrent en douane;
+ Les Nom et prénom, qualité et photo du bénéficiaire;
+ La date d’expiration du badge;
+ Les codes des pouvoirs attribués;
+ La référence du badge;
+ Le code QR de sécurisation du badge.
+Les badges de type « 09 », destinés aux porteurs de badges provisoires, sont édités au
+format A4, et reprennent les mêmes informations que ci-dessus. (voir modèle en
+annexe 2).
+III. Procédure de délivrance des badges
+1- Lieu de dépôt de la demande
+Les demandes de badges doivent être déposées auprès du bureau douanier le plus
+proche du tribunal où a été créé le RC et le cas échéant, le lieu de domiciliation pour les
+« RC particuliers ».
+Il y a lieu de signaler que seuls les représentants des opérateurs insérés dans BADR
+pourront bénéficier d’un Badge.
+2- Documents à fournir
+ Une demande écrite sur papier entête et selon le formulaire joint en
+annexe 3. Cette demande doit être signée par le gérant ou le représentant
+légal de l’opérateur ainsi que par le bénéficiaire du badge;
+ Une photo d’identité récente (format CNI) du bénéficiaire (de
+préférence sous format numérique);
+ Une photocopie de la CNI du bénéficiaire.
+Pour les mandataires et personnes habiles (Badges de type autre que 02, 04 et 09), il y a
+lieu de compléter le dossier par:
+ Une attestation d’affiliation à la CNSS datant de moins de trois mois
+pour les demandeurs n’ayant pas atteint la limite d’âge pour la retraite;
+ Une attestation sur l’honneur légalisée pour les demandeurs ayant
+atteint la limite d’âge pour la retraite (voir annexe 4).
+--- Page 3 (parsed text) --3- Durée de validité d’un badge
+La durée de validité d’un badge est limitée à 3 ans, sauf pour le type 09 (badges
+provisoires) qui a une durée maximale de trois mois renouvelable une seule fois.
+IV. Dispositions diverses
+Les mandataires de groupements d’opérateurs doivent déposer une demande de badge
+par opérateur et ce, de manière simultanée.
+Toute personne disposant déjà d’un badge « actif » ou « échu », ne peut obtenir un
+autre qu’après restitution de l’ancien. En cas de vol ou de perte du badge, le titulaire
+est tenu d’informer l’Administration sans délai pour qu’il soit procédé à sa
+désactivation. Il doit, pour cela, produire une déclaration de perte ou de vol, délivrée
+par les autorités compétentes. Il pourra, alors, bénéficier d’un nouveau badge selon la
+procédure en vigueur.
+Les bénéficiaires sont tenus de porter visiblement le badge délivré par
+l’Administration pour l’accès et pendant toute la durée de leur présence dans les
+bureaux douaniers.
+Les badges déjà délivrés selon l’ancienne procédure, resteront valables jusqu’au
+31/07/2018.
+Les termes de la circulaire visée en référence sont rapportés.
+[Note: 1 image(s) found on this page. ]
+--- Page 4 (parsed text) --Annexe1
+Modèles de badges
+Recto du Modèle de type (01): Personne habile
+Verso de tous les Modèles de Badge
+des sociétés de transit (transitaires)
+Recto du Modèle de type (02): Gérants
+des sociétés de transit (transitaires)
+Recto du Modèle de type (03): Mandataires
+des sociétés de transit (transitaires)
+NOM PRENOM
+Gérant
+Expire le 03/01/2021
+NOM PRENOM
+Mandataire
+Expire le 03/01/2021
+Recto du Modèle de type (04): Gérants
+des sociétés opérant en douane
+NOM PRENOM
+Gérant
+Expire le 03/01/2021
+Recto du Modèle de type (05): Mandataires
+des sociétés ou des groupements de sociétés
+(opérant en douane)
+NOM PRENOM
+Mandataire
+Expire le 03/01/2021
+Raison Sociale
+A B C D
+E F
+Raison Sociale
+A
+B
+C
+D
+E F
+A
+C
+A
+C
+Raison Sociale
+Raison Sociale
+180200001
+180400001
+180300001
+180500001
+180100001
+AVERTISSEMENT:
+- Ce badge est strictement personnel et ne peut être
+utilisé que pour l’accès aux bureaux douaniers;
+- Ce badge doit être porté visiblement pendant
+toute la durée de la présence dans les bureaux
+douaniers;
+- En cas de perte de ce badge, aviser sans délai
+l’Administration des Douanes et Impôts Indirects;
+- En cas de cessation d’activité ou au cas où le
+badge objet de perte ou de vol est retrouvé, il doit
+être remis immédiatement à l’Administration.
+180100001
+NOM PRENOM
+Personne Habile
+Expire le 03/01/2021
+A B C D
+180100001
+Raison Sociale
+[Note: 41 image(s) found on this page. ]
+--- Page 5 (parsed text) --Annexe2
+Modèle de badge provisoire
+Annexe3
+« Référence du Badge »
+« Raison sociale »
+Nom:
+Prénom:
+Identifiant:
+Expire le JJ/MM/AAAA
+Code
+Pouvoir
+Déposer auprès des services douaniers les déclarations et les documents y annexés, ainsi que tout
+document demandé par le service ou produit à l'initiative de l'intéressé.
+□ A
+Assister aux opérations de vérification, procéder à toutes les manipulations réglementaires et à
+l'enlèvement des marchandises dédouanées.
+□ B
+Procéder à tout règlement auprès des services des douanes (droits et taxes, redevances, amendes, etc )
+et recevoir les quittances correspondantes.
+□ C
+□ D
+Recevoir tout document devant être restitué ou délivré par les services des douanes.
+Signer toutes déclarations, reconnaissances de consignation, tout engagement en rapport avec le
+dédouanement des marchandises, tous autres actes quelconques, tous bulletins de constatation, procèsverbaux et actes transactionnels par suite de contravention aux lois et règlements dont l'application
+incombe à l'Administration des Douanes et Impôts Indirects.
+□ E
+□ F
+Me représenter, agir et signer en mon nom en tout domaine où la procuration est prévue en vertu de
+l'article 67-1 du code des douanes.
+Nom et Prénom
+[Signature]
+AVERTISSEMENT:
+- Ce badge est strictement personnel et ne peut être utilisé que pour l’accès aux bureaux douaniers;
+- Ce badge doit être en possession du bénéficiaire pendant toute la durée de sa présence dans les bureaux
+douaniers;
+- En cas de perte de ce badge, aviser sans délai l’Administration des Douanes et Impôts Indirects.
+[Note: 4 image(s) found on this page. ]
+--- Page 6 (parsed text) --Formulaire de demande de badge
+Entête de l’opérateur
+GESTION DES BADGES
+Demande de badge
+Nom et Prénom du demandeur
+Nom et Prénom du gérant ou du
+représentant légal
+[Signature]
+[Signature et Cachet]
+Raison Sociale
+N° Agrément *
+NRC
+CRC
+Identifiant
+Nom
+Prénom
+Type**
+Numéro
+Code du
+Type de
+badge
+Durée de
+validité
+demandée***
+N° GSM
+Nombre de Pouvoirs à déléguer ****: ………………………
+Code
+Pouvoir
+□ A
+Déposer auprès des services douaniers les déclarations et les documents y annexés, ainsi que tout document
+demandé par le service ou produit à l'initiative de l'intéressé
+□ B
+Assister aux opérations de vérification, procéder à toutes les manipulations réglementaires et à l'enlèvement des
+marchandises dédouanées
+□ C
+Procéder à tout règlement auprès des services des douanes (droits et taxes, redevances, amendes, etc ) et recevoir
+les quittances correspondantes
+□ D
+Recevoir tout document devant être restitué ou délivré par les services des douanes
+□ E
+Signer toutes déclarations, reconnaissances de consignation, tout engagement en rapport avec le dédouanement
+des marchandises, tous autres actes quelconques, tous bulletins de constatation, procès-verbaux et actes
+transactionnels par suite de contravention aux lois et règlements dont l'application incombe à l'Administration des
+Douanes et Impôts Indirects
+□ F
+Me représenter, agir et signer en mon nom en tout domaine où la procuration est prévue en vertu de l'article 67-1
+du code des douanes
+1ère demande
+Autre (à préciser): ……. .. .. .. .. .. .. .. .. …………………. .
+* Servir le n° d’agrément s’il s’agit d’un transitaire.
+** Préciser le type de l’identifiant (n° de CNI; Passeport; Carte de séjour;
+Composteur ou Autres)
+*** La durée de validité à demander ne doit pas dépasser 3 ans sauf pour le type
+09 où la durée maximale est de trois mois renouvelable une seule fois.
+**** Au moins un pouvoir doit être demandé sauf pour le gérant ou le
+représentant légal qui auront, par défaut, tous les pouvoirs.
+--- Page 7 (parsed text) --Annexe 4
+Entête de l’opérateur
+Attestation sur l’Honneur
+Je soussigné………………………………………………………………, titulaire de la CNI n°……………. .…….
+Gérant ou représentant légal de ………………………………………………………, atteste et certifie
+par la présente que ……………………………………………………………………… né le…………………. .…,
+titulaire de la CNI n°………………………. . exerce son activité à mon service exclusif.
+Nom, Prénom et qualité du signataire (*)
+[Signature]
+(*) La signature doit être légalisée

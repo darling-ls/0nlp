@@ -1,0 +1,77 @@
+--- Page 1 (parsed text) --Rabat, le 18 Mai 2022
+CIRCULAIRE N° 6325/313
+Objet: BADR- Mise en service de la liquidation automatique des droits et taxes exigibles dans le
+cadre de la mise à la consommation en suite des régimes économiques en douane.
+Dans le cadre des actions visant l’automatisation du traitement des déclarations douanières, une
+nouvelle fonctionnalité a été mise en place permettant la liquidation automatique des droits et
+taxes exigibles au titre des opérations de mise à la consommation (MAC) en suite de régimes
+économiques en douane.
+La nouvelle fonctionnalité qui sera mise en service progressivement concernera, dans un premier
+temps, les opérations de MAC:
+ des marchandises importées sous RED et ce, aux conditions de taxation en vigueur le jour
+de leur importation initiale, sous réserve, toutefois, que les comptes RED imputés ne soient
+pas des comptes de cession ou des comptes afférents aux déclarations RED souscrites sous
+le mode provisionnel;
+ des déchets de fabrication.
+Aussi et conformément au mode opératoire en annexe, le déclarant doit choisir l’un des deux
+types de MAC offerts, à savoir ‘’MAC marchandise importée’’ ou ‘’MAC déchets de fabrication’’.
+En cas de ‘’MAC marchandise importée’’, le déclarant doit spécifier en outre le mode de taxation:
+‘’Conditions de taxation en vigueur le jour de l’importation initiale’’ ou ‘’Autres’’.
+A ce titre, il est rappelé que les conditions de taxation appliquées lors de la liquidation
+automatique de la MAC en suite de RED des marchandises importées, sont les suivantes:
+ Espèce tarifaire et quantité des marchandises admises sous le régime suspensif;
+ Quotités en vigueur au jour d’enregistrement de la déclaration d’admission des
+marchandises sous le régime suspensif;
+ Valeur à la date d’enregistrement de la déclaration d’admission des marchandises sous le
+régime suspensif.
+S’agissant des déchets de fabrication, leur mise à la consommation s’effectue aux conditions de
+l’article 114 du décret pris pour application du code des douanes et impôts indirects, comme suit:
+ Espèce tarifaire et quantité des déchets mis à la consommation;
+ Valeur des déchets au jour de la MAC;
+ Quotités en vigueur au jour de la MAC.
+Les autres types de MAC en suite de RED continueront de faire l’objet d’une liquidation manuelle
+et ce, en attendant leur automatisation.
+Toute difficulté d’application sera signalée à l’Administration centrale sous le timbre de la
+présente.
+SGIA/Diffusion/19-05-22/10h40
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la circulaire N° 6325/313
+Mode opératoire
+Ajout d’une rubrique intitulée « TYPE MAC » au niveau de l’entête de la DUM pour les régimes de mise à la
+consommation (MAC), à savoir: 040, 430, 044, 046, 047et 048.
+Celle-ci est offerte sous forme de liste déroulante qui comprend les valeurs suivantes: MAC marchandise
+importée et MAC déchets de fabrication.
+La sélection de cette information est obligatoire. Autrement, un message d’erreur s’affiche lors de la
+validation/signature de la DUM en question:
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) -- Cas du choix « MAC marchandise importée »
+Un nouveau champ intitulé « Mode taxation » s’affiche. Celui-ci est offert sous forme de liste déroulante qui
+comprend les valeurs suivantes: Conditions taxation jour importation initiale et Autres(*).
+(*): Autres: concernent les cas où la MAC continue d’être liquidée manuellement et dont les conditions de
+taxation combinent les éléments d’assiette de la DUM d’importation initiale et ceux de la MAC.
+Ci-après des exemples de ces cas:
+- MAC en suite d’ATPA, EPP ou l’EIF des produits compensateurs dans une proportion max de 15%;
+- MAC en suite de TSD des produits transformés;
+- MAC en suite d’AT sur la base de la valeur résiduelle.
+Le champ « MAC marchandise importée » doit être obligatoirement renseigné. Autrement, un message
+d’erreur s’affiche:
+La liquidation automatique des DUM souscrites sous les régimes précités se fait selon les conditions de
+taxation ci-dessous:
+NGP et quantités des marchandises admises temporairement et imputées par la MAC.
+Droits et taxes en vigueur au jour d’enregistrement de la déclaration d’admission des marchandises
+sous le régime suspensif.
+Valeur à la date d’enregistrement de la déclaration d’admission des marchandises sous le régime
+suspensif imputée par la MAC.
+Il est à préciser que la liquidation automatique n’est autorisée que pour les DUM souscrites sous les
+régimes MAC en question et qui répondent aux critères ci-dessous:
+Le mode de taxation spécifié lors de l’acquisition de la déclaration doit être « Conditions taxation
+jour importation initiale ».
+Les comptes RED imputés par la déclaration de la MAC ne doivent pas apurer d’autres comptes.
+Les déclarations apurées par la MAC ne doivent pas être des déclarations nouvelles provisionnelles.
+ Cas du choix « MAC déchets de fabrication »
+La liquidation automatique des DUM souscrites sous les régimes précités se fait selon les conditions de
+taxation ci-dessous:
+Espèce et quantité des déchets du jour de mise à la consommation
+Quotités en vigueur au jour de la MAC
+Valeur des déchets au jour de la MAC.
+[Note: 3 image(s) found on this page. ]

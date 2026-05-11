@@ -1,0 +1,27 @@
+--- Page 1 (parsed text) --Rabat, le 24 juillet 2025
+CIRCULAIRE N° 6668/232
+Objet: Classement dans le tarif du droit d’importation d’un article dénommé "Contrôleur d’accès
+MICROgarde".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation d’un
+article dénommé "Contrôleur d’accès MICROgarde".
+Description et utilisation:
+Il s’agit d’un dispositif de contrôle d’accès électronique présenté sous forme de boîtier
+métallique, destiné à la gestion de 1 à 2 portes, composé des éléments ci-après:
+Une alimentation électrique (100–240 V AC vers 13, 8 V DC),
+Une carte électronique équipée d’un microprocesseur,
+Des relais de commutation pour la commande,
+Des sorties relais pour la commande de dispositifs électriques (gâches, capteurs, boutons),
+Une interface de communication réseau (TCP/IP);
+Un compartiment avec batterie de secours et circuit de charge; et
+Un interrupteur d'autoprotection intégré au coffret.
+Ce dispositif assure la gestion et le contrôle des accès en permettant de commander et de
+surveiller les entrées et sorties au niveau d’une ou deux portes.
+Classement:
+De par sa composition et son utilisation, le contrôleur d’accès considéré est classé, par
+application des RGI 1 et 6, à la sous-position 8537. 10 du Système harmonisé, rubrique
+8537. 10. 00. 90 du tarif du droit d’importation.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/24-07-25/16h40
+[Note: 3 image(s) found on this page. ]

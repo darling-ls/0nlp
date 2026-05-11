@@ -1,0 +1,49 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-adii_kg}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    ports:
+      - " 5454:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-adii_kg}"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  etl:
+    build:
+      context: .
+      dockerfile: processing/Dockerfile
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql+psycopg://postgres:postgres@db:5432/adii_kg}
+      RAW_TEXT_DIR: /data/raw_text
+      METADATA_DIR: /data/metadata
+      OUT_JSONL: /data/processed/documents.jsonl
+      GRAPH_OUT: /data/processed/graph_data.json
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./data:/data
+
+  frontend:
+    profiles: ["frontend"]
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "4200:4200"
+    depends_on:
+      - etl
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+
+volumes:
+  pg_data:

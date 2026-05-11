@@ -1,0 +1,244 @@
+--- Page 1 (parsed text) --Rabat, le 27 Juillet 2018
+CIRCULAIRE N° 5831/312
+Objet: - Déclarations en douane autres que sommaires.
+- Informatisation des déclarations simplifiées d’admission et d’exportation
+temporaires des véhicules à usage commercial.
+Réf. : - Arrêté du Ministre de l’Economie et des Finances n° 2453-17 du 29/12/2017,
+modifiant l’Arrêté du Ministre des Finances n° 1319-77 du 31/01/1977, relatif
+aux déclarations en douane autres que sommaires.
+- Circulaires n° 5745/312 du 29/12/2017, 4707/212 du 21/06/2001 et 4506/321
+du 26/09/1997.
+Les circulaires n° 4506/321 du 26/09/1997 et 4707/212 du 21/06/2001 prises pour
+l’application de l’arrêté 1319-77 visé en référence, retracent le circuit de traitement
+physique des déclarations simplifiées d’admission et d’exportation temporaires des
+véhicules à usage commercial (D17/D20).
+Dans le cadre de la vision stratégique de l’administration ayant pour objectif
+l’élargissement de la couverture fonctionnelle de son système d’information, il a été
+décidé d’informatiser ces deux supports déclaratifs simplifiés.
+Pour ce faire, l’arrêté 1319-77 précité a été modifié par arrêté du Ministre de l’Economie
+et des Finances n°2453-17 du 29/12/2017 et un nouveau module informatique dédié à cet
+effet a été implémenté dans le système BADR.
+Les transporteurs internationaux routiers de marchandises bénéficient de la nouvelle
+procédure informatisée dans les conditions ci-après:
+I- Bénéficiaires
+Bénéficient de la procédure informatisée de déclaration D17/D20, les transporteurs
+internationaux routiers de marchandises établis au Maroc, pour les opérations:
+- d’exportation temporaire de leurs véhicules à usage commercial immatriculés au Maroc;
+- d’admission temporaire des véhicules à usage commercial immatriculés à l’étranger et
+appartenant à des transporteurs étrangers, sur la base d’un contrat de partenariat.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --II- Autorisation
+A. Pré-requis
+Pour la souscription des déclarations informatisées D17/D20, il est nécessaire de:
+- procéder à l’insertion du numéro du registre du commerce ou du code en tenant
+lieu dans le système informatique BADR, conformément à la procédure en vigueur;
+- disposer des outils nécessaires pour l’accès au système informatique BADR et la
+signature électronique des déclarations en douane.
+Le recours aux services d’un transitaire agréé en douane, pour la souscription des
+déclarations D17/D20, doit être formalisé par un mandat à souscrire dans les formes et
+conditions réglementaires en vigueur.
+B. Demande
+La procédure informatisée est octroyée au niveau régional, sur la base d’une demande
+conforme au modèle repris en annexe I, appuyée d’une copie conforme du certificat
+d’inscription au registre spécial des transporteurs de marchandises pour le compte d’autrui
+ou pour compte propre, délivré par le Département du Transport.
+C. Garantie
+Les déclarations D17/D20 souscrites dans le cadre de la présente, sont couvertes par la
+garantie personnelle du transporteur sur la base d’un engagement comportant soumission
+non cautionnée en garantie des droits et taxes et des pénalités éventuels relatifs aux
+opérations d’admission et d’exportation temporaires des véhicules à usage commercial,
+établi selon le modèle repris en annexe II.
+D. Décision
+Sur la base du dossier déposé, la direction régionale du ressort délivre au requérant une
+décision d’agrément dans un délai maximum de quinze (15) jours.
+Les décisions d’agrément sont prises en charge sur le système BADR pour les besoins du
+contrôle automatique d’accès à la procédure informatisée.
+III- Procédure
+A. Insertion des données
+Avant la souscription de la première déclaration informatisée D17 ou D20, le transporteur
+agréé doit renseigner le système informatique BADR des données ci-après:
+1. Informations relatives au parc de véhicules:
+- Nature
+- Marque, type et modèle
+- N° de châssis
+- N° d’immatriculation
+- Pays d’immatriculation
+- Date de 1ère mise en circulation
+- Poids à vide
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --2. Informations relatives aux conducteurs:
+- Prénom et nom
+- Nationalité
+- Type et référence du document d'identité (carte nationale d’identité,
+passeport).
+Ces données doivent être mises à jour en permanence afin d’éviter tout blocage d’accès au
+système informatique BADR.
+B. Circuit
+1. Souscription de la déclaration
+A l’occasion de chaque opération d’admission ou d’exportation temporaire de véhicules à
+usage commercial, les transporteurs agréés ou leurs mandataires, doivent souscrire et
+signer électroniquement au niveau du système BADR, une déclaration simplifiée sous les
+codes régimes «009» pour l’admission temporaire et «900» pour l’exportation temporaire.
+2. Dépôt et prise en charge de la déclaration
+Jusqu’à ce qu’il en soit autrement disposé, les déclarations D17/D20 enregistrées sur le
+système informatique BADR doivent être imprimées sur du papier de format A4 de couleur
+blanche, en trois exemplaires destinés aux utilisations suivantes:
+- Redevable;
+- Importation (pour les D17) / Exportation (pour les D20);
+- Réexportation (pour les D17) / Réimportation (pour les D20).
+Après leur dépôt physique lors du passage en douane, le service annote les trois
+exemplaires de la déclaration D17/D20 du délai de validité restitué par le système
+informatique et les remet au déclarant, dûment revêtues de son visa.
+Après vérification d’usage, la mainlevée est accordée sur l’exemplaire ad hoc qui sera
+récupéré par le service à la sortie de l’enceinte douanière (pour les D17) ou à
+l’embarquement (pour les D20).
+3. Apurement de la déclaration
+Au vu des deux exemplaires de la déclaration en possession du déclarant, présentés lors du
+passage en douane et après contrôle d’usage, le service renseigne le système informatique
+des données d’apurement de la déclaration D17/D20, remet l’exemplaire « Redevable »
+dûment visé au déclarant et garde l’autre.
+Les cas de dépassement de délai sont traités conformément à la réglementation en
+vigueur.
+4. Modification et annulation de la déclaration
+Avant leur dépôt physique, les énonciations des déclarations D17/D20 peuvent être
+rectifiées sans pénalité.
+Par ailleurs, les demandes d’annulation des déclarations D17/D20 sont traitées
+conformément à la réglementation en vigueur.
+[Note: 1 image(s) found on this page. ]
+--- Page 4 (parsed text) --Les déclarations qui n’ont reçu aucune suite à l’expiration du délai de soixante (60) jours à
+compter de la date de leur enregistrement peuvent être annulées d’office.
+Afin d’éviter la suspension de la facilité de déclaration informatisée D17/D20, en sus des
+suites contentieuses en vigueur, les bénéficiaires doivent veiller au respect des
+engagements inhérents aux régimes de l’admission et de l’exportation temporaires.
+Le mode opératoire des différentes fonctionnalités relatives à la procédure informatisée
+des déclarations D17/D20 est disponible sur le site internet www. douane. gov. ma sous
+l’intitulé « Guide relatif aux déclarations tryptiques - Partie Déclarant » à travers l’onglet
+« Entreprises et Professionnels », liens « Entreprises », « Procédures et guides liés au
+dédouanement en ligne ».
+Dans le cadre de la conduite du changement, il y a lieu de noter que jusqu’à ce qu’il en soit
+autrement disposé:
+- les déclarations souscrites selon la procédure manuelle en vigueur actuellement
+continueront d’être acceptées;
+- les opérations réalisées selon la procédure informatisée sont dispensées du
+paiement des pénalités autres que celles inhérentes au dépassement du délai
+réglementaire des opérations d’admission et d’exportation temporaires;
+- les déclarations souscrites selon la procédure informatisée sont dispensées du
+paiement de la redevance informatique.
+Les dispositions des circulaires précitées sont modifiées en conséquence.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/31-07-18/09h20
+[Note: 2 image(s) found on this page. ]
+--- Page 5 (parsed text) --Annexe I
+Entête de la société
+Demande d’agrément pour le bénéfice
+de la procédure informatisée de déclarations D17/D20
+CADRE RESERVE A L’ADMINISTRATION:
+N° de la demande: ………. .………………………………….
+Date de dépôt: ………………………………………
+IDENTITE DU DEMANDEUR:
+Raison sociale: …. …………………………………………………………………………. ………………………………………………………………. …
+Registre de Commerce (centre RC/N° RC): ………. /……. ..
+Identifiant Commun de l’Entreprise (ICE): ………………………………………………….
+Activité principale:
+Logistique Depuis: .. .. .. ./……/…….
+Transport international Depuis: ……/ ……/ …….
+Représentant légal de la société: …………………. ……………………………. ……………………………………………………………………
+Qualité: ……………………………………………………………………………………………………………………………………………………………
+Adresse du siège social: .……………………………………………………………. ……………………………………………………………………
+Téléphone fixe: ……………………………………………. .…. . Téléphone portable: …………………………………………. ………………
+Fax: ……………………………………………………………. Email: …. .…………………………………………………………………………………. .
+INFORMATIONS SUR LA SOCIETE
+1- Date de création: ………………. …………………………… 2- Date du début d’activité: .…………………………………
+5- Activité principale:
+…………………………………………………………………………………. .
+……………………………………………………………………………………
+……………………………………………………………………………………
+6- Activités annexes:
+ ……………………………………………………………………
+ ……………………………………………………………………
+ ……………………………………………………………………
+9- Statut d’Opérateur Economique Agréé
+Non
+Oui
+Catégorie: …………………………………
+Date d’agrément: ……/……/………. .
+10- Nombre d’opérations réalisées durant l’année précédente
+Import: …………………………………. .
+Export: ……………………………………
+11- N° d’autorisation de transport routier de marchandises
+………………………………………………………………………………………………………….
+12- Autres autorisations de transport
+………………………………………………………….
+13- Type et nombre de véhicules utilisés pour le transport international routier de marchandises
+Camion ………………………. . Tracteur …………………………. Remorque et semi-remorque ………………………………………
+14- Utilisation des technologies de traçabilité
+Non
+Oui
+Nature: …………………………………………………………
+15- Nombre de chauffeurs employés
+………………………………………………………………………………….
+--- Page 6 (parsed text) --16- Antécédents contentieux
+Affaires contentieuses enregistrées lors des trois (3) dernières années:
+Oui
+Non
+Si oui, joindre un état reprenant la nature et le bureau douanier d’enregistrement des affaires contentieuses.
+DECLARATION SUR L’HONNEUR
+Je soussigné1. .. ……………………………………………………………………………………………………………. , agissant en qualité
+de ………………………………………………………… de la société2………………………………………. .…………………………………….
+inscrite au registre du commerce de ……………………………………, sous le n°. .…………………………………………………
+sollicite le bénéfice de la procédure informatisée d’admission et d’exportation temporaires des véhicules
+routiers à usage commercial dans les conditions prévues par la circulaire n°……………………… du
+……. .…………… et déclare sur l’honneur et en toute connaissance de cause:
+ que durant les trois dernières années:
+aucune affaire contentieuse n’a été enregistrée à l’encontre de la société.
+seules les affaires contentieuses objet de la liste ci-jointe ont été enregistrées à l’encontre de la
+société.
+ être en conformité avec toutes les dispositions régissant l’exercice de l’activité du transport
+international de marchandise.
+Je certifie sur l’honneur l’exactitude des renseignements contenus dans la présente demande d’agrément
+et l’authenticité des pièces fournies dans mon dossier.
+Je m’engage à informer l’administration, sans délai, de tout changement du statut de la société, son
+gérant, ses relations, son parc, ainsi que de tout soupçon de fraude ou autre qui viendrait d’être constaté
+pour un client ou une cargaison.
+Fait à. .. .. .. .. .. .. .. .. .. .. ., le. .. .. .. .. .. .. .. .. .. .. .. .. ..
+Signature et cachet du déclarant
+1 Nom du représentant légal de la société
+2 Raison sociale et adresse du siège
+Pièces jointes:
+Copie de la pièce d’identité de la/des personne(s) habilitée(s) à engager la société.
+Contrat(s) de partenariat avec un transporteur étranger, dûment signé par les départements
+chargées du transport du Maroc et du pays d’établissement dudit transporteur, au titre duquel, les
+opérations d’admission temporaire de véhicules à usage commercial appartenant à ce dernier sont
+prises en charge par le requérant.
+Autres (à préciser):
+N. B: Les documents à fournir doivent être, soit des originaux, soit des copies certifiées conformes.
+L’Administration peut demander des pièces complémentaires.
+Le postulant peut ajouter d’autres documents qu’il juge nécessaires pour l’instruction de son dossier.
+--- Page 7 (parsed text) --Entête de la société
+Annexe II
+Soumission générale non cautionnée
+en garantie des droits et taxes et des pénalités éventuelles relatifs aux
+opérations d’admission et/ou d’exportation temporaires des véhicules routiers à
+usage commercial
+Je soussigné1 ……………. .……………………………………………………………………………………………………………. ,
+agissant en qualité de ……………………………. …………………………………………………………………………………
+de la société2 ………………………………………. .……………………………………. , inscrite au registre du
+commerce de ……………………………………, sous le n°. .…………………………………………………, déclare
+que la société se porte garant, vis-à-vis de l’Administration des Douanes et Impôts Indirects,
+des opérations d’admission et d’exportation temporaires de véhicules routiers à usage
+commercial, réalisées par ses soins ou pour le compte de ses partenaires dans les conditions
+prévues par la circulaire n°………………………………………… du ……. .………………………………………………….
+A cet effet, la société s’engage, sous les peines de droit, à:
+Respecter les lois et règlements régissant les régimes de l’admission et de
+l’exportation temporaires;
+à acquitter, à première réquisition de l’Administration des Douanes et Impôts
+Indirects, les droits et taxes ainsi que les intérêts de retard et les pénalités
+éventuels, prévus par les lois et règlements douaniers en vigueur, en cas de non
+respect du présent engagement;
+La présente soumission reste valable jusqu’à parfait accomplissement des engagements
+souscrits.
+Fait à ………………………………, le ……………………………
+Signature légalisée du soumissionnaire
+précédée de la mention « Lu et approuvé »
+1 Nom du représentant légal de la société
+2 Raison sociale et adresse du siège

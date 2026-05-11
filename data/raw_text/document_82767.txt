@@ -1,0 +1,85 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 6114/300
+OBJET: Plateforme digitale Diw@nati
+Dans le cadre de sa vision stratégique d’ouverture sur son environnement et de renforcement de
+la relation de confiance avec ses clients, l’Administration des Douanes et Impôts Indirects (ADII) a
+mis en place une nouvelle plateforme digitale baptisée « Diw@nati ».
+Il s’agit d’un espace web personnalisé qui offre aux chefs d’entreprise une vue d’ensemble sur
+leurs opérations douanières.
+Disponible en trois langues (arabe, française et anglaise), « Diw@nati » est organisée autour de
+six fonctionnalités qui seront mises en service et enrichies progressivement:
+ Un tableau de bord qui offre un aperçu sur l’essentiel de l’activité douanière de
+l’opérateur économique (déclarations, régimes économiques, créances, solde du crédit
+d’enlèvement, taux de visite, délai de dédouanement, litiges en cours, etc. );
+ Des services en ligne permettant de réaliser certaines transactions douanières (régler des
+créances douanières, demander une autorisation, déposer une réclamation, etc. );
+ Les e-documents à consulter en ligne et à télécharger (DUM, certificats de décharge,
+quittances, Dernier Avis Sans Frais (DASF), etc. );
+ Un service de notification alertant l’opérateur des évènements importants l’intéressant;
+ L’historique des opérations douanières;
+ Un conseiller douanier auquel l’opérateur peut faire appel pour tout conseil en lien avec
+son activité douanière.
+La plateforme « Diw@nati » est accessible gratuitement, par authentification, via le portail
+internet de l’ADII ou via mobile. Le guide en annexe décrit le mode opératoire pour s’y abonner.
+Pour la réussite de cette mesure importante, les opérateurs économiques sont vivement incités à
+y adhérer et à émettre toute remarque ou proposition d’amélioration éventuelle.
+Par ailleurs, j’attache du prix à ce que ce nouveau produit soit au centre des actions de
+communication des services douaniers au niveau central et régional. A ce titre, les services en
+charge de la gestion de la relation client sont appelés à se mobiliser pour appuyer et assister les
+opérateurs économiques dans le processus d’adhésion à ce nouveau service.
+Toute difficulté d’application sera signalée à l’administration centrale sous le timbre de la
+présente.
+Rabat, 8 décembre 2020
+SGIA/Diffusion/08-12-20/16h45
+[Note: 5 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la circulaire n° 6114/300 du 08/12/2020
+Guide de création d’un compte Diw@nati
+Lorsque vous créez un compte Diw@nati, des informations personnelles et professionnelles vous
+sont demandées. En fournissant des informations justes, vous contribuez à sécuriser votre
+compte et à rendre nos services plus utiles.
+Étape 1: Créez votre compte
+1. Accédez à www2. douane. gov. ma/diwanati à partir de votre navigateur web (Google Chrome ou
+Mozilla Firefox).
+2. Cliquez sur le bouton « Se connecter ».
+3. Cliquez sur le lien « Première visite ».
+4. Dans le champ "Courriel", saisissez votre adresse email. L’adresse email doit être fiable parce
+qu’elle sera associée à votre compte et servira à son activation.
+5. Saisissez votre mot de passe.
+6. Saisissez les informations générales relatives à votre société (nom, adresse professionnelle,
+téléphone, fax, ICE – Identifiant Commun des Entreprises).
+7. Saisissez vos informations personnelles (nom, prénom, téléphone, qualité dans l’entreprise).
+8. Choisissez la direction régionale des douanes de domiciliation.
+9. Joignez les copies scannées des documents d’identification à savoir, CNI, modèle J et procuration
+établie selon le modèle ci-dessous, pour justifier que vous représentez la société. Ces documents
+doivent être au format PDF et leur taille maximale ne doit pas dépasser 2 MO.
+10. Cliquez sur le bouton « Créer votre compte personnel ».
+11. Lisez les conditions générales d’utilisation.
+12. Cliquez sur « Accepter les Conditions Générales d’Utilisation ».
+13. Un message d’information vous confirmant la création de votre compte et vous invitant à
+consulter votre boîte email pour l’activer s’affichera sur votre écran.
+Étape 2: Activez votre compte
+14. Consultez votre adresse mail d’inscription et cherchez le message provenant du support
+technique de la Douane.
+15. Vérifiez si l’email a été redirigé dans votre dossier « Spam ».
+16. Cliquez sur le lien « Je confirme que je souhaite activer mon compte Diw@nati »
+17. Vous recevrez un email de confirmation.
+18. Après validation de votre compte par les services douaniers, vous recevrez un email vous en
+informant.
+19. Cliquez sur le lien contenu dans cet email pour vous connecter ou bien connectez-vous à partir du
+site web dédié à Diw@nati
+Étape 3: Accéder à votre espace personnel Diw@nati
+20. Cliquez sur le bouton « Se connecter ».
+21. Saisissez votre login ou nom d’utilisateur qui est votre adresse mail d’inscription.
+22. Saisissez votre mot de passe.
+23. Cliquez sur « Se connecter ».
+--- Page 3 (parsed text) --« ENTETE DE LA SOCIETE»
+PROCURATION
+Nous soussignés1. .. ………………………………………………………………. , agissant en qualité de gérant de la
+société2. .…………………………………………………………………………. sise…. .…………………………………………………. .
+……………………. .…………………………………………………… RC n° ………………………………………………………………. ,
+donnons par la présente procuration à Monsieur / Madame ………………………………………………………,
+CNI n°………………………………………. ., pour le suivi de toutes les opérations douanières de la société
+sur la plateforme digitalisée « Diw@nati » de l’Administration des Douanes et Impôts Indirects.
+A ……………………………le…………………………………
+Signé
+1 Nom du gérant de la société
+2 Raison sociale et adresse du siège de la société

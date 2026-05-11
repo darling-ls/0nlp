@@ -1,0 +1,33 @@
+--- Page 1 (parsed text) --Rabat, le 27 septembre 2018
+CIRCULAIRE N°5845/232
+Objet: Classement dans le tarif du droit d’importation de l’article dénommé "FGS-213 FIBARO
+SWITCH 2 SINGLE".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de
+l’article dénommé "FGS-213 FIBARO SWITCH 2 SINGLE".
+Description:
+Il s’agit d’un micromodule électrique sans fil, de type commutateur (On/Off) comprenant un
+relais-commutateur.
+Ce micromodule de dimensions (42, 5 mm x 38, 25 mm x20, 30 mm) est alimenté par un courant
+d’une tension de 100-240V, d’une fréquence de 50-60Hz, d’une puissance maximale cumulée ne
+dépassant pas 1920W (8A) et d’une fréquence radio de 868, 42 Mhz.
+Utilisation:
+Cet appareil, à usage domestique, est conçu pour être monté dans les boîtes d’interrupteurs
+muraux d’un diamètre supérieur ou égal à 50mm et des prises murales au niveau desquelles le
+contrôle du système électrique d’une puissance maximale de 1920 Watts (8A) est nécessaire.
+Il peut contrôler les appareils électriques qui lui sont raccordés à distance (exemple les
+radiateurs, le ballon d'eau chaude standard, les appareils électriques (télévision, four à microonde, etc. )) en utilisant directement les boutons poussoirs ou indirectement via un protocole de
+communication sans fil, qui utilise les radios fréquences pour établir les communications et
+échanger les informations.
+Ledit appareil est conçu pour opérer avec un système domotique global fonctionnant dans le
+cadre du protocole précité et peut être contrôlé à partir d’un ordinateur, d’une tablette ou d’un
+smartphone à travers un équipement dit "Home Center".
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Classement:
+De ce qui précède, l’article dénommé "FGS-213 FIBARO SWITCH 2 SINGLE" est un commutateur,
+pour application domotique, classé à la position 85. 36 du Système harmonisé, sous-position
+tarifaire 8536. 50. 13. 00 et ce, par application des RGI 1 et 6.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/27-09-18/13h20
+[Note: 2 image(s) found on this page. ]

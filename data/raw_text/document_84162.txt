@@ -1,0 +1,100 @@
+--- Page 1 (parsed text) --1
+Rabat, le 04 mai 2021
+CIRCULAIRE N°6189/212
+OBJET: Rectification des déclarations en détail après délivrance de la mainlevée.
+REFER. : - Loi de finances n° 68-17 pour l’année budgétaire 2018 promulguée par le
+dahir n° 1-17-110 du 6 rabii II 1439 (25 décembre 2017);
+- Décret n° 2-19-886 du 22 joumada I 1442 (6 janvier 2021) modifiant et
+complétant le décret n° 2-77-862 du 25 chaoual 1397 (9 octobre 1977) pris
+pour l’application du code des douanes ainsi que des impôts indirects
+relevant de l’administration des douanes et impôts indirects, approuvé par le
+dahir portant loi n° 1-77-339 du 25 chaoual 1397 (9 octobre 1977).
+(BO n°6954 du 21/01/2021).
+La loi de finances n° 80-18 pour l’année budgétaire 2019 a complété l’article 78 du code
+des douanes et impôts indirects par un troisième alinéa permettant la rectification des
+déclarations en détail après la délivrance de la mainlevée, avec dispense d’une partie
+ou de la totalité des pénalités pécuniaires prévues par le code des douanes, sous
+réserve des conditions suivantes:
+La présentation de la demande de rectification dans un délai de trente (30) jours
+à compter de la date de la délivrance de la mainlevée;
+Le déclarant ne devra pas avoir été informé par l’administration qu’il fera l’objet
+d’un contrôle ou d’une enquête.
+Les modalités d’application de cette disposition ont été renvoyées à un texte
+réglementaire.
+A présent, le décret n° 2-19-886 du 6 janvier 2021 visé en référence, fixe les modalités
+comme suit:
+1- La présentation par le déclarant ou son mandataire d’une demande de
+rectification de la déclaration en détail comportant:
+Les informations relatives au propriétaire de la marchandise, les références de la
+déclaration à rectifier, les énonciations sur lesquelles porte la demande de
+rectification et les nouvelles énonciations;
+SGIA/Diffusion/04-05-21/11h50
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --2
+Les explications sur les motifs à l’origine des erreurs à redresser;
+Tous les documents justificatifs appuyant la demande de rectification et qui
+doivent porter uniquement sur les marchandises déclarées initialement.
+2- La vérification effective des marchandises en cause.
+A ce titre, le service s’assure que:
+Il n’était pas possible de déceler l’erreur révélée au moment de l’établissement
+de la déclaration en détail;
+Aucune autre infraction n’est constatée;
+Les marchandises dont la mainlevée est délivrée se trouvent encore sous douane
+ou, lorsqu’elles sont déjà enlevées, se trouvent toujours intactes dans les locaux
+de l’importateur;
+Les marchandises enlevées restent identifiables d’après la marque et les
+numéros des colis et tous autres indices probants.
+Au plan informatique, les demandes de rectification visées ci-dessus, doivent être
+introduites conformément au mode opératoire joint en annexe.
+La dispense partielle ou totale des amendes pécuniaires sera accordée conformément à
+la réglementation en vigueur et le barème des règlements transactionnels sera enrichi
+au fur et à mesure de la survenance de situations particulières.
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --3
+Annexe à la circulaire n°6189/212 du 04 mai 2021
+MODE OPERATOIRE
+MODIFICATION DE LA DUM APRES MAINLEVEE
+La modication de la DUM par l’opérateur déclarant est possible pendant un délai de 30
+jours après la délivrance de la mainlevée même lorsque la marchandise a été
+totalement ou partiellement enlevée. Pour cela, l’utilisateur est invité à accéder à la
+fonctionnalité
+« Modifier
+une
+déclaration »
+disponible
+à
+travers
+le
+menu
+DEDOUANEMENT:
+Le clic sur le bouton
+permet de restituer les énonciations de la déclaration
+en question:
+L’utilisateur est invité à introduire les modifications nécessaires avant de cliquer sur la
+fonctionnalité
+du menu contextuel. L’écran ci-après s’affiche invitant
+l’utilisateur à motiver obligatoirement sa demande de modification:
+[Note: 4 image(s) found on this page. ]
+--- Page 4 (parsed text) --4
+Autrement, un message de rejet est affiché:
+Après le clic sur le bouton «
+», une nouvelle version de la DUM est
+enregistrée avec le statut « Enregistrée, en attente de traitement »:
+Cette opération est tracée au niveau de l’historique de la déclaration en question:
+[Note: 4 image(s) found on this page. ]
+--- Page 5 (parsed text) --5
+La déclaration est soumise automatiquement au traitement de l’agent douanier du
+bureau de souscription.
+Le traitement de l’opération par l’agent douanier est tracé au niveau de l’historique de
+la déclaration:
+[Note: 2 image(s) found on this page. ]
+--- Page 6 (parsed text) --6
+En cas d’acceptation de la demande de modification, les éventuelles imputations des
+titres de change associés sont validées automatiquement. Voir la dernière action sur
+l’écran ci-dessus.
+Remarque importante
+Après écoulement du délai de 30 jours de la date de délivrance de la mainlevée (cf.
+capture1), la demande de modification établie par l’opérateur est rejetée (cf. capture2).
+Capture1
+Capture2
+[Note: 2 image(s) found on this page. ]

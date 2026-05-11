@@ -1,0 +1,81 @@
+--- Page 1 (parsed text) --Rabat, le 01 octobre 2018
+CIRCULAIRE N°5850/232
+Objet: Classement dans le tarif du droit d’importation de l’article dénommé "FGHC2 FIBARO
+HOME CENTER 2" et "FGHCL-001 FIBARO HOME CENTER LITE".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation des
+articles dénommés "FGHC2 FIBARO HOME CENTER 2" et "FGHCL-001 FIBARO HOME CENTER
+LITE".
+Description et utilisation:
+Il s’agit de deux appareils électroniques d’application domestique à commandes
+programmables dotés d’une interface graphique qui permettent de configurer, de
+programmer et de commander des périphériques au moyen d’un protocole de
+radiofréquence.
+Les principales caractéristiques techniques sont décrites comme suit:
+Articles
+Caractéristiques
+Fibaro HOME CENTER 2
+réf: FGHC2
+Fibaro HOME CENTER LITE
+réf: FGHCL-001
+Dimensions
+225 x 185 x 44mm
+90 x 90 x 33mm
+Boitier
+Alliage
+Plastique
+Processeur
+Intel Atom (1, 6 GHz)
+ARM Cortex-A8 (720 Mhz)
+Mémoire d'exploitation
+1 Go DDR RAM
+128 Mo de RAM
+Disque dur
+2 Go SLC et 4 Go MLC Recovery
+Disc
+128 Mo SLC HDD
+USB
+4
+VGA
+1
+Interface réseau
+Ethernet 10/100/1000 Base-T
+(Gigabit)
+Ethernet 10/100/1000 Base-T
+(Gigabit)
+Portée
+jusqu'à 50 m à l'extérieur jusqu'à
+30 m à l'intérieur
+jusqu'à 50 m à l'extérieur
+jusqu'à 30 m à l'intérieur
+Protocole radio
+Z-Wave
+Z-Wave
+Fréquence radio
+868, 4 MHz
+868, 4 MHz
+Puissance d'émission
+radio
+jusqu'à 1 dBm (EIRP)
+jusqu'à 1 dBm (EIRP)
+Alimentation
+9-12 VDC
+9-12 VDC
+Voyant
+LED
+LED
+Ces appareils permettent, via une application mobile de:
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --- détecter et de gérer les périphériques domotiques (motion sensor, wall plug, smoke
+sensor, flood sensor, etc. );
+- programmer, de configurer et de commander les dispositifs domotiques, notamment, les
+multimédias, les systèmes d’alarme et les appareils de contrôle et de mesure.
+- contrôler, notamment, les capteurs, les appareils, les lampes et les automatismes.
+Classement:
+De ce qui précède, les appareils dénommés "FGHC2 FIBARO HOME CENTER 2" et "FGHCL001 FIBARO HOME CENTER LITE" sont des contrôleurs domotiques à commande
+programmable, classés à la sous-position 8537. 10 du Système harmonisé, rubrique
+8537. 10. 30. 00 du tarif du droit d’importation et ce, par application des RGI 1 et 6.
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale
+sous le timbre de la présente.
+SGIA/Diffusion/01-10-18/14h55
+[Note: 1 image(s) found on this page. ]

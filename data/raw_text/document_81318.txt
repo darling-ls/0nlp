@@ -1,0 +1,71 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 5910232
+Rabat, le 23 avril 2020
+CIRCULAIRE N° 6042/232
+OBJET: Classement dans le tarif du droit d’importation de l’article dénommé "C72 UHF RFID
+READER".
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de l’article
+dénommé "C72 UHF RFID READER".
+Description et composition:
+Il s’agit d’un lecteur par radiofréquence des étiquettes RFID (radio frequency identification) et de
+codes-barres, composé de:
+- une console principale présentant les caractéristiques techniques et l’apparence d’un appareil
+de radio téléphonie, dotée d’une application de scannage préinstallée; et
+- une poignée sous forme de pistolet à détente, dotée d’une antenne polarisée circulaire dont le
+gain s’élève à 4 dBi ou d’une antenne polarisée linéaire de 1, 8 dBi de gain, conçue pour recevoir
+la console principale à laquelle elle est connectée.
+Photo du produit fournie par le demandeur.
+[Note: 5 image(s) found on this page. ]
+--- Page 2 (parsed text) --Ledit lecteur présente les caractéristiques techniques suivantes:
+Dimensions
+164, 2 mm x 80, 0 mm x 24, 3 mm
+Poids
+654 g
+Écran
+5, 2 pouces
+Écran tactile
+Ecran multipoints et utilisation possible avec les doigts humides ou avec des
+gants
+Alimentation
+Batterie: Li-ion, rechargeable 8000 mAh
+Veille
+Plus de 500 heures
+Utilisation
+continue
+- Plus de 12 heures (en fonction de l’environnement de l’utilisateur)
+- Temps de charge: 3 à 4 heures (avec un adaptateur et un câble USB
+standard)
+Emplacement
+d’extension
+- 1 emplacement pour carte SIM
+- 1 emplacement pour carte SIM ou TF (SD)
+Interfaces
+USB 2. 0 Type-C, OTG Audio: haut-parleur, 2 microphones
+Touches
+physiques
+4 touches frontales, 1 touche d’alimentation, 2 touches de scan, 1 touche
+multifonction
+Capteurs
+Accéléromètre, capteur de luminosité, capteur de proximité
+Système
+d’exploitation
+Android 6. 0 (quadricœur) / Android 8. 1 (octocœur) 4G / Wi-Fi bibande
+2 ou 3 Go de mémoire vive et 16 ou 32 Go de mémoire morte
+Mémoires
+Carte TF (SD) jusqu’à 128 Go
+Utilisation:
+Le lecteur est conçu principalement pour la lecture de radio-étiquettes (étiquettes RFID) ou de
+code-barres via une opération de scannage en masse à une distance pouvant atteindre 25 mètres
+grâce à son antenne (polarisée circulaire ou linéaire).
+Sans l’antenne, la console principale permet à elle seule sans la poignée de scanner à de courte
+distance des balises RFID ou code-barres, de prendre des photos, de passer des appels
+téléphoniques, de lancer des applications Android et de communiquer les données collectées au
+serveur.
+Classement:
+De ce qui précède, l’article dénommé "C72 UHF RFID READER" est classé à la sous position
+8517. 12 du Système harmonisé, rubrique 8517. 12. 00. 90 du tarif du droit d’importation et ce, par
+application des RGI 3b et 6.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/23-04-20/15h15
+[Note: 1 image(s) found on this page. ]

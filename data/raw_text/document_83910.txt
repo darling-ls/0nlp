@@ -1,0 +1,70 @@
+--- Page 1 (parsed text) --Rabat, le 19/04/2021
+CIRCULAIRE N°6182/312
+Objet: Gestion des opérations de scellement des marchandises.
+Réf. : Circulaire n° 5748/312 du 04/01/2018.
+Conformément à l’article 168 du décret d’application du Code des Douanes et Impôts
+Indirects, les opérations de transit de marchandises sont sécurisées par des scellés apposés
+par les agents de l’administration ou sous leur supervision.
+Sur le plan pratique, les déclarants, saisissent la référence des scellés au niveau de la case 38
+et/ou joignent une photo des scellés montrant leur numéro.
+A présent, dans un souci d’accélération de la prise en charge des scellés et de réduction des
+délais de dédouanement, BADR a été enrichi des deux nouvelles fonctionnalités ci-après:
+1. « Déclarer scellés »: après signature de sa déclaration en détail, le déclarant saisit
+sur des champs structurés les numéros de scellés qui seront apposés ultérieurement,
+cette fonctionnalité facultative est prévue au niveau du menu « Dédouanement »;
+2. « Apposer scellés »: à renseigner par l’agent douanier, après délivrance de la
+mainlevée à travers le menu « Ecort import ».
+Le document en annexe décrit le mode opératoire de ces deux nouvelles fonctionnalités.
+Par ailleurs et à la demande des opérateurs économiques, il a été décidé de prévoir la
+possibilité d’imputer le solde de scellés d’un opérateur autre que le déclarant et ce, à travers
+le renseignement, par l’agent douanier, du champ « Transporteur/Exploitant de MEAD »,
+ajouté au niveau des différents écrans permettant la prise en charge des scellés.
+Toute difficulté d’application sera signalée à l’administration centrale sous le timbre de la
+présente.
+SGIA/Diffusion/19-04-21/14h50
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la circulaire n° 6182 / 312 du 19/04 / 2021
+MODE OPERATOIRE
+DECLARER SCELLES-APPOSER SCELLES
+1. Accéder à la fonctionnalité intitulée « Déclarer scellés », offerte au déclarant, à travers le
+menu DEDOUANEMENT:
+Le système affiche l’écran ci-après invitant l’utilisateur à renseigner la référence de la DUM:
+Si la déclaration n’est pas souscrite sous un régime d’import, le système rejette l’opération
+par le message: « La déclaration en douane doit être à l’import! ».
+Si la déclaration n’est pas signée, le système rejette l’opération par le message: « La version
+courante de la DUM doit être signée! ».
+Si l’enlèvement est total, le système rejette l’opération par le message: « L'enlèvement est
+total ».
+Si les scellés déclarés ont été apposés, le système rejette l’opération par le message: « Les
+scellés déclarés ont été apposés ».
+Après clic sur le bouton « valider », le système affiche l’écran ci-après, invitant l’utilisateur à
+renseigner les éléments concernant les scellés:
+[Note: 3 image(s) found on this page. ]
+--- Page 3 (parsed text) --Le système calcule automatiquement le nombre de scellés saisis:
+Après clic sur le bouton « confirmer » du menu contextuel, un message de succès de l’opération
+s’affiche:
+Cette opération est tracée au niveau de l’historique de la DUM en question:
+[Note: 3 image(s) found on this page. ]
+--- Page 4 (parsed text) --2. Accéder à la fonctionnalité intitulée « Apposer scellés », offerte à l’agent douanier, à travers
+le menu ECORT IMPORT:
+Le système affiche l’écran ci-après, invitant l’utilisateur à renseigner la référence de la DUM:
+Si la déclaration n’est pas souscrite sous un régime d’import, le système rejette l’opération
+par le message: « La déclaration en douane doit être à l’import! ».
+Si la mainlevée n’est pas définitive, le système rejette l’opération par le message: « La
+mainlevée n'est pas encore délivrée pour la déclaration en douane! ».
+Si l’enlèvement est total, le système rejette l’opération par le message: « L'enlèvement est
+total ».
+Le clic sur le bouton « Valider » permet de restituer les scellés éventuellement déclarés, tout en
+invitant l’utilisateur à renseigner obligatoirement les informations relatives aux scellés à apposer
+pour l’opération en cours:
+A noter que le champ transport/Exploitant MEAD est facultatif. S’il est renseigné, le solde de celui-ci
+est imputé du nombre de scellés apposés. Sinon, il est imputé du solde du déclarant.
+[Note: 3 image(s) found on this page. ]
+--- Page 5 (parsed text) --Après clic sur le lien « Confirmer » du menu contextuel, un message de succès de l’opération
+s’affiche:
+Cette opération est tracée au niveau de l’historique de la DUM en question:
+[Note: 2 image(s) found on this page. ]
+--- Page 6 (parsed text) --Ces scellés apposés sont restitués au niveau de l’enlèvement, ou du contre écor (pour les bureaux de
+fusion de l’écor et contre écor):
+Cette opération est rejetée dans le cas où les scellés précités ne sont pas encore apposés:
+[Note: 2 image(s) found on this page. ]

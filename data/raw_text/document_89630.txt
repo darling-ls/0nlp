@@ -1,0 +1,40 @@
+--- Page 1 (parsed text) --1
+Rabat, le 13 Juin 2022
+CIRCULAIRE N° 6336/400
+Objet: Enonciations de la déclaration en détail - Valeur en douane - Rappel d’instruction.
+Réf. : - Articles 20 à 20 duodecies et 74 du Code des Douanes et Impôts Indirects.
+- Arrêté du ministre des finances n° 1319-77 du 31 octobre 1977.
+- Arrêté du ministre de l’économie et des finances n°913-15 du 6 mars 2015.
+Conformément aux dispositions législatives et réglementaires en vigueur, la valeur en douane et
+ses éléments constitutifs sont des énonciations obligatoires de la déclaration en détail.
+Ces données sont utilisées, notamment, pour asseoir les droits et taxes et alimenter les bases
+statistiques. Elles doivent être disponibles en temps opportun et déterminées selon des normes
+fixées.
+A cet égard et en attendant la refonte en cours du formulaire de la DUM, il importe de rappeler
+deux principales règles en la matière:
+1) Le coût de transport et les frais d’assurance, qu'ils soient incorporés ou non dans la valeur
+facturée, doivent être impérativement indiqués chacun dans sa case spécifique (case 20 et case 22
+respectivement).
+Les autres frais à ajouter, dont la déclaration est requise, sont obligatoirement déclarés dans le
+champ prévu à cet effet au niveau du système BADR et ce, en application de l’article 1 de l’arrêté
+n°913-15 visé en référence.
+2) Lorsque les frais à ajouter, visés aux alinéas e), f) et g) de l’article 20 ter - 1, ne sont pas
+incorporés dans le prix unitaire facturé, la répartition de leur montant entre les articles de la
+même déclaration s’effectuera proportionnellement à leur valeur facturée.
+Par conséquent, la valeur d’un article est déterminée par application du coefficient de répartition,
+ci-après, à la valeur facturée dudit article:
+Valeur totale déclarée (en Dirham)
+C = -----------------------------------------------Montant facturé (en devise)
+Il est à noter que la règle de proportionnalité à la valeur facturée s’applique également pour la
+répartition, le cas échéant, des éléments communs à ajouter aux articles couverts par plusieurs
+déclarations (déclarations couplées, envois échelonnés, etc. ).
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --2
+Dans la mesure où la valeur en douane et ses éléments constitutifs sont des énonciations
+obligatoires de la déclaration en détail, le défaut de leur déclaration conformément à la norme
+réglementaire constitue une infraction douanière qui sera sanctionnée selon les dispositions
+contentieuses en vigueur.
+Toute difficulté d’application sera signalée à l’administration centrale sous le timbre de la
+présente.
+SGIA/Diffusion/13-06-22/12h25
+[Note: 2 image(s) found on this page. ]

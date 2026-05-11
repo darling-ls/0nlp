@@ -1,0 +1,49 @@
+--- Page 1 (parsed text) --Rabat, le 16 Décembre 2019
+Circulaire N° 5990/412
+OBJET: Evaluation des marchandises à l'importation.
+Mise en place d’une déclaration dite de « royalties ».
+REFER: Article 20 du code des douanes et impôts indirects
+Circulaire n° 4643/231 du 04/08/2000
+Aux termes des dispositions de l'article 20 ter du code des douanes et impôts indirects, et pour
+la détermination de la valeur en douane des marchandises importées, le prix effectivement
+payé ou à payer doit être augmenté, entre autres, du montant des redevances et droits de
+licence (dénommés ci-dessous ‘royalties’) relatifs à la marchandise à évaluer.
+A ce titre, et afin d’intégrer le montant des royalties dans la valeur des marchandises, les
+importateurs concernés doivent, à compter de la date de publication de la présente, adresser à
+l’Administration une demande d’évaluation des droits et taxes au titre des royalties, en y
+joignant les contrats qui les lient à leurs fournisseurs (ou franchiseurs).
+Après réception et examen de ladite demande, la fiscalité à appliquer sera calculée sur la base
+des droits et taxes payés par l’importateur sur les marchandises objet de royalties.
+Cette fiscalité unique fera l’objet d’une décision qui sera transmise à l’opérateur et sera
+appliquée pour ses déclarations futures.
+Ainsi, et au vu de la décision octroyée, l’opérateur économique ou son déclarant mandaté à cet
+effet (procuration de type ENREGISTREMENT DUM HORS RED), devra, à partir du 1er janvier
+2020, procéder à l’enregistrement sur le système BADR d’une déclaration dite de « royalties »,
+et ce pour chaque facture concernée, dans un délai n’excédant pas 10 jours à compter de la
+date de l’établissement de celle-ci.
+Chaque déclaration, à laquelle devra être annexée obligatoirement la facture concernée relative
+aux royalties, reprendra principalement:
+- le soumissionnaire et/ou son déclarant;
+- le mode de paiement: comptant, crédit (numéro du crédit);
+- le numéro de la décision octroyée; et
+- Le montant déclaré en dirhams ou en devise selon le cas, repris sur la facture de royalties
+annexée à la déclaration.
+[Note: 4 image(s) found on this page. ]
+--- Page 2 (parsed text) --Après enregistrement de la déclaration, la liquidation des droits et taxes sur la base de la
+fiscalité objet de la décision précitée, s’effectuera automatiquement sur BADR et donnera lieu à
+une fiche de liquidation. Cette dernière servira de titre de recette pour le paiement, dans les
+délais impartis, des droits et taxes dus et ce, selon les différents canaux de paiement offerts par
+l’Administration, et notamment les canaux électroniques.
+Toutefois, en cas d’erreur dans l’établissement de la déclaration sur BADR et avant paiement
+des droits et taxes, l’opérateur ou son transitaire devront adresser par mail à l’adresse
+adii-royalties@douane. gov. ma une demande d’annulation dûment motivée.
+Après étude, l’Administration pourra procéder à l’annulation de cette déclaration et à la
+liquidation des droits et taxes y afférentes, auquel cas, l’opérateur concerné, devra enregistrer
+une nouvelle déclaration.
+Par ailleurs, il est à préciser que les termes de la décision octroyée peuvent faire l’objet d’une
+révision annuelle sur demande de l’opérateur ou à l’initiative de l’Administration, notamment
+en cas de modification de la fiscalité des produits concernés.
+Toute difficulté d’application sera signalée à l’Administration Centrale sous le timbre de la
+présente.
+SGIA/Diffusion/16-12-19/11h30
+[Note: 1 image(s) found on this page. ]

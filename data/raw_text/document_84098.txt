@@ -1,0 +1,38 @@
+--- Page 1 (parsed text) --Rabat, le 30 Avril 2021
+CIRCULAIRE N° 6187/311
+Objet: Echange des résultats de contrôle avec Morocco Foodex.
+Dans le cadre de la poursuite de la mise en œuvre du Plan National de Simplification des
+Procédures et de généralisation de l’EDI (Echange de Données Informatisées), l’Administration des
+Douanes et Impôts Indirects et Morocco Foodex ont mis en place un cadre d’échange des
+certificats d’inspection technique au format digital.
+Cette procédure d’échange, dont le mode opératoire détaillé est décrit dans le document en
+annexe, sera appliquée, à compter de la date de la présente, à toutes les opérations d’exportation
+des produits soumis au contrôle de l’EACCE.
+Aussi, le service est-il informé qu’il y a lieu de ne plus exiger la production du certificat
+d’inspection technique sous format papier à l’exportation des produits concernés.
+Toute difficulté d’application sera signalée au service central sous le timbre de la présente ou via
+l’outil d’assistance DAAM.
+SGIA/Diffusion/30-04-21/10h35
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la Circulaire n° 6187/311
+Mode opératoire de la procédure d’échange
+des résultats de contrôle avec Morocco Foodex
+La fonctionnalité, accessible à travers le sous menu
+du menu, donne l’accès à l’agent douanier coté afin d’introduire les éléments
+relatifs à l’opération de contrôle:
+L’accès à la déclaration est offert selon un des critères offerts: recherche par référence ou le clic
+sur le lien
+L’agent douanier accède aux résultats de contrôle au niveau de la rubrique Liste des documents
+exigibles.
+La colonne relative à la Décision de l’organisme de contrôle affiche la mention « Admis »,
+« Admis provisoire », « Partiellement admis », « Rejeté » ou « Non soumis » en précisant la version
+de la déclaration contrôlée par l’organisme en question.
+[Note: 7 image(s) found on this page. ]
+--- Page 3 (parsed text) --Le lien
+au niveau du menu contextuel de gauche permet à l’agent
+douanier d’accéder au détail du résultat de contrôle, tel qu’émis par l’organisme en question:
+En cliquant sur le lien offert au niveau de la colonne « Historique », l’agent douanier accède au
+détail du résultat de contrôle relatif à un article donné:
+Il est à noter que l’opération relative à la réception d’un résultat de contrôle est aussi tracée au
+niveau de l’historique de la DUM en question:
+[Note: 5 image(s) found on this page. ]

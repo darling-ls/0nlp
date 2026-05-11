@@ -1,0 +1,44 @@
+--- Page 1 (parsed text) --Circulaire N°6178/312
+Objet: Allégement des exigences documentaires de l’administration.
+Suppression de l’avis d’exportation.
+Réf. : Circulaire n° 5854/312 du 04/10/2018.
+Pour bénéficier du remboursement de la Taxe sur la Valeur Ajoutée (TVA), prévu par le code
+général des impôts pour le cas des produits livrés à l’exportation, les exportateurs doivent
+appuyer leurs demandes de remboursement d’un avis d’exportation et d’une copie de la
+facture de vente établie au nom du destinataire à l’étranger, revêtus du visa de la douane.
+Dans le cadre du chantier permanent d’allégement des exigences documentaires et afin de
+s’inscrire dans le principe qu’une administration ne doit pas exiger d’un citoyen ou d’un
+opérateur économique une information qu’elle peut obtenir chez une autre administration,
+il a été décidé, de concert avec la Direction Générale des Impôts (DGI), de supprimer la
+formalité de visa de l’avis d’exportation.
+Cette formalité sera, à compter du 1er juillet 2021, remplacée par un échange électronique
+de données entre les systèmes d’information de l’ADII et de la DGI.
+A cet effet, les exportateurs désireux de bénéficier du remboursement de la TVA doivent
+impérativement indiquer au niveau de leurs déclarations en détail (DUM) la référence et la
+date de la facture de vente, selon le mode opératoire décrit en annexe.
+Toute difficulté d’application doit être signalée à l’administration sous le timbre de la
+présente.
+Rabat, le 08/04/2021
+SGIA/Diffusion/08-04-21/11h35
+[Note: 4 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la circulaire n° 6178/312 du 08/04/2021
+Mode opératoire pour la saisie des références et des dates des factures
+Au niveau de la rubrique « Facture » de l’onglet « Entête de la DUM », l’opérateur est invité
+à renseigner les factures associées à sa DUM:
+Le clic sur le bouton « Ajouter » permet de renseigner obligatoirement les éléments
+encadrés en rouge ci-après:
+* A renseigner du nom du client destinataire de la marchandise, déclaré à la case n° 8 de la
+DUM «DESTINATAIRE».
+Le clic sur le bouton « Confirmer » permet d’alimenter la liste des factures:
+*
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) --Les autres factures sont à saisir selon le même procédé.
+A noter que:
+Une facture déjà ajoutée peut être modifiée en cliquant sur son numéro d’ordre dans
+la liste des factures. Les données sont restituées et l’utilisateur peut introduire les
+modifications nécessaires. Le clic sur le bouton « Confirmer » permet de valider ces
+modifications.
+Une facture déjà ajoutée peut être supprimée en cliquant sur son numéro d’ordre
+dans la liste des factures. Les données sont restituées. Le clic sur le bouton
+« Supprimer » permet d’ignorer la facture en question.
+[Note: 1 image(s) found on this page. ]

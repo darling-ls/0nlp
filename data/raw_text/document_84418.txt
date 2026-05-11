@@ -1,0 +1,164 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 6195/312
+Objet: Dématérialisation de la déclaration provisionnelle.
+Réf. : Circulaires n° 6168/312 du 12 Mars 2021 et n° 6170/312 du 26/03/2021.
+La circulaire visée en 1ère référence a mis en place une nouvelle procédure de déclaration
+provisionnelle à compter du 26/03/2021, pour les opérations initiées sous les régimes de
+transit et ceux ne donnant pas lieu à ouverture d’un compte de régimes économiques en
+douane (RED).
+Par circulaire n° 6170/312 du 26/03/2021, la date d’effet de cette mesure a été prorogée au
+26/05/2021 pour les opérations précitées à l’exception des régimes 085, 855 et 060 et ce,
+pour permettre aux opérateurs de prendre les dispositions nécessaires pour mieux s’adapter
+aux exigences de la nouvelle procédure.
+A l’issue des concertations menées avec les opérateurs concernés et après examen des
+doléances reçues via la boîte électronique nouvelleprovisionnelle@douane. gov. ma, il a été
+décidé de mettre en place les assouplissements ci-après:
+I- Imputation des comptes RED
+Compte tenu de la nature de leurs opérations gérées en flux tendus, certains opérateurs
+trouvent des difficultés pour l’apurement des comptes RED au moment de l’exportation des
+produits compensateurs sous couvert de la nouvelle déclaration provisionnelle.
+A ce titre, une nouvelle fonctionnalité a été mise en service permettant l’apurement global
+des comptes RED objet des exportations réalisées sous couvert des sous-DUM d’une
+déclaration provisionnelle après arrêt de cette dernière.
+Les imputations déclarées via cette fonctionnalité seront soumises à la validation du service
+douanier après contrôle d’usage.
+II- Imputation des titres de change
+Pour répondre au besoin de certains opérateurs adoptant un système de facturation
+consolidée par déclaration provisionnelle, une nouvelle fonctionnalité a été mise en service
+permettant l’imputation globale des titres de change après arrêt de la nouvelle déclaration
+provisionnelle.
+Ces deux facilités seront accordées par les Directeurs Régionaux, Interrégionaux et des
+douanes des ports, sur demande, aux opérateurs qui en justifient le besoin, étant précisé que
+la combinaison des deux modes de gestion, par sous-DUM ou globalement, n’est pas permise.
+Le mode opératoire des deux facilités est décrit en annexe.
+Rabat, le 18 Mai 2021
+SGIA/Diffusion/18-05-21/11h35
+[Note: 1 image(s) found on this page. ]
+--- Page 2 (parsed text) --III- Rectification des sous-DUM
+Pour faciliter l’adhésion des opérateurs à la nouvelle procédure de déclaration provisionnelle,
+il a été décidé d’autoriser la rectification des sous-DUM sans suites contentieuses et ce, dans
+un délai de 48 heures de la date de délivrance de la mainlevée.
+Tout abus qui serait constaté dans ce cadre entrainera, outre les suites contentieuses en
+vigueur, le retrait de la facilité de déclaration provisionnelle.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) --Annexe à la circulaire n°6195/312 du 18/05/2021
+Mode opératoire « Apurement global des comptes RED »
+1- Enrichissement de la DUM initiale nouvelle provisionnelle par l’ajout d’un nouvel onglet intitulé
+« Imputation compte RED »:
+2- Ajout d’une nouvelle fonctionnalité intitulée « Imputation des comptes RED nouvelle provisionnelle ».
+Celle-ci est offerte au déclarant. Elle est accessible à travers le menu DEDOUANEMENT:
+L’écran ci-après s’affiche invitant l’utilisateur à renseigner la référence de la DUM initiale nouvelle
+provisionnelle:
+Si la DUM n’est pas une DUM initiale nouvelle provisionnelle, le système rejette l’opération par le
+message: « La référence saisie ne correspond pas à une déclaration initiale nouvelle provisionnelle »
+Si la DUM n’est pas arrêtée, le système rejette l’opération par le message: « La DUM Initiale doit être
+arrêtée »
+Si l’opérateur soumissionnaire ne dispose pas de la facilité « Imputation compte RED nouvelle
+provisionnelle, le système rejette l’opération par le message: « L'opérateur soumissionnaire de la
+DUM n'a pas la facilité: Imputation compte RED nouvelle provisionnelle »
+Si la DUM contient déjà des imputations des comptes RED, le système rejette l’opération par le
+message: « La déclaration contient déjà des imputations des comptes RED »
+[Note: 3 image(s) found on this page. ]
+--- Page 4 (parsed text) --Si la DUM n’est pas souscrite sous un régime de type export sous RED apurant les comptes RED, le
+système rejette l’opération par le message: « Le régime doit permettre l’imputation des comptes
+RED par la DUM initiale nouvelle provisionnelle »
+Ci-après à titre de rappel la liste des régimes de type export sous RED apurant les comptes:
+REGIME
+LIBELLE
+751
+EXPORTATION EN SUITE D’EIF
+762
+EXPORTATION SUITE ATPA VERS LES ZONES FRANCHES
+763
+EXPORTATION SUITE AT VERS LES ZONES FRANCHES
+764
+EXPORTATION SUITE ENTRPEPOT VERS LES ZONES FRANCHES
+070
+EXPORTATION EN SUITE D’ATPA AVEC PAIEMENT
+072
+EXPORTATION EN SUITE D’ATPA SANS PAIEMENT
+074
+EXPORTATION EN SUITE D'AT
+075
+EXPORTATION EN SUITE D'EPP
+079
+EXPORTATION PREALABLE
+769
+EXPORTATION VERS LES ZONES FRANCHES LOGISTIQUES
+767
+EXPORTATION EN SUITE DE TRANSFORMATION SOUS DOUANE VERS LES ZONES
+FRANCHES
+768
+EXPORTATION EN SUITE DE L’EIF VERS LES ZONES FRANCHES
+772
+EXPORTATION EN SUITE D'IMPORTATION ANTICIPEE DANS LE CADRE DE L'ECHANGE
+STANDARD
+752
+EXPORTATION EN SUITE D’ENTREPOT D'EXPORTATION
+700
+EXPORTATION EN SUITE DE TRANSFORMATION SOUS DOUANE
+Après clic sur le bouton « Valider », l’écran ci-après s’affiche:
+Le clic sur le bouton « Nouveau » permet de renseigner les éléments relatifs au compte à imputer, à
+savoir:
+ Référence du compte à imputer
+ Code NGP correspondant à la ligne d’ouverture à imputer
+ Spo/N°article: Sous-position de l’article correspondant à imputer
+[Note: 2 image(s) found on this page. ]
+--- Page 5 (parsed text) --Le clic sur le bouton
+permet de restituer les informations relatives à la ligne d’ouverture:
+L’utilisateur est invité à renseigner les éléments suivants puis à cliquer sur le bouton « Confirmer »:
+ Qté nette à imputer.
+ Qté/Val brute à imputer: Quantité brute à imputer.
+ Déch. taxables: Case à cocher. « oui » si les déchets sont taxables, « non » sinon.
+Le système alimente la liste relative au nombre total des imputations:
+Après clic sur le lien « Enregistrer version » du menu contextuel, un message de succès s’affiche:
+[Note: 4 image(s) found on this page. ]
+--- Page 6 (parsed text) --Le système génère une nouvelle version de la DUM initiale nouvelle provisionnelle en question:
+Cette opération est tracée au niveau de l’historique de la DUM initiale nouvelle provisionnelle:
+Le récapitulatif des quantités et valeurs par NGP/origine/unité de mesure/valeurs unitaires/données
+complémentaires est accessible à travers le lien « RECAPITULATIF »du menu contextuel:
+Cette imputation est aussi affichée au niveau du sommier:
+[Note: 4 image(s) found on this page. ]
+--- Page 7 (parsed text) --Mode opératoire « Imputation globale des titres de change »
+1- Enrichissement de la DUM initiale nouvelle provisionnelle par l’ajout d’un nouvel onglet intitulé
+« Imputation titres de change »:
+2Ajout d’une nouvelle fonctionnalité intitulée « Imputation TC DUM provisionnelle ». Celle-ci est
+offerte au déclarant. Elle est accessible à travers le menu DEDOUANEMENT:
+L’écran ci-après s’affiche invitant l’utilisateur à renseigner la référence de la DUM initiale nouvelle
+provisionnelle:
+Si la DUM n’est pas une DUM initiale nouvelle provisionnelle, le système rejette l’opération par le
+message: « La déclaration doit être une DUM Initiale ».
+Si la DUM n’est pas arrêtée, le système rejette l’opération par le message: « La DUM initiale
+correspondante n'est pas encore arrêtée ».
+Si l’opérateur soumissionnaire ne dispose pas de la facilité « Imputation TC nouvelle provisionnelle »,
+le système rejette l’opération par le message: « L'opérateur engagé doit avoir la facilité: Imputation
+TC nouvelle provisionnelle ».
+Si une des sous DUM ne dispose pas d’une mainlevée éditée, le système rejette l’opération par le
+message: « Toutes les sous DUM doivent avoir leur mainlevée ».
+[Note: 3 image(s) found on this page. ]
+--- Page 8 (parsed text) --Après clic sur le bouton « Valider », l’écran ci-après s’affiche:
+Le clic sur le bouton « Nouveau » permet de renseigner les éléments relatifs au titre de change à imputer,
+selon un des modes offerts: Portnet ou Manuel.
+Cas Portnet
+[Note: 2 image(s) found on this page. ]
+--- Page 9 (parsed text) --Après sélection du titre de change et son numéro correspondant, le système restitue les éléments relatifs
+au titre de change en question:
+L’utilisateur est invité à renseigner son imputation (poids et/ou valeur):
+[Note: 1 image(s) found on this page. ]
+--- Page 10 (parsed text) --Après clic sur le bouton « Confirmer », le système restitue la liste totale des imputations:
+Après clic sur le lien « ENREGISTRER VERSION » du menu contextuel, un message de succès s’affiche:
+Cette opération est tracée au niveau de l’historique de la déclaration en question:
+Comme le montre l’écran ci-dessus, l’imputation du titre de change est validée automatiquement dès
+l’enregistrement de l’opération en question.
+[Note: 3 image(s) found on this page. ]
+--- Page 11 (parsed text) --Cas Manuel
+L’utilisateur est invité à renseigner les éléments relatifs au titre de change à imputer:
+Après clic sur le bouton « Confirmer », le système alimente la liste totale des imputations:
+Après clic sur le lien « ENREGISTRER VERSION » du menu contextuel, un message de succès s’affiche:
+[Note: 3 image(s) found on this page. ]
+--- Page 12 (parsed text) --Cette opération est tracée au niveau de l’historique de la déclaration en question:
+Remarque importante:
+La somme des valeurs imputées des TC (Portnet et manuels) en dirhams doit être inférieure ou égale à la
+somme totale des valeurs facturées déclarées au niveau des sous-DUM.
+La conversion des valeurs au dirham se fait selon le cours de change de la veille.
+[Note: 1 image(s) found on this page. ]

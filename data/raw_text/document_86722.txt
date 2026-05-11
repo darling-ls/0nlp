@@ -1,0 +1,31 @@
+--- Page 1 (parsed text) --Rabat, le 08 octobre 2021
+CIRCULAIRE N° 6236/232
+Objet: Classement dans le tarif du droit d’importation de l’article dénommé "Flush 1 Relay".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de
+l’article dénommé "Flush 1 Relay".
+Description:
+Il s’agit d’un micromodule électrique, de type commutateur (On/Off) comprenant un relaiscommutateur.
+Ce micromodule de dimensions (41, 8 mm x 36, 8 mm x 16, 9 mm) est alimenté par un courant
+d’une tension de 110-240V, d’une fréquence de 50-60Hz, d’une puissance maximale cumulée ne
+dépassant pas 2400 W (10A) et d’une fréquence radio de 868, 4 Mhz.
+Utilisation:
+Cet appareil, à usage domestique, est conçu pour être monté dans les boîtes d’interrupteurs
+muraux monostables ou bistables (par défaut) d’un diamètre supérieur ou égal à 60mm.
+Il est équipé d’une seule sortie qui permet d’allumer et éteindre un appareil électrique qui lui
+est raccordé en utilisant directement les boutons ou indirectement via un protocole de
+communication sans fil, qui utilise les radios fréquences pour établir les communications et
+échanger les informations.
+Il permet également de mesurer la consommation de l’énergie électrique de l’appareil raccordé
+et d’étendre la portée du protocole précité jusqu’à 30 m en intérieur.
+Ledit appareil est conçu pour opérer avec un système domotique global fonctionnant dans le
+cadre du protocole précité et peut être contrôlé à partir d’un ordinateur, d’une tablette ou d’un
+smartphone à travers un équipement dit "Home Center".
+Classement:
+De ce qui précède, l’article dénommé "Flush 1 Rlay" est un commutateur, pour application
+domotique, classé à la position 85. 36 du Système harmonisé, sous position tarifaire
+8536. 50. 13. 00 et ce, par application des RGI 1 et 6.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/08-10-21/15h15
+[Note: 3 image(s) found on this page. ]

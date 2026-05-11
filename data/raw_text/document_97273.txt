@@ -1,0 +1,2377 @@
+--- Page 1 (parsed text) --1
+Rabat, le 26 décembre 2025
+CIRCULAIRE N° 6702/210
+OBJET: Dispositions douanières de la loi de finances pour l’année budgétaire 2026.
+Réf: Loi de finances n° 50-25 pour l’année budgétaire 2026, promulguée par le Dahir
+n°1-25-67 du 10 décembre 2025 (BO n° 7465 bis du 16 décembre 2025).
+Le service est informé que la loi de finances pour l’année budgétaire 2026 (LF 2026) apporte
+de nouvelles dispositions intéressant l’administration des douanes et impôts indirects.
+Ces dispositions sont exposées comme suit:
+I – Code des douanes et impôts indirects (Article 3 de la LF 2026)
+L’article 3 de la LF 2026 apporte des modifications à certaines dispositions du code des
+douanes et impôts indirects (CDII):
+I. 1- Clarification des conditions du bénéfice de la clause transitoire (article 13-1°)
+L’article 13-1° du CDII prévoit deux conditions pour l’application de la clause transitoire et le
+bénéfice, en conséquence, du régime antérieur le plus favorable:
+– les justifications résultant des titres de transport créés avant l’entrée en vigueur
+des textes instituant ou modifiant des mesures douanières et établissant que les
+marchandises étaient, dès leur départ, à destination directe et exclusive d’une
+localité du territoire assujetti;
+– un crédit irrévocable et confirmé a été ouvert en faveur du fournisseur étranger
+avant la date d’entrée en vigueur desdites mesures.
+Tel que rédigé, cet article ne précise pas clairement si les deux conditions sont cumulatives
+ou alternatives, ce qui peut engendrer une confusion tant pour les opérateurs économiques
+que pour les services douaniers lors de l’application des dispositions de cet article.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --2
+Par conséquent, afin de lever toute ambiguïté dans l’application de ce texte et partant, en
+améliorer la lisibilité, l’article 13-1° du CDII a été amendé pour stipuler que le bénéfice de la
+clause transitoire est subordonné à la satisfaction de l’une des deux conditions visées cidessus.
+Dans le même sillage et pour plus de précision, le mot « crédit » « ائتمان » a été remplacé par
+l’expression « crédit documentaire » « اعتماد مستندي ».
+Il reste entendu que conformément au 2° de l’article 13 précité, ne peuvent bénéficier des
+dispositions de cette mesure que les marchandises mises directement à la consommation,
+sans avoir été placées en entrepôt.
+I. 2- Domiciliation des opérateurs économiques (article 19 bis)
+Le CDII a été complété par les dispositions de l’article 19 bis qui visent d’instaurer
+l’obligation, pour les entreprises importatrices, de communiquer à l’administration,
+nonobstant toutes dispositions contraires, les adresses exactes des lieux de stockage et/ou
+de transformation des marchandises objet de la déclaration d’importation.
+En effet, l’expérience a montré que, dans la pratique, certaines sociétés importatrices ne
+communiquent pas à l’administration les lieux effectifs de stockage ou de transformation
+des marchandises objet de déclaration en détail, ce qui peut engendrer des complications
+lors des opérations de contrôle à posteriori de ces marchandises en cas de fraude.
+I. 3- Le renforcement du contrôle douanier (article 35-1°)
+L’article 35-1° du CDII prévoit que les agents de l’administration sont autorisés à faire usage
+de tous engins et moyens appropriés, pour l’exercice de leur mission de contrôle, notamment
+pour la lutte contre la contrebande.
+Afin de s’aligner sur les meilleures pratiques internationales tout en facilitant et optimisant les
+moyens de contrôle, l’article 35-1° du CDII a été amendé en vue d’autoriser les agents de
+l’administration à utiliser tout autre moyen de nature à permettre le contrôle, la surveillance et
+le suivi, notamment les drones, les caméras de surveillance et les scanners.
+I. 4- Intégration de la Block Chain dans le processus de dédouanement (article 76 ter
+ajouté)
+Afin d’améliorer la transparence des transactions commerciales et d’assurer une meilleure
+traçabilité des marchandises tout en garantissant la fiabilité des documents commerciaux y
+afférents, le CDII a été complété par l’ajout d’un nouvel article 76 ter, permettant à
+l’administration de mettre à la disposition des importateurs une plateforme électronique
+agréée, permettant le dépôt et la transmission automatisée et sécurisée des documents
+commerciaux devant être annexés à leurs déclarations en détail.
+Il s’agit de la mise en place d’un échange automatisé entre les fournisseurs étrangers et le
+système informatique de l’ADII et ce, à travers le passage par une plateforme Block Chain
+--- Page 3 (parsed text) --3
+qui permettra la vérification de l’identité du fournisseur étranger et l’authentification des
+documents commerciaux (notamment la facture) couvrant l’opération d’importation.
+La mise en œuvre de cette mesure se fera sur la base du volontariat des opérateurs et
+n’aura aucun caractère obligatoire. Les opérateurs qui y souscriront bénéficieront d’un
+assouplissement des procédures de dédouanement, étant donné que la garantie de
+l’authenticité des documents permettra d’accélérer le traitement de leurs déclarations et
+réduire les délais de dédouanement.
+Une instruction administrative ultérieure, déterminera les modalités d’application de cette
+mesure.
+I. 5- Lutte contre l’informel (article 282-6°)
+Le contrôle des marchandises effectué par les agents de l’administration au sein des zones
+d’accélération industrielle (ZAI), a révélé une pratique frauduleuse consistant en l’existence
+de marchandises non déclarées et incompatibles avec l’activité de certains soumissionnaires
+établis aux ZAI.
+Afin de contrecarrer cette pratique frauduleuse et, par conséquent, lutter contre l’informel et
+la concurrence déloyale, l’article 282 a été complété afin d’élargir la définition de la
+contrebande pour englober la présence de marchandises non déclarées et non compatibles
+avec l’activité des soumissionnaires établies aux ZAI et partant, ériger cette pratique en un
+délit de deuxième classe.
+I. 6- Classification et sanction de l’infraction relative à la fausse déclaration des lieux
+de stockage et/ou de transformation des marchandises importées (articles 297 et 297
+bis)
+Cette mesure vise à définir explicitement l'infraction commise par les sociétés importatrices
+communiquant à l'administration de fausses adresses des lieux de stockage et/ou de
+transformation des marchandises faisant l'objet de déclarations d'importation.
+Ainsi, les articles 297 et 297 bis du CDII ont été amendés pour préciser explicitement la
+qualification et la répression applicables en cas d’infraction aux dispositions du deuxième
+alinéa de l'article 19 bis précité et ce, comme suit:
+- Article 297-9°: Création d’une nouvelle contravention douanière de troisième classe
+relative à toute fausse déclaration du lieu effectif de stockage ou de transformation des
+marchandises, prévue par le deuxième alinéa de l’article 19 bis.
+- Article 297 bis: Répression de la nouvelle contravention douanière prévue à l’article
+297-9° ci-dessus, par une amende de 30. 000 à 60. 000 dirhams.
+Les modifications ainsi apportées au CDII, sont reprises au niveau de l’annexe I à la
+présente circulaire.
+--- Page 4 (parsed text) --4
+II- Tarif des droits de douane (Article 4 de la LF 2026).
+Les modifications apportées au tarif des droits d’importation (TDI) portent sur:
+II. 1 La poursuite de la restructuration du chapitre 30 relatif aux produits
+pharmaceutiques
+Dans le cadre de l’accompagnement des stratégies nationales en matière de promotion de
+l’industrie pharmaceutique et de facilitation de l’accès des citoyens à ces produits, l’article 4
+de la loi de finances pour l’année budgétaire 2023 a prévu une restructuration du chapitre 30
+du TDI, visant la révision des quotités du droit d’importation appliquées à certains produits
+pharmaceutiques.
+Concrètement, cette restructuration tarifaire s’est matérialisée par l’application de quotités du
+droit d’importation allant de 2, 5% à 30% selon que le produit concerné soit totalement
+importé (2, 5%), qu’il fasse l’objet de production locale exclusive (30%) ou qu’il soit à la fois
+importé et produit localement (10% ou 17, 5%).
+A présent et dans le cadre de la continuité de ces travaux de réforme tarifaire, la LF 2026
+prévoit la révision du taux du droit d’importation appliqué à certains médicaments à travers le
+réaménagement des notes complémentaires du chapitre 30 du TDI.
+II. 2 – La réduction de la quotité du droit d’importation
+de 30% et 10% à 2, 5% pour les acaricides, nématicides et molluscicides, relevant des
+positions tarifaires n°s 3808. 99. 11. 00, 3808. 99. 19. 00, 3808. 99. 90. 10 et 3808. 99. 90. 70
+du TDI et ce, afin de permettre de réduire les coûts d’acquisition de ces produits
+nécessaires pour la protection des cultures.
+de 30% à 17, 5% pour les intrants utilisés dans la fabrication des machines à laver
+semi-automatiques, moyennant leur individualisation dans le TDI au niveau des
+positions tarifaires n°s 4010. 39. 00. 10, 4016. 93. 00. 20, 4016. 99. 98. 10, 7020. 00. 12. 00
+et 8484. 90. 00. 10 et ce, afin de permettre à l’industrie nationale des machines à laver
+semi-automatiques de se développer;
+de 30% à 17, 5% pour les panneaux constitués de lattes en bois sciés assemblées par
+collage, moyennant leur individualisation dans le TDI au niveau de la position tarifaire
+n°4421. 99. 90. 81 et ce, afin d’encourager les industries du bois au Maroc et de
+renforcer leur compétitivité;
+de 30% à 17, 5% pour les boites en fonte à fermer par soudage ou sertissage
+(canettes en fer blanc), moyennant leur individualisation dans le TDI au niveau de la
+position tarifaire n°7310. 21. 99. 91 et ce, afin de réduire le coût d’acquisition des
+emballages utilisés dans la fabrication d'aérosols et de permettre à cette industrie de
+se développer;
+--- Page 5 (parsed text) --5
+de 17, 5% à 2, 5% pour les téléphones portables, relevant des positions tarifaires
+n°s 8517. 13. 00, 8517. 14. 00 et 8517. 18. 00 du TDI et ce, afin de renforcer la
+compétitivité du secteur formel face aux produits importés illégalement; et
+de 17, 5% à 2, 5% pour les téléphones portables intelligents à l'état complet sous la
+forme d'éléments C. K. D ou S. K. D, moyennant leur définition au niveau des notes
+complémentaires du chapitre 85 du TDI et leur individualisation dans le TDI au niveau
+de la position tarifaire n°8517. 13. 00. 30 et ce, afin d’encourager l’émergence d’une
+industrie nationale d’assemblage local de smartphones.
+II. 3 - Augmentation de la quotité du droit d’importation
+de
+40%
+à
+60%
+applicable
+au
+safran,
+relevant
+des
+positions
+tarifaires
+n°s 0910. 20. 00. 10 et 0910. 20. 00. 90 du TDI et ce, afin de protéger la production
+nationale du safran des importations massive de cette denrée;
+de 2, 5% à 17, 5%, pour les dispositifs de dépistage rapide, moyennant la définition des
+produits à détecter par ces dispositifs au niveau des notes complémentaires du
+chapitre 38 du TDI et l’individualisation de ces dispositifs dans le TDI au niveau des
+positions tarifaires n°s 3822. 11. 29. 10, 3822. 12. 19. 10 et 3822. 19. 29. 10 et ce, afin de
+protéger l'industrie nationale des dispositifs de dépistage rapide, d'accroître la
+production locale et de renforcer la souveraineté sanitaire nationale;
+de 2, 5% à 10% pour la résine en PVC, relevant de la position tarifaire
+n° 3904. 10. 90. 00 du TDI et ce, afin de protéger le secteur productif national de la
+résine en PVC;
+de 2, 5% à 17, 5% pour les monofilaments, moyennant leur individualisation dans le
+TDI au niveau de la position tarifaire n° 5404. 19. 00. 10 et ce, afin d’assurer une
+meilleure protection de la filière nationale de production des balais et brosses face à la
+concurrence des produits finis importés;
+de 10% à 30% pour les étoffes de bonneterie jacquards, moyennant leur
+individualisation dans le TDI au niveau des positions tarifaires n°s 6006. 31. 10. 10,
+6006. 31. 90. 91, 6006. 33. 10. 91 et 6006. 33. 90. 93 et ce, afin de protéger la production
+nationale des étoffes de bonneterie jacquards électroniques avec insertion de trame
+face aux importations importantes de ces produits;
+de 2, 5% et 10% à 17, 5% pour les congélateurs à usage domestique et les machines
+semi-automatiques à laver le linge relevant respectivement, des positions tarifaires
+8418. 30. 00. 20 et 845019. 90. 00, ainsi que les machines semi-automatiques à laver le
+linge d’une capacité unitaire exprimée en poids de linge sec excédant 10 kg
+moyennant leur individualisation au niveau de la position tarifaire 8450. 20. 00. 10 du
+TDI et ce, afin de renforcer la compétitivité de l’industrie nationale de fabrication de
+ces machines face aux produits similaires importés;
+--- Page 6 (parsed text) --6
+de 2, 5% à 17, 5% pour les pare-brises, vitres arrières et autres glaces, relevant de la
+position tarifaire n° 8708. 22. 00. 00 du TDI et ce, afin de renforcer la compétitivité de
+l'industrie nationale spécialisée dans la fabrication de pare-brises face à la
+concurrence des produits similaires importés.
+Les modifications ainsi apportées au TDI, sont reprises au niveau de l’annexe II à la
+présente circulaire.
+III- Taxes intérieures de consommation (Article 5 de la LF 2026)
+L’article 5 de la LF 2026 apporte des modifications au dahir portant loi n° 1-77-340 du
+9 octobre 1977, relatif aux taxes intérieures de consommation (TIC). Ces modifications
+exposées ci-après, concernent les dispositions spécifiques à certaines matières soumises à
+ces taxes:
+- Report de la date de mise en œuvre du marquage fiscal de certains combustibles
+avec élargissement de son champ d’application (article 42 bis du dahir n°1-77-340 et
+article 5 de la loi de finances n°55-23 pour l’année budgétaire 2024)
+En vertu des dispositions de l’article 5 de la loi de finances n°55-23 pour l’année budgétaire
+2024, l’article 42 bis du dahir portant loi n° 1-77-340 du 9 octobre 1977 a été amendé pour
+prévoir l’obligation du marquage fiscal du gasoil et du supercarburant, avec effet à compter
+du 1er janvier 2026.
+A présent et compte tenu de l’étude des meilleurs pratiques à l’international dans le domaine
+du marquage fiscal des produits pétroliers, il a été jugé opportun d’étendre cette obligation de
+marquage fiscal au carburéacteur, aux fuel oils, au propane liquéfié commercial et au butane
+liquéfié commercial.
+Par ailleurs et en raison de la spécificité technique particulière liée à la mise en place d’un
+système de marquage fiscal de ces produits, et afin de donner le temps nécessaire aux
+opérateurs du secteur pour adapter leurs installations à ce système, la date d’entrée en
+vigueur du marquage fiscal de ces produits pétroliers a été reportée au 1er janvier 2028.
+Il en va de même pour l’infraction pour le non-respect de l’obligation du marquage fiscal de
+ces produits pétroliers qui prendra effet, également, à compter du 1er janvier 2028.
+Les modifications ainsi apportées au dahir portant loi n°1-77-340 du 9 octobre 1977, sont
+reprises au niveau de l’annexe III à la présente circulaire.
+IV- Suspension de la perception du droit d’importation appliqué à certains animaux
+domestiques vivants (Article 5 bis de la LF 2026)
+Dans le cadre de la poursuite des efforts visant à assurer un approvisionnement normal du
+marché national en viandes rouges et à prévenir la hausse des prix de ces produits, l’article 5
+bis de la LF 2026 prévoit, durant la période allant du 1er janvier au 31 décembre 2026, la
+suspension de la perception du droit d’importation appliqué aux:
+--- Page 7 (parsed text) --7
+Animaux vivants domestiques des espèces bovines et ce, dans la limite d’un
+contingent de 300 000 têtes.
+Animaux vivants domestiques des espèces camélidés et ce, dans la limite d’un
+contingent de 10 000 têtes.
+Au plan douanier, le bénéfice de cet avantage est accordé au vu d’une demande de
+franchise douanière présentée par l’importateur à l’appui de sa déclaration d’importation.
+V- Taxe sur les bois importés (Article 6 de la LF 2026)
+Depuis le 1er janvier 2025, la taxe sur les bois importés (TBI) s’applique au taux de 12% advalorem sur les bois et ouvrages en bois relevant du chapitre 44 du TDI, à l’exception des
+produits relevant de la position 44. 08 du TDI et des ouvrages en bois relevant du chapitre 94
+du TDI, auxquels s’applique un taux de 6%.
+A ce sujet et dans le but de réduire le coût d’importation des matières premières et demiproduits en bois et partant, baisser le prix de vente des ouvrages en bois aux
+consommateurs, l’article 6 de la LF 2026 prévoit la réduction du taux de cette taxe à 6 %
+pour l’ensemble des bois et ouvrages en bois soumis au taux de 12%.
+Ainsi et à compter du 1er janvier 2026, la TBI s’applique au taux unique de 6% à l’ensemble
+des bois et ouvrages en bois relevant des chapitres 44 et 94 du TDI.
+VI- Taxe sur la valeur ajoutée à l’importation (Article 7 de la LF 2026)
+L’article 7 de la LF 2026 apporte des modifications au Code Général des Impôts (CGI), dont
+celles se rapportant à la taxe sur la valeur ajoutée (TVA) à l’importation sont reprises cidessous:
+VI. 1- Exonération des pâtes alimentaires courtes non cuites et non farcies de la TVA à
+l’importation
+Actuellement, les pâtes alimentaires sont soumises à la TVA à l’importation au taux de 10%.
+Toutefois et en vue de soutenir le pouvoir d’achat des consommateurs, l’article 7 de la LF
+2026 prévoit l’exonération de la TVA à l’importation des pâtes alimentaires courtes non cuites
+et non farcies. Les autres types de pâtes, dites longues, demeurent soumises au taux de la
+TVA à l’importation de 10%.
+VI. 2- Exonération du sang et ses dérivés de la TVA à l’importation
+Afin de garantir un accès équitable et durable aux produits médicaux essentiels, l’article 7 de
+la loi de finances pour l’année budgétaire 2026 (article 123-37° du CGI) a étendu
+l’exonération de la TVA à l’importation dont bénéficie les produits pharmaceutiques, au sang
+et ses dérivés.
+--- Page 8 (parsed text) --8
+Au niveau informatique, le bénéfice de cette exonération est accordé par l’utilisation du code
+franchise n°2015 dont l’intitulé est complété comme suit « Produits pharmaceutiques, sang
+et ses dérivés ».
+VI. 3- Exonération des matières fertilisantes et supports de culture de la TVA à
+l’importation
+L’article 7 de la LF 2026 a étendu le bénéfice de l’exonération de la TVA à l’importation
+accordée aux engrais, prévue à l’article 123-13° du CGI, aux matières fertilisantes et
+supports de culture, tels que définis par la loi n° 53-18 relative aux matières fertilisantes et
+aux supports de culture, promulguée par le dahir n°1-21-68 du 14 juillet 2021, destinés à
+usage exclusivement agricole.
+Cette exonération est subordonnée au respect des conditions suivantes:
+La réalisation de l’opération d’importation dans les conditions prévues par la loi
+n° 53-18 précitée; et
+L’accomplissement des formalités réglementaires prévues par le décret d’application
+de la TVA.
+Ainsi, le décret n° 2-25-1041 du 05 décembre 2025 modifiant et complétant le décret
+n° 2-06-547 du 31 décembre 2006 pris pour l’application de la TVA prévue au titre III du CGI,
+prévoit que pour bénéficier de l’exonération susvisés de la TVA à l'importation des matières
+fertilisantes et les supports de culture, l’importateur doit fournir:
+une demande d'exonération par voie électronique à l'administration fiscale selon un
+modèle établi par ladite administration;
+une facture proforma établie par le fournisseur indiquant les matières ou produits et
+leur prix hors taxe;
+un état descriptif des matières et produits importés;
+un engagement que les matières et produits en question soient destinés
+exclusivement à un usage agricole.
+Après examen de ladite demande, l'administration fiscale délivre à l'intéressé par voie
+électronique, une attestation " d'importation en exonération de la taxe sur la valeur
+ajoutée ", qui est transmise à l'administration des douanes et impôts indirects.
+En attendant la mise en place d’un échange informatisé de cette attestation entre l’ADII et la
+DGI, le bénéfice de cette exonération est subordonné à la production par l’importateur de
+l’attestation susvisée, délivrée par les services compétents de la DGI.
+Au niveau informatique, le bénéfice de cette exonération est accordé par l’utilisation du code
+franchise n° 1033 dont l’intitulé est complété comme suit « Engrais du chapitre 31, nitrate de
+potassium à usage d’engrais, phosphates de potassium à usage d’engrais, polyphosphates
+--- Page 9 (parsed text) --9
+de potassium à usage d’engrais, salins de betterave, autres nitrates, matières fertilisantes
+et supports de culture ».
+VI. 4Alignement
+des
+durées
+supplémentaires
+d’exonération
+des
+biens
+d’investissement en matière de TVA à l’importation
+Actuellement, la durée d’exonération de la TVA à l’importation des biens d’investissement
+prévues par l’article 123-22° du CGI est de trente-six (36) mois, avec des délais
+supplémentaires accordés selon les cas suivants:
+Un délai supplémentaire de six (06) mois est accordé en cas de force majeure,
+renouvelable une seule fois, pour les entreprises qui procèdent aux constructions de
+leurs projets d’investissements (article 123-22°-a) du CGI);
+Une possibilité de prorogation de vingt-quatre (24) mois pour les entreprises qui
+réalisent des projets d’investissement dans le cadre d’une convention conclue avec
+l’Etat, en cours de validité (article 122-22°-b) du CGI).
+Cette différenciation des délais supplémentaires crée des difficultés d’application dues aux
+divergences d’interprétation, notamment en ce qui concerne les cas de force majeure.
+Afin de simplifier ce dispositif, la LF 2026 a prévu que le délai d’exonération de trente-six (36)
+mois à l’intérieur et l’importation, puisse être prorogé d’un délai supplémentaire de vingtquatre (24) mois, pour les entreprises qui construisent leurs projets d’investissement et les
+entreprises qui réalisent des projet d’investissement dans le cadre d’une convention conclue
+avec l’Etat, en cours de validité, à condition de souscrire une demande de prorogation, par
+procédé électronique selon un modèle établi par l’administration, avant l’expiration dudit délai
+de trente-six (36) mois.
+En outre, la prorogation des délais d’exonération, ainsi instituée, est conditionnée par
+l’accomplissement des formalités réglementaires ci-après, prévues par le décret n° 2. 25. 1041
+précité:
+1- Pour les entreprises qui construisent leurs projets d’investissement
+a) Lorsque les entreprises qui construisent leurs projets d’investissement n’ont pas pu
+achever les travaux de construction, la demande de prorogation précitée, doit être
+accompagnée d’un état d’avancement des travaux de construction délivré par la
+personne habilitée à cet effet, qui précise les travaux réalisés et identifie les
+événements survenus ayant retardé la finalisation desdits travaux.
+b) Lorsque lesdites entreprises achèvent leurs travaux de construction, ladite
+demande doit être accompagnée des documents suivants:
+- Le certificat de conformité ou l’attestation d’achèvement de construction délivrée
+par la personne habilitée à cet effet;
+--- Page 10 (parsed text) --10
+- Un état selon un modèle établi par l’administration, indiquant les événements
+survenus justifiant la demande de prorogation de l’exonération et comportant la
+liste indicative des biens d’investissement restant à acquérir en exonération de la
+taxe sur la valeur ajoutée à l’intérieur ou à l’importation et l’objet de leur utilisation
+dans le projet.
+2- Pour les entreprises qui réalisent des projets d’investissement dans le cadre
+d’une convention conclue avec l’Etat en cours de validité
+a) Lorsque lesdites entreprises n’ont pas pu achever les travaux de construction, la
+demande de prorogation précitée doit être accompagnée des documents suivants:
+- Une copie de la convention d’investissement précitée et le cas échéant, des
+avenants y afférents;
+- Un état d’avancement des travaux de construction, délivré par la personne
+habilitée à cet effet, qui précise les travaux réalisés et identifie les événements
+ayant retardé la finalisation desdits travaux.
+b) Lorsque lesdites entreprises achèvent leurs travaux de construction, ladite
+demande doit être accompagnée des documents suivants:
+- Une copie de la convention d’investissement précitée et le cas échéant, des
+avenants y afférents.
+- Le certificat de conformité ou l’attestation d’achèvement de construction délivrée
+par la personne habilitée à cet effet;
+- Un état selon un modèle établi par l’administration, indiquant les événements
+survenus justifiant la demande de prorogation et comportant la liste indicative
+des biens d’investissement restant à acquérir en exonération de la taxe sur la
+valeur ajoutée à l’intérieur ou à l’importation et l’objet de leur affectation dans le
+projet.
+Après examen de ladite demande, l'administration fiscale délivre à l’entreprise concernée
+une décision par voie électronique. En cas de refus de prorogation du délai d’exonération,
+ladite administration est tenue d’informer l’entreprise des motifs de ce refus.
+Au plan douanier, la prorogation susvisée du délai de trente-six mois (36) pour les biens
+d’investissement importés, est accordée au vu de la décision précitée délivrée par les
+services compétents de la DGI
+Les modifications ainsi apportées au CGI, sont reprises au niveau de l’annexe IV à la
+présente circulaire.
+--- Page 11 (parsed text) --11
+VI. 5- Exonération provisoire de la TVA à l’importation des animaux vivants
+domestiques des espèces bovines et camélidés
+Dans le même cadre ayant prévalu à la suspension susvisée de la perception du DI pour
+certains animaux vivants domestiques, et afin d’assurer un approvisionnement normal du
+marché national à des prix convenables, l’article 7 de la LF2026 a amendé l’article 247 du
+CGI pour prévoir l’exonération provisoire du 1er janvier au 31 décembre 2026, de la TVA à
+l’importation en faveur des:
+Animaux vivants domestiques des espèces bovines et ce, dans la limite d’un
+contingent de 300 000 têtes;
+Animaux vivants domestiques des espèces camélidés et ce, dans la limite d’un
+contingent de 10 000 têtes;
+Au plan douanier, cet avantage est accordé au vu d’une demande de franchise douanière
+présentée par l’importateur à l’appui de sa déclaration d’importation.
+VII- Rappel de certaines mesures fiscales
+VII. 1Taxes
+intérieures
+de
+consommation
+applicables
+aux
+cigarettes
+(article 9-Tableau G du dahir n°1-77-340)
+En application des dispositions de la loi de finances pour l’année 2022, une réforme de
+taxation au titre de la TIC applicable sur les cigarettes a été mise en place de manière
+progressive, pour une durée de cinq ans à compter du 1er janvier 2022.
+La mise en œuvre de la cinquième et dernière année de cette réforme fiscale, à compter du
+1er Janvier 2026, portera sur l’application des quotités suivantes:
+550 dirhams au lieu de 400 dirhams, les 1000 cigarettes pour la composante
+spécifique de la TIC;
+56, 5% au lieu de 61% pour la composante ad-valorem de la TIC; et
+953 dirhams au lieu de 900, 9 dirhams, les 1000 cigarettes pour le minimum de
+perception.
+Une instruction administrative fixera la liste des marques de tabacs manufacturés, leur prix
+de vente au public ainsi que l’assiette de calcul de la composante ad-valorem de la TIC.
+Les modifications ainsi apportées au tableau G du dahir portant loi n°1-77-340 du 9 octobre
+1977 relatif aux taxes intérieures de consommation, sont repris au niveau de l’annexe V à la
+présente circulaire.
+--- Page 12 (parsed text) --12
+VII. 2- Entrée en vigueur du marquage fiscal des produits connexes de tabac, des
+liquides pour charger ou recharger les cigarettes électroniques, des substituts
+nicotiniques sans tabac, des cigarettes électroniques jetables et des produits
+contenant du sucre (article 9-Tableaux H et L du dahir n°1-77-340)
+En application des dispositions des lois de finances pour les années 2024 et 2025,
+l’obligation du marquage fiscal a été étendue à partir du 1er janvier 2026, aux produits
+contenant du sucre ainsi qu’aux produits connexes de tabac, aux liquides pour charger ou
+recharger les cigarettes électroniques, aux substituts nicotiniques sans tabac et aux
+cigarettes électroniques jetables.
+Une instruction administrative fixera les modalités pratiques de mise en place du système de
+marquage fiscal de ces nouveaux produits.
+Les dispositions exposées ci-dessus prennent effet à compter du 1er janvier 2026.
+Toute difficulté d’application sera signalée à l’Administration Centrale sous le timbre de la
+présente.
+SGIA/Diffusion/26-12-25/17h00
+[Note: 1 image(s) found on this page. ]
+--- Page 13 (parsed text) --13
+Annexe n° I à la circulaire n° 6702/210 du 26 Décembre 2025
+CODE DES DOUANES ET IMPOTS INDIRECTS
+ARTICLE 3
+I- A compter du 1er janvier 2026, les dispositions des articles 13-1°, 35-1° 282, 297 et 297
+bis du code des douanes et impôts indirects relevant de l’administration des douanes et
+impôts indirects, approuvé par le dahir portant loi n° 1-77-339 du 25 chaoual 1397 (9 octobre
+1977), sont modifiées ou complétées comme suit:
+Article 13 – 1° Sauf disposition contraires. .. .. .. .. .. .. .. .. aux marchandises pour lesquelles:
+– les justifications résultant ……………………………… du territoire assujetti, ou
+– un crédit documentaire irrévocable. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. . desdites mesures.
+Article 35 - 1° Les agents de l’administration sont autorisés. .. .. .. .. .. .. .. .. . leurs sommations.
+Ils sont également autorisés à utiliser tout autre moyen de nature à permettre le
+contrôle, la surveillance et le suivi, notamment les drones, les caméras de surveillance
+et les scanners.
+Article 282- la contrebande s’entend:
+1°- …………………………………………………………………………………………….
+………………………………………………………………………………………………….
+………………………………………………………………………………………………….
+5°- toute manœuvre…………………………………………. .l’opération d’importation;
+6°- des importations sans déclaration de marchandises découvertes avec celles
+placées sous le régime de transit à destination des zones d’accélération industrielle,
+lorsqu’il s’avère que les marchandises en question sont incompatibles avec l’activité
+dûment autorisée du soumissionnaire. »
+Article 297- Constituent des contraventions douanières de troisième classe:
+1°- les infractions aux dispositions du paragraphe 1°de l’article 32 ci-dessus;
+……………………………………………………………………………………………. .. .. .
+…………………………………………………………………………………………………
+8°- le défaut d’annexer à la déclaration en détail, les documents exigés par la législation et
+la réglementation en vigueur;
+9°- toute fausse déclaration du lieu effectif de stockage ou de transformation des
+marchandises, prévue par le deuxième paragraphe de l’article 19 bis ci-dessus.
+Article 297 bis - Les contraventions douanières de troisième classe sont punies:
+--- Page 14 (parsed text) --14
+- d’une amende de 80. 000 à 100. 000 dhs…………………. .l’article 297 précité;
+- d’une amende de 30. 000 à 60. 000 dhs pour les infractions visées aux paragraphes 4°
+et 9 de l’article 297 précité;
+- d’une amende de 3. 000 à 30. 000 dhs…………………………………………………
+(la suite sans modification).
+II- A compter du 1er janvier 2026, la section II du chapitre IV du titre premier et la section III
+du chapitre premier du titre IV du code des douanes et impôts indirects précité, sont
+complétées respectivement par 4, intitulé « Destination des marchandises » et son
+article 19 bis et par l’article 76 ter comme suit:
+TITRE PREMIER
+PRINCIPES GENERAUX
+……………………………………………………………………………………………………
+CHAPITRE IV
+Conditions d’application du tarif des douanes
+Section I
+………………………………………………………………………………………………………
+Section II
+Eléments qualitatifs d’assiette
+1- …………………………………………………………………………………………………
+2- ………………………………………………………………………………………………. .
+3- ………………………………………………………………………………………………….
+4- Destination des marchandises.
+Article 19 bis- L’importateur déclare à l’administration la destination des marchandises
+objet de déclaration en détail.
+Pour permettre à l’administration de s’assurer de la destination des marchandises
+importées, l’importateur doit indiquer, dans ladite déclaration, le lieu effectif de
+stockage ou de transformation des marchandises.
+……………………………………………………………………………………………………………
+…………………………………………………………………………………………………
+………………………………………………………………………………………………………
+--- Page 15 (parsed text) --15
+TITRE IV
+OPERATIONS DE DEDOUANEMENT
+CHAPITRE PREMIER
+Déclaration en détail
+…………………………………………………………………………………………………….
+……………………………………………………………………………………………………. .
+………………………………………………………………………………………………………
+Section III
+Forme, énonciations et enregistrement des déclarations en détail
+………………………………………………………………………………………………
+………………………………………………………………………………………………. .
+Article 76 bis……………………………………………………………………………. .. .. .. .. .. ..
+Article 76 ter- En vue de faciliter les opérations de dédouanement, l’administration
+met à la disposition des importateurs une plateforme électronique qu’elle agrée,
+permettant le dépôt et la transmission automatisée et sécurisée des documents
+commerciaux devant être annexés à leurs déclarations en détail.
+--- Page 16 (parsed text) --16
+Annexe n° II à la circulaire n° 6702/210 du 26 Décembre 2025
+TARIF DES DROITS DE DOUANE
+ARTICLE 4
+A compter du 1er janvier 2026, le tarif des droits d’importation fixé par l’article 4 §I de la loi de
+finances n° 25-00 pour la période du 1er Juillet au 31 décembre 2000, promulguée par le dahir n° 100-241 du 25 rabii I 1421 (28 Juin 2000), tel qu’il a été modifié et complété, est modifié comme suit:
+Chapitre 30
+PRODUITS PHARMACEUTIQUES
+Notes.
+……………………………………………………………………………………………………………………………………………………………………………. .
+……………………………………………………………………………………………………………………………………………………………………………. .
+Notes complémentaires
+1/ Ne rentrent au n° 3002. 42. 91. 00 que les vaccins vétérinaires suivants:
+……………………………………………………………………………………………………………………………………………………………………………. .
+……………………………………………………………………………………………………………………………………………………………………………. .
+2/ a- Ne rentrent aux sous-positions ci-après que les médicaments contenant des pénicillines ou des dérivés de ces
+produits, à structure d’acide pénicillinique, ou des streptomycines ou des dérivés de ces produits comme suit:
+1) ……………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………. .…. .
+2) ……………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………. .…. .
+3) 3004. 10. 00. 50
+- Streptomycine
+""
+4) 3004. 10. 00. 60
+- Ceftriaxone (Sodique)
+(DCI)
+b- Ne rentrent aux n°s 3003. 20. 90. 10 et 3004. 20. 00. 50 que les médicaments contenant les autres antibiotiques:
+1)- présentés sous forme injectable ou collyres
+- Acide Fusidique
+DCI
+- Amphotericin B liposomal
+""
+- Azithromycine
+""
+- Bacitracine// Colistine// Hydrocortizone
+""
+- Cefuroxime
+""
+- Ciprofloxacine
+""
+- Ciprofloxacine (Chlorhydrate)
+""
+- Clofazimine
+""
+- Dactinomycine
+""
+- Daptomycine
+""
+- Gentamicine
+""
+- Levofloxacine
+""
+- Moxifloxacine
+""
+- Moxifloxacine (Chlorhydrate)
+""
+- Norfloxacine
+""
+[Note: 1 image(s) found on this page. ]
+--- Page 17 (parsed text) --17
+- Ofloxacine
+""
+2)- à base des DCI suivantes, sous toute forme galénique:
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Caspofungine
+""
+- Cefdinir
+""
+- Cefditoren Pivoxil
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Ceftazidime/Avibactam
+""
+- Ceftobiprole Medocaril
+""
+- Ceftolozane/Tazbactam
+""
+- Cycloserine
+""
+- Ertapeneme
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Dexamethasone // Neomycine // Polymyxine B
+""
+- Dexamethasone // Neomycine (Sulfate) // Polymyxine B (Sulfate)
+- Doxorubicine (Chlorhydrate)
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Meropeneme
+""
+- Mitomycine
+""
+- Mupirocine
+""
+- Neomycine // Polymyxine B // Nystatine
+""
+- Oritavancine diphosphate
+""
+- Sulfate de Neomycine // Sulfate de polymyxine B // Nystatine
+- Sufadiazine Argentique
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+2/bis. - Ne rentrent au n° 3004. 20. 00. 60 que les médicaments contenant les autres antibiotiques:
+…………………………………………………………………………………………
+- Cefuroxime Axetil
+""
+- Rifampicine/Isoniazide /Pyrazinamide/Ethambutol
+""
+…………………………………………………………………………………………
+2/ter. - Ne rentrent au n° 3004. 20. 00. 65 que les médicaments contenant les autres antibiotiques:
+- Ceftazidime
+DCI
+- Ceftazidime Pentahydrate
+""
+- Clarithromycine
+""
+- Rifampicine/Isoniazide
+""
+- Rifampicine/Isoniazide /Pyrazinamide
+""
+3/ Ne rentrent aux n°s 3003. 31. 00. 10, 3003. 39. 80. 10, 3004. 31. 00. 30, 3004. 32. 00. 60, 3004. 39. 00. 70 que les
+médicaments contenant des hormones ou d’autres produits du n° 29. 37 suivants:
+a- Contenant de l’insuline
+- Insuline Aspart
+DCI
+- Insuline Aspart (Rapide)
+""
+- Insuline Aspart (Intermediaire)
+""
+- Insuline Degludec
+""
+- Insuline Degludec (Lente)
+""
+- Insuline Degludec // Insuline Asprate (Intermedaire)
+""
+- Insuline Degludec // Asprate
+""
+- Insuline Detemir
+""
+- Insuline Detemir (Lente)
+""
+- Insuline Glargine
+""
+…………………………………………………………………………………………
+--- Page 18 (parsed text) --18
+…………………………………………………………………………………………
+b-Contenant des hormones corticostéroïdes, leurs dérivés ou analogues structurels
+1°) présentés sous forme injectable, collyres ou implant:
+- Betamethasone
+DCI
+- Dexamethasone
+""
+- Phosphate Sodique d'Hydrocortisone
+""
+- Methylprednisolone
+""
+- Prednisolone
+2°) à base des DCI suivantes, sous toute forme galénique:
+- Beclomethasone
+DCI
+- Beclomethasone // Formoterol Fumarate Dihydrate
+- Betamethasone (Dipropionate) // Betamethasone Phosphate Disodique
+- Betamethasone // Calcipotriol
+""
+- Budesonide
+""
+- Budesonide // Salmeterol
+""
+- Budesonide // Fumarate de Formoterol Dihydrate
+""
+- Clobetasol
+""
+- Dipropionate de Beclomethasone Anhydre // Fumarate de Formoterol Dihydrate
+- Estradiol
+""
+…………………………………………………………………………………………
+- Estradiol // Norethisterone
+""
+- Estradiol hemihydrate // acétate de Norethisterone
+""
+- Estriol
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Hydroxyprogesterone Caproate
+""
+- Hydrocortisone
+""
+- Hydrocortisone (Hydrogenosuccinate)
+""
+- Lactobacillus Acidophilus // Estriol
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Promestriene
+""
+- Propionate de Clobetasol ""
+- Testosterone (Enanthate)
+""
+c- Contenant autres hormones ou autres produits du n° 29. 37
+…………………………………………………………………………………………
+- Calcitonine
+""
+- Choriogonadotropine Alfa
+""
+- Clascoterone
+""
+- Corifollitropine alfa
+""
+- Dinoprostone
+""
+- Drospirenone // Ethinylestradiol
+""
+- Esterol/Drospirenone
+""
+- Folliculo-stimulante (FSH)
+""
+- Follitropine Alfa
+""
+- Follitropine Beta
+""
+- Follitropine alfa // Lutropine Alfa
+""
+- Ganirelix
+""
+- Glucagon Biogenetique
+""
+- Ixabepilone
+""
+- Levothyroxine
+""
+- Lutropine Alfa
+""
+- Misoprostol
+""
+…………………………………………………………………………………………
+- Metreleptine
+""
+--- Page 19 (parsed text) --19
+- Niraparib monohydrate//Acetate d’abiraterone
+""
+- Noradrenaline
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Somatropine
+""
+- Teriparatide
+""
+- Tirzepatide
+""
+- Urofollitropine
+""
+3/bis. - Ne rentrent aux n°s 3004. 32. 00. 70 et 3004. 39. 00. 75 que les médicaments contenant des hormones ou
+d’autres produits du n° 29. 37 suivants:
+a)-Contenant des hormones corticostéroïdes, leurs dérivés ou analogues structurels
+…………………………………………………………………………………………
+b)- Contenant autres hormones ou autres produits du n° 29. 37
+…………………………………………………………………………………………
+3/ter. - Ne rentrent aux n°s 3004. 32. 00. 80 et 3004. 39. 00. 80 ……………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+4/ Ne rentrent aux n°s 3003. 49. 90. 10 et 3004. 49. 00. 35 que les médicaments contenant des alcaloïdes ou leurs
+dérivés suivants:
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Atenolol // Chlortalidone
+""
+- Buprenorphine // naloxone
+""
+- Charbon Active // Papaverine (Chlorhydrate)
+""
+…………………………………………………………………………………………
+- Chlorydrate de Mepivacaine
+""
+- Cinnarizine// Dimenhydrinate
+""
+- Digoxine
+""
+- Eugenol// Lidocaine
+""
+- Lidocaine // Benzalkonium Chlorure
+""
+…………………………………………………………………………………………
+- Lidocaine de base // Cetrimide
+""
+- Morphine
+""
+- Oxetacaine // Magnesium Oxyde Leger // Aluminium Oxyde ""
+- Oxybuprocaine
+""
+- Sulfate de morphine
+""
+- Trabectedine
+""
+…………………………………………………………………………………………
+4/bis. - Ne rentrent au n° 3004. 41. 00. 30 ………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………………………………
+5/ Ne rentrent aux n°s 3003. 90. 94. 00, 3004. 50. 00. 81 et 3004. 90. 00. 70 que les médicaments contenant:
+a)- des vitamines suivantes:
+- Calcium // Cholecalciferol
+DCI
+- Isotretinoine
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+b)- les DCI suivantes:
+1-présentés sous forme injectable:
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Chlorpromazine
+""
+- Dacarbazine
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Ibuprofène
+""
+--- Page 20 (parsed text) --20
+- Inclisiran
+""
+- Irinotecan
+""
+- ketotifene
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+- Pasireotide
+""
+- Phloroglucinol // Trimethylphloroglucinol
+""
+…………………………………………………………………………………………
+- Ranitidine
+""
+- Salbutamol Sulfate
+""
+- Bupivacaine
+""
+2-présentés sous forme de collyres:
+…………………………………………………………………………………………
+- Diclofenac Sodique
+""
+- Cysteamine
+""
+- Gatifloxacine
+""
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+3- à base des DCI suivantes, sous toutes formes galéniques:
+……………………………………………………
+- Abacavir/Lamivudine (DCI)
+- Acalabrutinib (DCI)
+- Acetylleucine (DCI)
+……………………………………………………
+- Acide Amines+ electrolytes:
+Alanine, Arginine, Acide Aspartique,
+Acide Glutamique, Glycine, Histidine,
+Isoleucine,
+Leucine,
+Acetate
+de
+Lysine
+(equivalent
+À
+Lysine),
+Methionine, Phenylalanine, Proline,
+Serine,
+Theronine,
+Tryptophane,
+Tyrosine, Valine, Acetate de Sodium
+Trihydrate, Chlorure de Potassium,
+Chlorure
+de
+Magnesium
+Hexahydrate, Glycerophosphate de
+Sodium Hydrate // Solution de
+Glucose
++
+Caclium:
+Glucose
+Monohydrate
+(equivalent
+Au
+Glucose
+Anhydre),
+Chlorure
+de
+Calcium Dihydrate (DCI)
+- Acide Amines+ Electrolytes:
+Alanine, Arginine, Acide Aspartique,
+Acide Glutamique, Glycine, Histidine,
+Isoleucine,
+Leucine,
+Acetate
+de
+Lysine
+(Equivalent
+à
+Lysine),
+Methionine, Phenylalanine, Proline,
+Serine,
+Theronine,
+Tryptophane,
+Tyrosine, Valine, Ace (DCI)
+- Acide acetylsalicylique (DCI)
+……………………………………………………
+- Acide bempedoique // Ezetimibe
+(DCI)
+- Acide Carglumique (DCI)
+- Acide Cholique (DCI)
+- Acide Folinique (DCI)
+- Acide Obeticholique (DCI)
+……………………………………………………
+- Acide Ibandronique Equivalent A
+Ibandronate de Sodium
+Monohydrate (DCI)
+- Acide methylene phosphonique
+- Acide N-Acetyl Aspartyl Glutamique
+Sodique (DCI)
+……………………………………………………
+……………………………………………………
+- Alfuzosine (Chlorhydrate) (DCI)
+- Alogliptine (DCI)
+- Alogliptine // Metformin
+Hydrochloride(DCI)
+- Ambenonium (Chlorure) (DCI)
+……………………………………………………
+……………………………………………………
+- Amlodipine // Atrovastatine (DCI)
+- Amlodipine // Perindopril (DCI)
+- Amorolfine (DCI)
+……………………………………………………
+……………………………………………………
+- Artesunate (DCI)
+- Asciminib (DCI)
+- Atomoxetine (DCI)
+- Atorvastatine calcique trihydratee
+// Ezetimibe (DCI)
+- Atovaquone // Proguanil
+(chlorhydrate) (DCI)
+- Avalglucosidase alfa(DCI)
+- Azathiopurine (DCI)
+- Azelastine (DCI)
+- Azilsartan Medoxomil (DCI)
+- Azilsartan Medoxomil //
+Chlorthalidone (DCI)
+- Baclofene (DCI)
+- Baricitinib (DCI)
+- Bedaquiline(DCI)
+……………………………………………………
+……………………………………………………
+- Beta Sitosterol (DCI)
+- Betaxolol (DCI)
+- Biclothymol (DCI)
+- Bictegravir // Emtricitabine //
+Tenofovir Alafenamide (DCI)
+- Bimatoprost (DCI)
+……………………………………………………
+……………………………………………………
+- Bisoprolol // Amlodipine (DCI)
+- Bosutinib (DCI)
+- Bortezomib (DCI)
+……………………………………………………
+……………………………………………………
+- Brinzolamide // Timolol (Maleate)
+(DCI)
+- Brivaracetam (DCI)
+- Bromure de Glycopyrronium (DCI)
+- Bupropion (Chlorhydrate) (DCI)
+- Cabergoline (DCI)
+- Calfactan (surfactant (tensioactif
+naturel modifie))
+--- Page 21 (parsed text) --21
+- Calcium (Glucoheptonate) //
+Calcium (Gluconate) (DCI)
+……………………………………………………
+……………………………………………………
+- Chlorhydrate de Bendamustine
+(DCI)
+- Chlorhydrate de Benzydamine(DCI)
+- Chlorhydrate de Cariprazine (DCI)
+- Chlorhydrate de Cyclopentolate (DCI)
+- Chlorhydrate d'Esketamine(DCI)
+- Chlorhydrate de Lurasidone(DCI)
+- Chlorhydrate de Tetryzoline (DCI)
+- Chlormadinone (Acetate) //
+Ethinylestradiol (DCI)
+- Chlormadione Acetate // Ethinyl
+Estradiol Micronise (DCI)
+- Chlorure de Calcium Dihydrate //
+Chlorure de Magnesium
+Hexahydrate // Acide Lactique //
+Bicarbonate de Sodium // Chlorure
+de Sodium (DCI)
+- Chlorure de Sodium // Chlorure de
+Potassium // Chlorure de Calcium
+Dihydrate // Chlorure de Magnesium
+Hexahydrate // Acetate de Sodium
+// Acide L-Malique (DCI)
+- Chlorure de Sodium // Lactate de
+Sodium // Chlorure de Calcium //
+Chlorure de Magnesium
+Hexahydrate // Glucose Monohydrat
+(DCI)
+- Ciclosporine (DCI)
+……………………………………………………
+……………………………………………………
+- Cisplatine (DCI)
+- Citrate de cafeine (DCI)
+- Clonazepam (DCI)
+……………………………………………………
+……………………………………………………
+- Cyclophosphamide (DCI)
+- Cyproterone (Acetate) (DCI)
+……………………………………………………
+……………………………………………………
+- Dabigatran Etexilate (Mesilate)
+(DCI)
+- Dapagliflozine (DCI)
+- Dapagliflozine propanediol
+monohydrate // metformine
+hydrochloride (DCI)
+- Dapagliflozine // chlorhydrate de
+metformine (DCI)
+- Dapsone/oxalate de fer (DCI)
+- Darunavir (DCI)
+-Dasatinib Monohydrate( DCI)
+- Daunorubicine Hydrochloride (DCI)
+- Decitabine (DCI)
+- Deferasirox (DCI)
+……………………………………………………
+……………………………………………………
+- Deflazacorte (DCI)
+- Delafloxacine Meglumine (DCI)
+- Delamanid (DCI)
+……………………………………………………
+- Dequalinium (Chlorhydrate) (DCI)
+- Desflurane (DCI)
+- Dexlansoprazole (DCI)
+- Desmopressine (DCI)
+……………………………………………………
+……………………………………………………
+- Dexpanthenol // Alcool
+Polyvinylique (DCI)
+- Dextrose anhydre// lactate de
+sodium// chlorure de magnésium//
+chlorure de sodium// chlorure de
+calcium (DCI)
+- Diacerheine (DCI)
+- Dianeal (DCI)
+- Dichlorhydrate d'histamine
+-Diethylene Triamine Penta Acetate
+de sodium monohydrate(DCI)
+- Dienogest (DCI)
+……………………………………………………
+……………………………………………………
+- Dimethyl fumarate (DCI)
+- Docetaxel (DCI)
+……………………………………………………
+……………………………………………………
+- Dolutegravir/Lamivudine/
+Tenofovir (disoproxil fumarate) (DCI)
+- Dorzolamide (DCI)
+……………………………………………………
+……………………………………………………
+- Dorzolamide // Timolol (DCI)
+- Doxylamine // Pyridoxine(DCI)
+- Dulaglutide (DCI)
+- Duloxetine (Chlorhydrate) (DCI)
+- Dutasteride (DCI)
+- Ebastine (DCI)
+- Efavirenz (DCI)
+……………………………………………………
+……………………………………………………
+- Eltrombopaq Olamine (DCI)
+- Empagliflozine (DCI)
+- Empagliflozine // linagliptine (DCI)
+- Empagliflozine // Metformine (DCI)
+- Entacapone // Levodopa //
+Carbidopa (DCI)
+……………………………………………………
+……………………………………………………
+- Epirubicine (Chlorhydrate) (DCI)
+- Eribyline Mesilate (DCI)
+……………………………………………………
+- Erythropoetine (DCI)
+- Eszopiclone (DCI)
+- Ethinylestradiol Dienogest (DCI)
+- Etodolac (DCI)
+- Etomidate (DCI)
+……………………………………………………
+- Etoposide (DCI)
+- Everolimus (DCI)
+- Exemestane (DCI)
+……………………………………………………
+……………………………………………………
+- Fer (DCI)
+- Finerenone (DCI)
+- Fingolimod (DCI)
+- Fingolimod Chlorhydrate (DCI)
+- Flucytosine (DCI)
+……………………………………………………
+……………………………………………………
+- Formoterol (Fumarate) (DCI)
+- Fosaprepitant dimeglumine (DCI)
+- Fraction Phospholipidique de
+Poumon (DCI)
+- Fulvestrant (DCI)
+- Gabapentine (DCI)
+……………………………………………………
+……………………………………………………
+- Gemcitabine Chlorhydrate (DCI)
+- Gilteritinib Fumarate (DCI)
+- Givosiran (DCI)
+- Glucosamine (DCI)
+- Glycerol phenylbutyrate (DCI)
+- Gosereline (Acetate) (DCI)
+- Grazoprevir// Elbasvir (DCI)
+- Heparine Sodique (DCI)
+……………………………………………………
+--- Page 22 (parsed text) --22
+- Hyaluronate (Sodium) (DCI)
+- Hydroxycarbamide (DCI)
+……………………………………………………
+……………………………………………………
+- Ibrutinib (DCI)
+-Icodextrine// chlorure de sodium//
+solution s-lactate de sodium//
+chlorure de calcium // chlorure de
+magnesium (DCI)
+- Idebenone (DCI)
+……………………………………………………
+……………………………………………………
+- Insaponifiable D'Huile D'Avocat Soja (DCI)
+- Iodixanol (DCI)
+……………………………………………………
+……………………………………………………
+- Ipratropium // Fenoterol (DCI)
+- Irinotecan Trhydrate Chlorhydrate
+(DCI)
+……………………………………………………
+……………………………………………………
+- Lamivudine (DCI)
+- Lamivudine // Stavudine (DCI)
+- Lamivudine // Zidovudine (DCI)
+……………………………………………………
+- Lanreotide (DCI)
+- Lapatinib Ditosylate(DCI)
+- Laronidase (DCI)
+……………………………………………………
+……………………………………………………
+- Leflunomide (DCI)
+- Lenalidomide (DCI)
+- Lenograstim (DCI)
+- lenvatinib mesilate (DCI)
+- Leucovorine calcique (DCI)
+- Levetiracetam (DCI)
+- Levobupivacaine (DCI)
+- Levocabastine (Chlorhydrate) (DCI)
+……………………………………………………
+- Levonorgestrel (DCI)
+- Linagliptine (DCI)
+- Linagliptine // Empagliflozin (DCI)
+- Linagliptine // Metformine (DCI)
+- Liraglutide (DCI)
+- Lisinopril Dihydrate // Amilodipine
+(DCI)
+- Lornoxicam (DCI)
+- Loteprednol Etabonate (DCI)
+……………………………………………………
+……………………………………………………
+- Lurbinectedin (DCI)
+- Macrogol 4000 (DCI)
+- Magnesium (Sulfate) (DCI)
+- Magnesium Chlorure Hexahydrate
+// Glucose Monohydrate // Sodium
+Lactate // Sodium Chlorure //
+Calcium Chlorure Dihydrate (DCI)
+- Manidipine Chlorhydrate (DCI)
+……………………………………………………
+……………………………………………………
+- Mesna (DCI)
+- Metformine // Glibenclamide (DCI)
+- Methocarbamol (DCI)
+- Methotrexate (DCI)
+- Methylphenidate hydrochloride
+(DCI)
+- Methylthionimium Hydroxyde //
+Naphazoline Nitrate (DCI)
+……………………………………………………
+……………………………………………………
+- Mofetil Mycophenolate (DCI)
+- Modafinil (DCI)
+- Molnupiravir (DCI)
+……………………………………………………
+……………………………………………………
+- Mycophenolate Mofetil (DCI)
+-Mycophenolate (Sodium) (DCI)
+- Nadroparine Calcique (DCI)
+-Naratriptan (DCI)
+- Nebivolol (DCI)
+……………………………………………………
+……………………………………………………
+- Nirmatrelvir / Ritonavir (DCI)
+- Nitisinone (DCI)
+- Nutrineal (DCI)
+……………………………………………………
+- Octreotide (DCI)
+- Olaparib (DCI)
+- Olmesartan Medoxomil (DCI)
+……………………………………………………
+……………………………………………………
+- Orlistat (DCI)
+- Oseltamivir (DCI)
+- Osimertinib (DCI)
+- Otilonium Bromure (DCI)
+……………………………………………………
+……………………………………………………
+- Patisiran (DCI)
+- Pazopanib (Chlorhydrate)
+- Pegcetacoplan (DCI)
+- Pegunigalsidase Alfa (DCI)
+- Pemetrexed (DCI)
+- Pemetrexed Disodique (DCI)
+……………………………………………………
+……………………………………………………
+- Pipotiazine (DCI)
+- Plerixafor (DCI)
+- Pomalidomide (DCI)
+……………………………………………………
+……………………………………………………
+- Pyridostigmine (Bromure) (DCI)
+- Rabeprazole (DCI)
+- Racecadotril (DCI)
+- Remdesivir (DCI)
+- Ribociclib Succinate (DCI)
+- Rifaximine (DCI)
+- Rilmenidine
+Dihydrogenophosphate (DCI)
+- Rimegepant (Sulfate) (DCI)
+- Risdiplam (DCI)
+- Risperidone (DCI)
+……………………………………………………
+……………………………………………………
+- Rocuronium (Bromure) (DCI)
+- Roflumilast (DCI)
+- Ropivacaïne (DCI)
+- Ropinirole (Chlorhydrate) (DCI)
+- Ruxolitinib Phosphate (DCI)
+- Saccharomyces Boulardii (DCI)
+- Sacubitril Valsartan (DCI)
+- Saxagliptine (DCI)
+- Saxagliptine hydrochloride//
+dapagliflozine propanediol (DCI)
+- Secnidazole (DCI)
+- Selumetinib hydrogenosulfate (DCI)
+- Sevelamer Chlorhydrate (DCI)
+……………………………………………………
+……………………………………………………
+- Sofosbuvir // Velpatasvir (DCI)
+- Solifenacine // tamsulosine (DCI)
+- Somatrogon (DCI)
+- Silodosine (DCI)
+……………………………………………………
+……………………………………………………
+--- Page 23 (parsed text) --23
+- Sugammadex (Sodique) (DCI)
+- Sulfasalazine (DCI)
+- Sulfate d'Isavuconazonium (DCI)
+- Sunitinib L-Malate (DCI)
+- Tacrolimus (DCI)
+- Tafamidis Micronise (DCI)
+- Tenofovir (Alafenamide)
+/Emtricitabine(DCI)
+……………………………………………………
+……………………………………………………
+- Thiamazole (DCI)
+- Thiotepa (DCI)
+- Ticagrelor (DCI)
+……………………………………………………
+……………………………………………………
+- Ulipristal Acetate (DCI)
+- Uree (DCI)
+- Uree 13C (DCI)
+- Valproate de Sodium (DCI)
+- Vecuronium (Bromure) (DCI)
+- Velmanase Alfa (DCI)
+……………………………………………………
+……………………………………………………
+- Verapamil (Chlorhydrate) (DCI)
+- Vildagliptine (DCI)
+- Vildagliptine/ Metformine (DCI)
+- Vigabatrine (DCI)
+……………………………………………………
+……………………………………………………
+- Vortioxetine (DCI)
+- Zanubrutinib (DCI)
+- Zidovudine (DCI)
+……………………………………………………
+-Zofenopril
+Calcium
+//
+Hydrochlorothiazide
+(DCI)
+--- Page 24 (parsed text) --24
+5/ bis. - Ne rentrent au n° 3004. 90. 00. 75 que les médicaments contenant les DCI suivantes:
+1-présentés sous forme de solution buvable:
+- Escitalopram
+DCI
+- Escitalopram Oxalate
+""
+2 - à base des DCI suivantes, sous toutes formes galéniques:
+- Alpha-Amylase
+""
+……………………………………………………
+……………………………………………………
+- Chondroitine Sulfate Sodique
+""
+- Glucosamine (Sulfate)
+""
+- Quetiapine (fumarate)
+""
+- Salbutamol Sulfate (autre qu’injectable)
+""
+- Valsartan// hydrochlorothiazide
+""
+……………………………………………………
+……………………………………………………
+5/ter. - Ne rentrent aux sous-positions ci-après que les médicaments contenant les DCI suivantes:
+a) 3004. 50. 00. 82
+- Vitamine D3 (Cholecalciferol) // Carbonate de calcium DCI
+b) 3004. 90. 00. 80:
+- Aciclovir
+DCI
+- Albendazole
+""
+- Amisulpride
+""
+- Amlodipine // Hydrochlorothiazide // Valsartan
+""
+- Amlodipine // Irbesartan
+""
+- Amlodipine // Valsartan
+""
+- Clopidogrel
+""
+- Diclofenac
+""
+- Diltiazem (Chlorhydrate)
+""
+- Donepezil
+""
+- Donepezil (Chlorhydrate)
+""
+- Enalapril (Maleate)
+""
+- Esomeprazole (autre qu’injectable)
+""
+- Esomeprazole Magnesium
+""
+- Letrozole
+""
+………………………………………………………………………………. .……
+- Metronidazole
+""
+- Nebivolol (Chlorhydrate)
+""
+- Piroxicam
+""
+- Pyrazinamide
+""
+- Rivaroxaban
+""
+- Sitagliptine // Chlorhydrate de Metformine
+""
+- Sitagliptine // Metformine
+""
+- Solifenacine Succinate
+""
+- Tenofovir Alafenamide Fumarate
+""
+- Trolamine
+""
+- Valsartan
+""
+6/ Ne rentrent au n° 3003. 90. 95. 00 que les médicaments:
+1)- antidiabétiques suivants:
+a- Biguanides (activateurs de l’AMP-kinase)
+Metformine
+(DCI)
+………………………………………………………………………………. .……
+………………………………………………………………………………. .……
+2)- contenant les DCI suivantes:
+- Esomeprazole
+DCI
+--- Page 25 (parsed text) --25
+- Lansoprazole
+""
+- Tamsulosine Chlorhydrate
+""
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+Dénomination Commune Internationale (DCI)
+Chapitre 38
+PRODUITS DIVERS DES INDUSTRIES CHIMIQUES
+Notes.
+1-……………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………………
+Note complémentaire:
+1-Les huiles acides de raffinage…………………………………………………………………………………………………………………….
+………………………………………………………………………………………………………………………………………………………………………
+2-Les produits à détecter par les dispositifs de dépistage rapide de la sous position 3822. 19. 29. 10 sont:
+
+Virus de l’immunodéficience humaine (VIH);
+
+Virus de l’hépatite B (VHB);
+
+Virus de l’hépatite C (VHC);
+
+Tréponème pâle (Treponema pallidum) – agent responsable de la syphilis;
+
+Coronavirus du SARS-CoV-2 – agent responsable de la maladie COVID-19;
+
+Streptocoque du groupe A (Streptococcus A);
+
+Virus du papillome humain (Human Papillomavirus - HPV);
+
+Bactérie Helicobacter pylori;
+
+Virus de la variole du singe (Monkeypox virus);
+
+Hormone gonadotrophine chorionique humaine (Human Chorionic Gonadotropin - HCG);
+
+Virus de la rougeole (Measles virus);
+
+Mélange de virus comprenant au moins deux des types suivants:
+- Virus de la grippe A (Influenza A virus);
+- Virus de la grippe B (Influenza B virus);
+- Coronavirus du SARS-CoV-2; et
+- Virus respiratoire syncytial (Respiratory Syncytial Virus - RSV).
+
+Tétrahydrocannabinol (Tetrahydrocannabinol - THC), principe actif du cannabis;
+
+Cocaïne (Cocaine - COC);
+
+Benzodiazépines (Benzodiazepines - BZD);
+
+Opiacés (Opiates - OPI);
+
+Amphétamine (Amphetamine - AMP);
+
+Barbituriques (Barbiturates - BAR);
+
+Antidépresseurs tricycliques (Tricyclic Antidepressants - TCA);
+
+Méthadone (Methadone - MTD);
+
+Ecstasy / Méthylènedioxyméthamph; étamine (MDMA);
+
+Méthamphétamine (Methamphetamine - MET);
+
+Mélange d’au moins deux drogues parmi les substances suivantes: THC, COC, BZD, OPI, AMP, BAR, TCA,
+MTD, MDMA, MET.
+[Note: 1 image(s) found on this page. ]
+--- Page 26 (parsed text) --26
+Chapitre 85
+MACHINES, APPAREILS ET MATERIELS ELECTRIQUES ET LEURS PARTIES;
+APPAREILS D'ENREGISTREMENT OU DE REPRODUCTION DU SON, APPAREILS
+D'ENREGISTREMENT OU DE REPRODUCTION DES IMAGES ET DU SON EN
+TELEVISION, ET PARTIES ET ACCESSOIRES DE CES APPAREILS
+Notes.
+………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………
+Notes de sous positions
+…………………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………………
+Notes complémentaires.
+1. Ne rentrent au n° 8511. 30. 10. 00 ………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………………
+8. - Les disques, bandes et autres supports ………………………………………………………………………………. ……………. .
+9-Est considéré comme téléphone intelligent à l'état complet sous la forme d'éléments C. K. D ou S. K. D, au sens de
+la sous-position 8517. 13. 00. 30, la collection d’articles non montés, constituant un lot complet présentant les
+caractéristiques essentielles d’un téléphone intelligent spécifique, où chaque article dans la collection est conçu
+spécialement pour être intégré et équipé un téléphone intelligent spécifique.
+En outre et sous réserve des dispositions du paragraphe précédent, est à considérer comme collection d’articles
+non montés, celles remplissant simultanément les conditions suivantes:
+a) La collection d’articles non montés susvisée doit comporter au minimum les articles énumérés ci-après sous
+les formes indiquées:
+- un assemblage de carte du circuit principale (carte mère/ PCBA motherboard), préprogrammé et
+supportant un système d’exploitation répondant à la conception prévue par la note 5 du chapitre 85,
+même à l’état incomplet ou non fini;
+- un assemblage de carte du circuit secondaire (carte fille/PCBA SubBoard), même à l’état incomplet ou non
+fini;
+- un module d'écran tactile à panneau d'affichage (LCD, OLED, LED ou d’autres technologies d’affichage),
+même monté sur le châssis avant (partie du boîtier) du téléphone intelligent ou à l’état incomplet ou non
+fini (ex: sans écran tactile de visualisation et de commande);
+- une ou plusieurs conducteurs électriques souples sous forme de circuits imprimés (FPCB), munis ou non de
+pièces de connexions à leurs deux extrémités;
+- un accumulateur électrique servant de source d’alimentation au téléphone intelligent;
+- un ou plusieurs composants du boîtier vide du téléphone intelligent, tels le châssis avant, la coque arrière
+ou le cadre central;
+- une ou plusieurs antennes de tous types équipées de câbles coaxiaux, et à défaut une ou plusieurs
+antennes de tous types et un ou plusieurs câbles coaxiaux munis ou non de pièces de connexions à leurs
+deux extrémités;
+- un ou plusieurs modules d’appareil photographique numérique, même sans objectifs ou lentilles de
+protection; et
+- à moins que les articles ci-après énumérés fassent partie en tout ou en partie d’un assemblage monté sur
+une carte de circuits imprimés flexible (FPCB) commune ou d’autres assemblages ou modules précités,
+[Note: 1 image(s) found on this page. ]
+--- Page 27 (parsed text) --27
+conçus spécialement pour être intégrés et équipés un téléphone intelligent spécifique, la collection
+précitée doit comporter aussi les articles ci-après:
+- un blindage électromagnétique en feuille de cuivre (Copper Foil Shield);
+- un ou plusieurs haut-parleurs (ou récepteurs), même montés dans leurs enceintes;
+- un microphone;
+- un ou plusieurs puces pour capter les mouvements de l’utilisateur du téléphone intelligent;
+- un ou plusieurs diodes émettrices de lumière (LED) IR générant un signal infrarouge;
+- un moteur à vibration;
+- un ou plusieurs pièces de connexion des interfaces du téléphone intelligent (alimentation, carte(s) SIM(s),
+etc. ,); et
+- une ou plusieurs lentilles de protection, munies ou non de leurs supports.
+b) Sont exclus des collections C. K. D ou S. K. D de la sous position 8517. 13. 00. 30, les parties et éléments
+énumérés ci-après qui demeurent soumis à leur régime tarifaire propre:
+- les verres trempés de protection pour écrans de téléphones intelligents, non imprimés avec une matière
+électroconductrice;
+- les étuis et emballages conçus pour téléphone intelligent;
+- les câbles de transfert des données et d’alimentation;
+- convertisseurs statiques dits «chargeurs de batterie» pour téléphone intelligent;
+- les aiguilles ou autres outils de retrait de la carte SIM du téléphone intelligent;
+- manuel d’utilisation imprimé du téléphone intelligent.
+c) La collection d’articles non montés constituant un lot complet doit faire l’objet d’une liste officielle et
+complète
+des
+éléments,
+parties
+et
+assemblages
+validée
+par
+le
+constructeur
+d’origine
+(mandant/fabricant/équipementier/propriétaire de la marque, etc. ), attestant que les lots complets
+importés correspondent à un téléphone spécifique (modèle/identifiant IMEI)
+--- Page 28 (parsed text) --28
+Codification
+Désignation des Produits
+Droit d'importation
+Unité
+de Quantité
+Normalisée
+Unités Complémentaires
+09. 10
+Gingembre, safran, curcuma, thym, feuilles de laurier, curry et autres épices.
+…………………………………………………………………………………………………………. .……….
+0910. 20
+00
+– Safran
+1
+10 – – – non broyé ni pulvérisé……………………………………………………………………………
+60
+kg
+1
+90 – – – broyé ou pulvérisé…………………………………………………………………………………
+60
+kg
+0910. 30
+00
+……………………………………………………………………………………………………………. .……….
+……………………………………………………………………………………………………………. .……….
+30. 03
+Médicaments (à l'exclusion des produits des n°s 30. 02, 30. 05 ou 30. 06)
+constitués par des produits mélangés entre eux, préparés à des fins
+thérapeutiques ou prophylactiques, mais ni présentés sous forme de doses,
+ni conditionnés pour la vente au détail.
+…………………………………………………………………………………………………………………….
+…………………………………………………………………………………………………………………….
+3003. 90
+– Autres
+…………………………………………………………………………………………………………………….
+– – – autres:
+8
+94
+00 – – – – médicaments visés à la note complémentaire n° 5 du présent
+Chapitre……………………………………………………………………………………………………………
+2, 5
+Kg
+8
+95
+00 – – – – autres, visés à la note complémentaire n° 6 du présent Chapitre……. .
+2, 5
+Kg
+8
+98
+00 …………………………………………………………………………………………………………………….
+30. 04
+Médicaments (à l’exclusion des produits des n°s 30. 02, 30. 05 ou 30. 06)
+constitués par des produits mélangés ou non mélangés, préparés à des fins
+thérapeutiques ou prophylactiques, présentés sous forme de doses (y
+compris ceux destinés à être administrés par voie percutanée) ou
+conditionnés pour la vente au détail.
+3004. 10
+00
+– Contenant des pénicillines ou des dérivés de ces produits, à structure
+d'acide pénicillanique, ou des streptomycines ou des dérivés de ces produits
+…………………………………………………………………………. .. ………………………………………….
+…………………………………………………………………………………………………………………….
+8
+50 …………………………………………………………………………………………………………………….
+8
+60 – – – autres, visés à la note complémentaire n°2a 4) du présent Chapitre………
+17, 5
+kg
+8
+90 – – – autres……………………………………………………………………………………………………. .
+30
+Kg
+3004. 20 00
+…………………………………………………………………………………………………………………….
+…………………………………………………………………………………………………………………….
+– Autres, contenant des hormones ou d’autres produits du n° 29. 37
+3004. 31
+00
+– – Contenant de l'insuline
+8
+30 …………………………………………………………………………………………………………………….
+8
+70 – – – autres ……………………………………………………………………………………………………
+30
+Kg
+3004. 32
+00
+– – Contenant des hormones corticostéroïdes, leurs dérivés et analogues
+structurels
+…………………………………………………………………………………………………………………….
+…………………………………………………………………………………………………………………….
+8
+60 …………………………………………………………………………………………………………………….
+8
+70 – – – autres, visés à la note complémentaire n°3bis a) du présent Chapitre…
+10
+Kg
+8
+80 …………………………………………………………………………………………………………………….
+…………………………………………………………………………………………………………………….
+3004. 39
+00
+– – Autres
+…………………………………………………………………………………………………………………….
+8
+70 …………………………………………………………………………………………………………………….
+8
+75 – – – autres, visés à la note complémentaire n° 3bis b) du présent Chapitre…
+10
+Kg
+8
+80 …………………………………………………………………………………………………………………….
+--- Page 29 (parsed text) --29
+…………………………………………………………………………………………………………………….
+– Autres, contenant des alcaloïdes ou leurs dérivés
+3004. 41
+00
+– – Contenant de l'éphédrine ou ses sels
+8
+10 ……………………………………………………………………………………………………………. ………….
+8
+30 – – – autres, visés à la note complémentaire n° 4 bis du présent Chapitre………
+17, 5
+kg
+8
+90
+– – – autres………………………………………………………………………………………………………
+2, 5
+Kg
+3004. 42
+00
+…………………………………………………………………………………………………………………….
+…………………………………………………………………………………………………………………….
+3004. 50
+00
+– Autres, contenant des vitamines ou d’autres produits du n° 29. 36
+8
+10 …………………………………………………………………………………………………………………….
+– – – autres:
+8
+81 – – – – autres, visés à la note complémentaire n° 5a du présent Chapitre…. .
+2, 5
+Kg
+8
+82 – – – – autres, visés à la note complémentaire n° 5ter a) du présent Chapitre…
+17, 5
+kg
+8
+87 – – – – autres……………………………………………………………………………………………………
+30
+Kg
+3004. 60
+00
+………………………………………………………………………………………………………………. .……. .
+……………………………………………………………………………………………………………. .………. .
+3004. 90
+00
+– Autres
+…………………………………………………………………………………………………………………. …. .
+8
+20 ……………………………………………………………………………………………………………. .……….
+8
+70 – – – autres, visés à la note complémentaire n° 5b du présent
+Chapitre……………………………………………………………………………………………………………
+2, 5
+Kg
+8
+75 – – – autres, visés à la note complémentaire n° 5bis du présent Chapitre………. .
+10
+Kg
+8
+80 – – – autres, visés à la note complémentaire n° 5ter b) du présent Chapitre…… 17, 5
+Kg
+8
+90 …………………………………………………………………………………………. .…………………………. .
+30. 05
+…………………………………………………………………………………………………………………. …. .
+……………………………………………………………………………………………………………. .……….
+38. 08
+Insecticides, antirongeurs, fongicides, herbicides, inhibiteurs de germination
+et régulateurs de croissance pour plantes, désinfectants et produits
+similaires, présentés dans des formes ou emballages de vente au détail ou à
+l'état de préparations ou sous forme d'articles tels que rubans, mèches et
+bougies soufrés et papier tue-mouches.
+- Marchandises mentionnées dans la Note 1 de sous-positions du présent
+Chapitre:
+………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………….
+3808. 99
+- - Autres
+- - - présentés sous forme d'articles ou dans les formes de vente au détail ou
+en emballages immédiats de 1 Kg ou moins:
+5
+11
+00 - - - - contenant du bromure de méthyle (bromométhane)………………………………
+2, 5
+kg
+5
+19
+00 - - - - autres ……………………………………………………………………………………………………. .
+2, 5
+kg
+90
+- - - autres:
+5
+10 - - - - contenant du bromure de méthyle (bromométhane)………………………………
+2, 5
+kg
+5
+70 - - - - autres……………………………………………………………………………………………………. .
+2, 5
+kg
+38. 09
+………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………
+38. 22
+Réactifs de diagnostic ou de laboratoire sur tout support et réactifs de
+diagnostic ou de laboratoire préparés, même sur un support, même
+présentés sous forme de trousses, autres que ceux du n° 30. 06; matériaux
+de référence certifiés.
+– Réactifs de diagnostic ou de laboratoire sur tout support et réactifs de
+diagnostic ou de laboratoire préparés, même sur un support, même
+présentés sous forme de trousses:
+3822. 11
+– – Pour le paludisme:
+…………………………………………………………………………………………………………………. …. .
+– – – réactifs de diagnostic consistant en des produits immunologiques:
+8
+21
+00 …………………………………………………………………………………………………………………. …. .
+29
+– – – – autres:
+5
+10 – – – – – dispositif de dépistage rapide à usage unique, emballé et scellé
+individuellement, même conditionné en unités de plusieurs tests…………………… 17, 5
+kg
+--- Page 30 (parsed text) --30
+5
+90 – – – – – autres…………………………………………………………………………………………………
+2, 5
+kg
+3822. 12
+– – Pour le Zika et d’autres maladies transmises par les moustiques du genre
+Aedes
+– – – réactifs de diagnostic consistant en des produits immunologiques:
+8
+11
+00 …………………………………………………………………………………………………………………. …. .
+19
+– – – – autres:
+5
+10 – – – – – dispositif de dépistage rapide à usage unique, emballé et scellé
+individuellement, même conditionné en unités de plusieurs tests…………………… 17, 5
+kg
+5
+90 – – – – – autres…………………………………………………………………………………………………
+2, 5
+kg
+5
+90 00 …………………………………………………………………………………………………………………. …. .
+…………………………………………………………………………………………………………………. …. .
+3822. 19
+– – Autres
+– – – réactifs de diagnostic consistant en des produits immunologiques:
+8
+21
+00 …………………………………………………………………………………………………………………. …. .
+29
+– – – – autres:
+5
+10 – – – – – dispositif de dépistage rapide à usage unique, emballé et scellé
+individuellement, même conditionné en unités de plusieurs tests, pour la
+détection des produits mentionnées dans la Note complémentaire n° 2 du
+présent Chapitre………………………………………………………………………………………………
+17, 5
+kg
+5
+90 – – – – – autres…………………………………………………………………………………………………
+2, 5
+kg
+5
+90 00 …………………………………………………………………………………………………………………. …. .
+…………………………………………………………………………………………………………………. …. .
+39. 04
+Polymères du chlorure de vinyle ou d’autres oléfines halogénées, sous
+formes primaires.
+3904. 10
+– Poly (chlorure de vinyle), non mélangé à d’autres substances
+………. ………………………………………………………………………………………………………………
+5
+20
+00 ……………………………………………………………………………………………………………………….
+5
+90
+00 – – – grumeaux, granulés, flocons, poudres (y compris les poudres à
+mouler). .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..
+10
+kg
+– Autre poly (chlorure de vinyle):
+……………………………………………………………………………………………………………………….
+……………………………………………………………………………………………………………………….
+40. 10
+Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
+- Courroies transporteuses:
+………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………….
+4010. 39
+00
+- - Autres:
+7
+10 – – – Courroies de transmission pour machine à laver le linge d'une
+circonférence extérieure comprise entre 400 et 800 mm……………………………….
+17, 5
+kg
+7
+90 – – – autres………………………………………………………………………………………………………
+30
+kg
+40. 11
+………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………
+40. 16
+Autres ouvrages en caoutchouc vulcanisé non durci
+8
+4016. 10
+00
+00 ………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………
+4016. 93
+00
+- - Joints:
+8
+10 ……………………………………………………………………………………………………………………….
+8
+20 - - - circulaires des types utilisés dans la fabrication des machines à laver le
+linge d'un diamètre compris entre 25 et 50mm…………………………………………….
+17, 5
+kg
+8
+80 - - - autres……………………………………………………………………………………………………. .
+30
+kg
+8
+4016. 94
+00
+00 ………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………….
+4016. 99
+- - Autres
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+- - - autres:
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+- - - - autres
+--- Page 31 (parsed text) --31
+…………………………………. ……………………………………………………………………………………
+96
+…………………………………. ……………………………………………………………………………………
+……………………………………………………………………………………………………………………….
+8
+90 …………………………………. ……………………………………………………………………………………
+98
+- - - - - autres:
+8
+10 – – – – – – silentblocs pour machines à laver le linge d'un diamètre compris
+entre 25 et 50mm……………………………………………………………………………………………. 17, 5
+kg
+8
+90 – – – – – – autres ……………………………………………………………………………………………. .
+30
+kg
+4017. 00
+………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+44. 21
+Autres ouvrages en bois
+……………………………………………………………………………………………………………………. .
+……………………………………………………………………………………………………………. .……. .
+4421. 99
+– – Autres
+……………………………………………………………………………………………………………………. .
+……………………………………………………………………………………………………………………. .
+90
+– – – – autres:
+………………………………………………………………………………………………………………. .…. .
+5
+70 ………………………………………………………………………………………………………………. .…. .
+– – – – – autres:
+8
+81 – – – – – – panneaux constitués de lattes en bois sciés assemblées par collage. . 17, 5
+kg
+8
+89 – – – – – – autres……………………………………………………………………………………………. .
+30
+kg
+54. 04
+Monofilaments synthétiques de 67 décitex ou plus et dont la plus grande
+dimension de la coupe transversale n'excède pas 1 mm; lames et formes
+similaires (paille artificielle, par exemple) en matières textiles synthétiques,
+dont la largeur apparente n'excède pas 5 mm
+– Monofilaments:
+5
+5404. 11
+00
+00 …………………………………………………………………………………. ………………………………. .
+…………………………………………………………………………………………………………………. .
+5404. 19
+00
+– – Autres:
+5
+10 – – – en polyéthylène, coupés de longueur pour la fabrication d'articles de
+brosserie……………………………………………………………………………………………………….
+17, 5
+kg
+5
+90 – – – autres………………………………………………………………………………………………….
+2, 5
+kg
+5
+5404. 90
+00
+00 …………………………………………………………………………………………………………………. .
+…………………………………………………………………………………………………………………. .
+60. 06
+Autres étoffes de bonneterie.
+…. .. ………………………………………………………………………………………. …………………….
+…. .. ………………………………………………………………………………………. …………………….
+– De fibres synthétiques:
+6006. 31
+– – Ecrues ou blanchies
+10
+– – – bonneterie élastique:
+8
+10 – – – – étoffes de bonneterie jacquards………………………………………………………….
+30
+kg
+8
+90 – – – – autres………………………………………………. ………………………. ………………………. .
+10
+kg
+90
+– – – autres:
+………………………………………………………………………………………. .………………………………
+8
+20 ………………………………………………………………………………………………………………………. .
+– – – – autres:
+8
+91 – – – – – étoffes de bonneterie jacquards……………………………. .………………………….
+30
+kg
+8
+99 – – – – – autres………………………………………………………………. ………………………………. .
+10
+kg
+6006. 32
+…………………………………………………………………………………………………………………….
+…………………………………………………………………………………………………………………….
+6006. 33
+– – En fils de diverses couleurs
+10
+– – – bonneterie élastique:
+8
+11 …. .. ………………………………………………………………………………………. ………………………
+– – – – autres:
+8
+91 – – – – – étoffes de bonneterie jacquards………………………………………………………
+30
+kg
+8
+99 – – – – – autres……………………………………………………………………………. .……………….
+10
+kg
+90
+– – – autres:
+…. .. ………………………………………………………………………………………. …………………….
+--- Page 32 (parsed text) --32
+…. .. ………………………………………………………………………………………. …………………….
+– – – – autres:
+8
+91
+…. .. ………………………………………………………………………………………. ………………………
+– – – – – autres:
+8
+93 – – – – – – étoffes de bonneterie jacquards………………………………………………………
+30
+kg
+8
+97 – – – – – – autres……………………………………………………………………………………. ……….
+10
+kg
+6006. 34
+……………………………………………………………………. .……………………………………………
+…. .. ………………………………………………………………………………………. …………………….
+70. 20 7020. 00
+Autres ouvrages en verre
+– – – articles à usage technique:
+7
+11 00 ……………………………………………………………………………………………………………………. ….
+7
+12
+00 – – – – verre imprimé, trempé, pour porte de machine à laver le linge……………. 17, 5
+kg
+7
+18
+00 – – – – autres………………………………………………………………………………. .………………….
+30
+kg
+– – – autres:
+…………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………
+73. 10
+Réservoirs, fûts, tambours, bidons, boîtes et récipients similaires, pour
+toutes matières (à l'exception des gaz comprimés ou liquéfiés), en fonte, fer
+ou acier, d'une contenance n'excédant pas 300 l, sans dispositifs mécaniques
+ou thermiques, même avec revêtement intérieur ou calorifuge.
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+- D'une contenance de moins de 50 l:
+7310. 21
+- - Boîtes à fermer par soudage ou sertissage
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+99
+- - - - autres:
+5
+10 …………………………………. ……………………………………………………………………………………
+- - - - - autres:
+8
+91 - - - - - - canettes en fer blanc………………………………………………. .………………………
+17, 5
+kg
+8
+99 - - - - - -autres…………………………………………………………………………………………………
+30
+kg
+7310. 29
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+84. 18
+Réfrigérateurs, congélateurs-conservateurs et autres matériel, machines et
+appareils pour la production du froid, à équipement électrique ou autre;
+pompes à chaleur autres que les machines et appareils pour le
+conditionnement de l’air du n° 84. 15.
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+8418. 30
+00
+– Meubles congélateurs-conservateurs du type coffre, d’une capacité
+n’excédant pas 800 l
+– – – d’un poids inférieur à 500 kg:
+7
+20 – – – – à usage domestique………………………………………………………………………………
+17, 5
+u
+N
+7
+30 …………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+84. 50
+Machines à laver le linge, même avec dispositif de séchage
+– Machines d’une capacité unitaire exprimée en poids de linge sec
+n’excédant pas 10 kg:
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+8450. 19
+– – Autres
+7
+10
+00 …………………………………. ……………………………………………………………………………………
+7
+90
+00 – – – autres…………………………………………………………………………………………………….
+17, 5
+u
+–
+8450. 20
+00
+– Machines d’une capacité unitaire exprimée en poids de linge sec excédant
+10 kg:
+7
+10 – – – semi-automatiques………………………………………………………………………………
+17, 5
+u
+–
+--- Page 33 (parsed text) --33
+7
+90 – – – autres………………………………………………………………………………………………….
+2, 5
+u
+–
+8450. 90
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+84. 84
+Joints métalloplastiques; jeux ou assortiments de joints de composition
+différente présentés en pochettes, enveloppes ou emballages analogues;
+joints d’étanchéité mécaniques.
+…………………………………. ……………………………………………………………………………………
+5
+8484. 20
+00
+00 …………………………………. ……………………………………………………………………………………
+8484. 90
+00
+– Autres:
+5
+10 – – – Joints d'étanchéité de hublot pour machines à laver le linge d'une
+dimension comprise entre 420 et 800 mm………………………………………………………
+17, 5
+kg
+5
+90 – – – autres………………………………………………………………………………………………………
+30
+kg
+84. 87
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+85. 17
+Postes téléphoniques d'usagers, y compris les téléphones intélligents et
+autres téléphones pour réseaux c ellulaires et po ur autres réseaux sans fil;
+autres appareils pour l’émission, la transmission ou la réception de la voix,
+d'images ou d'autres données, y compris les appareils pour la
+communication dans un réseau filaire ou sans fil (tel qu'un réseau local ou
+étendu), autres que ceux des n°s 84. 43, 85. 25, 85. 27 ou 85. 28.
+– Postes téléphoniques d'usagers, y compris les téléphones intélligents et
+autres téléphones pour réseaux cellulaires et pour autres réseaux sans fil:
+8517. 11
+00
+- - Postes téléphoniques d'usagers par fil à combinés sans fil
+…………………………………. ……………………………………………………………………………………
+8517. 13
+00
+- - Téléphones intelligents
+7
+30 - - - à l'état complet sous la forme d'éléments C. K. D ou S. K. D…………………………
+2, 5
+u
+7
+90 - - - autres……………………………………………………………………………………………………….
+2, 5
+u
+7
+8517. 14
+00 00 - - Autres téléphones pour réseaux cellulaires ou autres réseaux sans fil……. .
+2, 5
+u
+7
+8517. 18
+00 00 - - Autres……………………………………………………………………………………………………….
+2, 5
+u
+- Autres appareils pour l’émission, la transmission ou la réception de la voix,
+d’images ou d'autres données, y compris les appareils pour la
+communication dans un réseau filaire ou sans fil (tel qu'un réseau local ou
+étendu):
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+87. 08
+Parties et accessoires des véhicules automobiles des n°s 87. 01 à 87. 05
+8
+8708. 10
+00
+00 …………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+8
+8708. 22
+00
+00 – – Pare-brises, vitres arrières et autres glaces visés à la Note 1 de sous positions du présent Chapitre………………………………………………………………………. 17, 5
+kg
+8708. 29
+…………………………………. ……………………………………………………………………………………
+…………………………………. ……………………………………………………………………………………
+--- Page 34 (parsed text) --34
+Annexe n° III à la circulaire n° 6702/210 du 26 Décembre 2025
+Taxes intérieures de consommation
+Article 5
+I. - A compter du 1er janvier 2026, les dispositions de l’article 42 bis du dahir portant loi
+n° 1-77-340 du 25 chaoual 1397 (9 octobre 1977) déterminant les quotités applicables
+aux marchandises et ouvrages soumis à taxes intérieures de consommation ainsi que
+les dispositions spécifiques à ces marchandises et ouvrages, tel qu’il a été modifié et
+complété, sont modifiées ou complétées comme suit:
+Article 42 bis. – Le gasoil, le supercarburant, le carburéacteur, les fuel oils, le propane
+liquéfié commercial et le butane liquéfié commercial, prévus au tableau C de l’article 9
+ci-dessus, ne peuvent ………………………. par l’administration.
+Seuls
+…………………….
+des
+marqueurs
+du
+gasoil,
+du
+supercarburant,
+du
+carburéacteur, des fuel oils, du propane liquéfié commercial et du butane liquéfié
+commercial précités qui doivent répondre aux normes …………………. .
+(la suite sans modification)
+II. - Date d’effet:
+1°- Seront mis à la consommation à compter du 1er janvier 2028:
+- le gasoil et le supercarburant prévus au tableau C de l’article 9 du dahir 1-77-340
+du 25 chaoual 1397 (9octobre 1977) précité, dans les conditions prévues à l’article
+42 bis, tel qu’ajouté audit dahir par le paragraphe II de l’article 5 de la loi de finances
+n°55-23 pour l’année budgétaire 2024;
+- le carburéacteur, les fuel oils, le propane liquéfié commercial et le butane liquéfié
+commercial prévus au tableau C de l’article 9 précité, dans les conditions prévues à
+l’article 42 bis, tel que complété par le paragraphe I du présent article.
+2- Les dispositions de l’article 56-1 du dahir 1-77-340 du 25 chaoual 1397 (9octobre
+1977) précité, telles que modifiées par le paragraphe I de l’article 5 de la loi de finances
+n° 60-24 pour l’année budgétaire 2025, seront applicables à compter du 1er janvier
+2028.
+--- Page 35 (parsed text) --35
+Annexe n° IV à la circulaire n° 6702/210 du 26 Décembre 2025
+Code Général des Impôts
+Article 7
+Article 91. - Exonérations sans droit à déduction:
+Sont exonérées de la taxe sur la valeur ajoutée:
+I. - A) Les ventes ………………………………………………………………portant sur:
+1°-le pain, le couscous, les semoules, les pâtes alimentaires courtes non cuites et
+non farcies et les farines servant à
+………………………………………………………………………………………………………
+………………………………………………………………………………………………………
+C) Les ventes portant sur:
+1°……………………………………………………………………………………………………
+(la suite sans modification)
+Article 92. - Exonérations avec droit à déduction:
+I. - Sont exonérés de la taxe sur la valeur ajoutée avec bénéfice du droit à déduction
+prévu à l'article 101 ci-dessous:
+1°-………………………………………………………………………………. .…………………
+2°-…………………………………………………………………. ………… travaux à façon;
+3°- les matières fertilisantes et les supports de culture, tels que définis par la loi
+n° 53-18 relative aux matières fertilisantes et aux supports de culture, promulguée
+par le dahir n° 1-21-68 du 3 hija 1442 (14 juillet 2021), destinés exclusivement à un
+usage agricole;
+4°………………………………………………………………………………………………………
+5°-……………………………………………………………………. .……………………………
+6°- les biens
+d'investissement…………………………………. .………………………………………………
+………………………………………………………. …… liées à leurs projets.
+Le délai d’exonération de trente-six (36) mois précité peut être prorogé d’un délai
+supplémentaire de vingt-quatre (24) mois, pour les entreprises qui construisent leurs
+projets d’investissement et les entreprises qui réalisent des projets d’investissement
+dans le cadre d’une convention conclue avec l’Etat en cours de validité, à condition de
+souscrire une demande de prorogation, par procédé électronique selon un modèle établi
+par l’administration, avant l’expiration dudit délai de trente-six (36) mois.
+Pour bénéficier de l’exonération …………………. .…………………………………………
+……………………………………………………………………………………………. ………
+19°- les produits pharmaceutiques et le sang et ses dérivés;
+20°-…………………………………………………………………………………………………
+--- Page 36 (parsed text) --36
+(la suite sans modification)
+Article 99. - Taux normal de la taxe:
+Le taux de la taxe sur la valeur ajoutée est fixé à:
+A. - 20 %;
+B. - 10 %:
+1° - avec droit à déduction pour:
+Les opérations……………………………………………………………………………
+le riz usiné;
+les pâtes alimentaires autres que celles visées à l’article 91-I-A-1° ci-dessus;
+les panneaux photovoltaïques…………………………………………………………
+(la suite sans modification)
+Article 123. - Exonérations:
+Sont exonérés de la taxe sur la valeur ajoutée à l'importation:
+1°-…………………………………………………………………………. .………………………
+……………………………………………………………………………………………………. .
+13°- les engrais ………………………………………………………. .et les autres nitrates
+(rubriques tarifaires 2834. 29. 10/90) ainsi que les matières fertilisantes et les
+supports de culture tels que définis par la loi n° 53-18 précitée qui sont importés
+conformément aux conditions prévues par ladite loi et destinés exclusivement à
+un usage agricole;
+14°-…………………………………………………………………………………………………
+………………………………………………………………………………………………………
+22°- a) les biens d’investissement…………………. .…………. à l’article 92-I-6° ci-dessus.
+Pour les entreprises ……………………………………………. .. à partir de la date de
+délivrance de l’autorisation de construire.
+Pour bénéficier ……………………………………………. .………………………en vigueur.
+b) les biens d’équipement, ………………………………………. .…. dans le cadre de
+ladite convention.
+Cette exonération est accordée…………………………………les équipements précités.
+Le délai d’exonération de trente-six (36) mois visé aux a) et b) ci-dessus peut être
+prorogé d’un délai supplémentaire de vingt-quatre (24) mois, pour les entreprises
+qui construisent leurs projets d’investissement et les entreprises qui réalisent
+des projets d’investissement dans le cadre d’une convention conclue avec l’Etat
+en cours de validité, à condition de souscrire une demande de prorogation, par
+procédé électronique selon un modèle établi par l’administration, avant
+l’expiration dudit délai de trente-six (36) mois;
+23°…………………………………………………………………………. …………………………
+……………
+37°- les produits pharmaceutiques et le sang et ses dérivés;
+--- Page 37 (parsed text) --37
+38°-……………………………………………………………………………………. .………
+(la suite sans modification)
+Article 124. - Modalités d’exonérations
+I. - Les exonérations …………………. … 123 (13°, 15°, 22°, 23° …………. ………………
+(la suite sans modification)
+Article 247. - Dates d’effets et dispositions transitoires:
+I. -……………………………………………………………………………………………. …….
+XXXXV. - Par dérogation aux dispositions de l’article 121 ci-dessus, sont
+exonérées de la taxe sur la valeur ajoutée à l’importation à compter du 1er janvier
+2026 et jusqu’au 31 décembre 2026, les opérations d’importation des animaux
+vivants domestiques des espèces bovines et camélidés, dans la limite d’un
+contingent fixé, respectivement, à trois cent mille (300 000) têtes et dix mille (10
+000) têtes.
+--- Page 38 (parsed text) --38
+Annexe n° V à la circulaire n° 6702/210 du 26 Décembre 2025
+Dahir portant loi n° 1-77-340 du 25 chaoual 1397 (9 octobre 1977)
+-Rappel de certaines mesures fiscales –
+Taxes intérieures de consommation applicables aux cigarettes (loi de finances
+n° 76-21 pour l’année budgétaire 2022):
+Art. 9. –Les quotités applicables aux marchandises et ouvrages …………ci-après:
+A-………………………………………………………………………………………………. .
+…………………………………………………………………………………………………. .
+G. – Taxes intérieures de consommation applicables aux tabacs manufacturés:
+Désignation des
+produits
+Quotités
+spécifiques
+Quotité ad valorem
+du prix de vente
+public hors TVA et
+TIC spécifique
+Minimum de
+perception
+I. - Cigarettes …………
+II. - ……………………. .
+550 dirhams les
+1000 cigarettes
+……………………. .
+56, 5%
+……………………. .
+953 dirhams les
+1000 cigarettes
+……………………. .

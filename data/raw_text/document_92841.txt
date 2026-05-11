@@ -1,0 +1,55 @@
+--- Page 1 (parsed text) --Rabat, le 16 octobre 2023
+CIRCULAIRE N° 6502/312
+Objet: Automatisation de la liquidation de la taxe de circulation.
+Réf. : Circulaire n° 4955/312 du 14/09/2005
+Conformément aux dispositions de l'article 11 undecies de la loi 16-99, promulguée par le dahir n°
+1-00-23 du 15/02/2000 modifiant et complétant le dahir n° 1-63-260 du 24 Joumada 1383 (12
+Novembre 1963), relatif aux transports par véhicules automobiles sur route et des accords
+bilatéraux en matière de transport international routier conclus par le Maroc, une taxe de
+circulation, d'un montant de 10 dirhams par tonne de poids autorisé en charge (PTAC) par jour, est
+appliquée à l'occasion de l'admission temporaire des moyens de transport de marchandise
+immatriculés à l'étranger.
+Il est rappelé que cette taxe, jusqu’à présent liquidée manuellement, s'applique aux véhicules
+immatriculés dans les pays non liés au Maroc par des accords bilatéraux en matière de transport
+et ceux pour lesquels l’accord bilatéral avec le pays d’immatriculation ne prévoit pas une
+exemption de cette taxe.
+Pour faciliter cette procédure, il a été décidé d'automatiser la liquidation de cette taxe sur la base
+de la déclaration simplifiée d'admission temporaire des moyens de transport à usage commercial
+dite ‘D17’ et ce, selon le schéma procédural ci-après:
+I. Exigibilité de la taxe de circulation:
+Il est rappelé que conformément aux dispositions réglementaires précitées, cette taxe est exigible
+pour les véhicules disposant d’un PTAC et immatriculés dans un pays autre que les pays suivants:
+Belgique, Danemark, Espagne, France, Grande Bretagne, Hongrie, Italie, Pays-Bas, Pologne,
+Portugal, Roumanie, Suisse et Tunisie. La liste des pays dispensés du payement de cette taxe sera
+actualisée en fonction de l’évolution des accords bilatéraux en matière de transport.
+Ainsi, lors de la signature de la déclaration simplifiée 'D17', le système vérifie automatiquement
+l'exigibilité de la taxe de circulation sur la base du champ « Pays d'immatriculation » déclaré au
+niveau de la déclaration ‘D17’.
+L’exigibilité de la taxe de circulation sera indiquée au déclarant au niveau du système BADR et au
+niveau de l'imprimé de la déclaration ‘D17’. Un message de notification sera envoyé également au
+soumissionnaire/transporteur et au déclarant pour information.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --A ce titre et afin d'éviter toute erreur au niveau de la liquidation automatique de cette taxe, les
+opérateurs concernés doivent veiller à renseigner correctement les données relatives aux
+véhicules, notamment, le pays d’immatriculation et le PTAC (en kg) et ce, lors du renseignement
+du parc des véhicules qui servira par la suite pour la souscription des déclarations simplifiées 'D17'.
+II. Liquidation de la taxe de circulation:
+Au moment de l'apurement de la déclaration 'D17' (apurement automatiquement ou via la
+fonctionnalité prévue à cet effet), le système génère automatiquement une fiche de liquidation de
+la taxe de circulation calculée selon la formule suivante:
+Taxe de circulation = 10 DHS × (PTAC(kg)/1000) × Nombre de jour de l'AT du véhicule.
+Un message de notification comportant la fiche de liquidation sera envoyé au
+soumissionnaire/transporteur et au déclarant pour information et prise en charge.
+La liquidation de la taxe de circulation sera indiquée au niveau de l'historique de la déclaration
+simplifiée 'D17'.
+III. Paiement de la taxe de circulation:
+Le paiement de la taxe de circulation sera effectué électroniquement via les différents modes de
+paiement disponible pour le règlement des créances douanières. A défaut du paiement de ladite
+taxe, l’accès à la facilité « Déclaration triptyque » sera retiré.
+Il est rappelé que le soumissionnaire de la déclaration ‘D17’, en l’occurrence l’opérateur marocain,
+demeure le redevable de cette taxe au titre des véhicules appartenant à ses partenaires étrangers.
+Enfin, la nouvelle procédure d'automatisation de la taxe de circulation entre en vigueur à compter
+du 16 Octobre 2023.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/16-10-23/16h20
+[Note: 1 image(s) found on this page. ]

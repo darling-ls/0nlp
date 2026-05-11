@@ -1,0 +1,44 @@
+--- Page 1 (parsed text) --Rabat, le 23 avril 2025
+CIRCULAIRE N° 6653/232
+Objet: Classement dans le tarif du droit d’importation du produit dénommé "Ecran
+Professionnel pour affichage dynamique" portant la référence "LH55VHCEBGBXEN".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation du
+produit dénommé "Ecran Professionnel pour affichage dynamique" portant la référence
+"LH55VHCEBGBXEN".
+Description et utilisation:
+Il s’agit d’un dispositif d’affichage à écran plat de 55 pouces (moniteur), utilisant une dalle
+IPS (In-Plane Switching), combiné dans le même boitier à des circuits de commande, 2
+connecteurs HDMI, 1 connecteur USB, une version DP (1, 2), une entrée DVI, une entrée
+RS232 et une sortie RS232 stéréo, une entrée audio et une sortie audio stéréo ainsi qu’un
+port RJ45.
+Ce moniteur de dimensions de 1212, 20 x 683 x70, 40 mm et d’un poids net de 19, 5 kg, est
+conçu pour les applications d’affichage dynamique et les configurations de murs d’image.
+Ses principales caractéristiques sont les suivantes:
+
+Fréquence de balayage horizontal: 57, 3kHz ~ 70kHz;
+
+Fréquence de balayage maximum: 78MHz;
+
+Fréquence de balayage vertical: 47Hz ~ 63Hz;
+
+Pas de pixel (HxV): 0, 63x0, 63;
+
+Angle de vue (H/V): 178/178;
+
+Temps de réponse: 8 ms;
+
+Tension d'alimentation: 100-240V AC 50/60 Hz;
+
+Résolution Full HD de 1920 x 1080 pixels; et
+
+Luminosité de 700 nit.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --Classement:
+De ce qui précède, le moniteur considéré, apte à être directement connecté à une machine
+automatique de traitement de l’information, est classé à la sous-position 8528. 52. 00. 00 du
+tarif du droit d’importation et ce, par application des RGI 1 et 6.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous
+le timbre de la présente.
+SGIA/Diffusion/23-04-25/12h15
+[Note: 1 image(s) found on this page. ]

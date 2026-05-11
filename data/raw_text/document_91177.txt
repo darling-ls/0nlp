@@ -1,0 +1,108 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 6386/311
+OBJET: Investissements et Régimes Particuliers.
+Module de prise en charge des consignations dans le cadre des conventions
+d’investissement sur BADR.
+REFER: Circulaire n°6291/311 du 03/02/2022.
+Dans le cadre de la poursuite de la dématérialisation des procédures, l’Administration des
+Douanes et Impôts Indirects met en service à compter du 12/12/2022, un nouveau module
+dédié à la gestion des consignations dans le cadre des conventions d’investissement signées
+avec l’Etat.
+Ce nouveau module vise à mettre en place une démarche simplifiée et intégrée de gestion
+des demandes de consignations, qui peuvent être sollicitées dans l’attente aussi bien de la
+signature d’une liste des biens d’équipement que d’un avenant de prorogation du délai de
+validité d’une convention.
+La prise en charge se fait directement au niveau d’un nouveau menu dédié à cet effet au
+niveau du module AGLACI sur BADR, dont le mode opératoire est joint en annexe.
+Les autres modalités de gestion des opérations réalisées dans le cadre de l’applicatif AGLACI
+restent inchangées.
+Toute difficulté d’application éventuelle est à signaler sous le timbre de la présente.
+Rabat, le 06 décembre 2022
+SGIA/Diffusion/06-12-22/15h40
+[Note: 4 image(s) found on this page. ]
+--- Page 2 (parsed text) --MODE OPERATOIRE
+Enrichissement du menu AGLACI par l’ajout d’un nouveau sous menu « Gestion des
+consignations ». Celui-ci comprend les fonctionnalités suivantes:
+1. Création demande
+Au clic sur la fonctionnalité, le système affiche l’écran suivant selon le
+type de l’opérateur connecté:
+Cas d’un opérateur déclarant pour lui-même
+Le système restitue la raison sociale de l’opérateur déclarant pour lui-même, invitant
+l’utilisateur à renseigner obligatoirement les informations suivantes:
+Référence de la convention. Une fois renseignée, le système restitue automatiquement
+l’intitulé de la convention correspondante:
+ou bien:
+Intitulé de la convention. Saisir pour cela les premières lettres de l’intitulé de la convention,
+puis sélectionner l’occurrence souhaitée à partir de la liste qui s’affiche. Le système restitue
+automatiquement la référence de la convention correspondante.
+Le clic sur
+permet de vider automatiquement les champs précités (référence de la
+convention et intitulé convention):
+[Note: 6 image(s) found on this page. ]
+--- Page 3 (parsed text) --Bureau au sein duquel sera souscrite la DUM bénéficiant de l’autorisation de consignation
+dans le cadre d’AGLACI. Saisir pour cela, le code bureau ou les premières lettres du nom du
+bureau puis sélectionner le bureau souhaité à partir de la liste qui s’affiche.
+Lise des factures: Pour associer les factures à la demande de consignation, l’utilisateur est
+invité à cliquer sur le bouton, les informations encadrées en rouge ci-après
+s’affichent, invitant l’utilisateur à les renseigner:
+Après clic sur le bouton, le système alimente la liste des factures:
+L’ajout d’autres factures se fait de la même manière que le 1er ajout.
+Il est à noter que la facture à annexer doit être sous format PDF. Autrement, un message de
+rejet s’affiche:
+Après clic sur le lien
+du menu contextuel, le système affiche un message de
+succès de l’enregistrement de la demande en lui attribuant une référence sous le format
+suivant: Année d’enregistrement de la demande suivie d’un numéro de série.
+[Note: 7 image(s) found on this page. ]
+--- Page 4 (parsed text) --Cas d’un opérateur transitaire
+A ce niveau, l’utilisateur est invité à renseigner la raison sociale de l’opérateur qui
+bénéficiera de l’autorisation de la consignation dans le cadre d’AGLACI.
+Saisir pour cela, les premières lettres de la raison sociale de l’opérateur en question, puis
+sélectionner sa raison sociale à partir de la liste qui s’affiche:
+La suite de l’opération est la même que celle de l’opérateur déclarant pour lui-même.
+2. Modification demande
+[Note: 3 image(s) found on this page. ]
+--- Page 5 (parsed text) --Au clic sur la fonctionnalité, l’écran ci-après s’affiche:
+L’utilisateur peut procéder à la recherche de la demande de consignation faisant objet de la
+modification à travers l’un des critères ci-après:
+Référence de la demande de consignation
+Après saisie de la référence de la demande de consignation et clic sur le bouton
+« Rechercher », le système affiche le résultat ci-après:
+Après sélection de la demande en question et clic sur le bouton « Confirmer », le système
+restitue les informations de la demande telles qu’elles étaient créées:
+[Note: 3 image(s) found on this page. ]
+--- Page 6 (parsed text) --Toutes les informations sont modifiables à l’exception de la référence de la demande et la
+raison sociale de l’opérateur dans le cas où l’opérateur connecté est de type déclarant pout
+lui-même:
+Dans le cas où l’opérateur connecté est de type transitaire, toutes les informations sont
+modifiables à l’exception de la référence de la demande:
+[Note: 3 image(s) found on this page. ]
+--- Page 7 (parsed text) --Après clic sur le lien
+du menu contextuel, un message de succès s’affiche:
+Liste des demandes enregistrées
+Au clic sur le lien hypertexte, le système affiche la liste des
+demandes enregistrées:
+La suite de l’opération est la même que celle de la recherche par référence.
+Dès traitement de la demande de consignation par l’agent douanier, un mail de notification
+est envoyé à l’adresse de messagerie publique de l’opérateur initiateur de la demande,
+l’informant du sort de sa demande:
+
+En cas de rejet:
+[Note: 5 image(s) found on this page. ]
+--- Page 8 (parsed text) --
+En cas d’acceptation:
+Le mail de notification reçu lors de l’acceptation de la demande de consignation contient la
+référence de la décision. Celle-ci sera utilisé par l’opérateur lors de la création de sa DUM au
+niveau de l’onglet « Articles » pour les cas de situation « Prorogation attendue » (cf.
+capture1) ou « Annexes attendues » (cf. capture2).
+Capture1
+Capture2
+[Note: 2 image(s) found on this page. ]
+--- Page 9 (parsed text) --La date de la décision peut ne pas être renseignée:
+Il est à noter que la décision attribuée ne peut être utilisée qu’une seule fois dans une DUM.
+Autrement, un message de rejet s’affiche:
+Lors de la consultation de la DUM signée ou validée en utilisant le service de recherche du
+menu DEDOUANEMENT, l’utilisateur peut constater au niveau de l’onglet « Articles »
+l’affichage de la référence de décision en question sous forme de lien hypertexte:
+[Note: 3 image(s) found on this page. ]
+--- Page 10 (parsed text) --Le clic sur ce lien permet d’afficher le détail ci-après:
+[Note: 2 image(s) found on this page. ]

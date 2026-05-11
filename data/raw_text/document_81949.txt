@@ -1,0 +1,57 @@
+--- Page 1 (parsed text) --Rabat, le 10 août 2020
+CIRCULAIRE N° 6081/232
+OBJET: Classement dans le tarif du droit d’importation des articles dénommés "clapet coupe-feu
+rectangulaire", référencé CU-LT et "clapet coupe-feu ISONE circulaire", référencé "ISONE
+EM encastré", "ISONE/Ap applique" et "ISONE FdP, encastré".
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation des
+articles dénommés "clapet coupe-feu rectangulaire", référencé CU-LT et "clapet coupe-feu ISONE
+circulaire", référencé "ISONE EM encastré", "ISONE/Ap applique" et "ISONE FdP, encastré".
+Descriptions, fonctionnements et utilisations:
+Les Clapets Coupe-Feu (CCF) sont des dispositifs automatiques de fermeture permettant
+d'empêcher la propagation d'un incendie par les conduits de ventilation, en stoppant les fumées
+et les gaz chauds et ce, par le positionnement d’une lame mobile située au centre du tunnel.
+Ils sont présentés sous plusieurs formes suivant les utilisations et les emplacements:
+1. Clapet coupe-feu rectangulaire référence: CU-LT
+Il s’agit d’un CCF rectangulaire d’une résistance au feu allant jusqu’à 120°C constitué des
+éléments suivants:
+1. Un tunnel en acier galvanisé de forme rectangulaire formant l’ossature de l’article;
+2. Une lame mobile installée au niveau du joint intumescent au milieu du tunnel;
+3. Un mécanisme de commande avec transmission installé sur le côté;
+4. Un joint intumescent entre le cadre en acier et le cadre de raccordement;
+5. Une plaque de positionnement; et
+6. Un cadre de raccordement sur la face externe du front du tunnel.
+6
+1
+3
+4
+2
+5
+Source: Documentation fournie par le demandeur
+[Note: 5 image(s) found on this page. ]
+--- Page 2 (parsed text) --Au moment du branchement de l’alimentation électrique, le servomoteur met la lame du clapet
+en position d’attente (ouvert). A l’interruption de l’alimentation électrique, l’énergie accumulée
+par la tension du ressort met la lame du clapet en position de sécurité (fermé).
+Le mécanisme de commande, manuelle ou motorisée, est opérationnel lorsque la température
+dépasse 72°C, induisant ainsi la fonte du fusible et la lame du clapet se ferme.
+Ce type de clapet est conçu pour des applications d’intérieur et est utilisé aux traversées de
+parois par les systèmes de chauffage, ventilation et conditionnement d’air (CVCA) pour arrêter la
+propagation du feu en cas d’incendie.
+2. Clapets coupe-feu ISONE circulaires références: "ISONE EM encastré", "ISONE/Ap
+applique" et "ISONE FdP, encastré"
+Ces clapets de forme circulaire comportent les mêmes principaux éléments que les clapets
+rectangulaires (tunnel, lame, mécanisme et plaque de positionnement) et sont conçus pour un
+montage encastré au mur ou en dalle béton et pour un montage en plaques de plâtre ou sur une
+cloison en plaques de plâtre, selon la référence.
+ISONE EM encastré ISONE FdP encastré ISONE/Ap applique
+Source: Documentation fournie par le demandeur.
+Le déclenchement peut être manuel par action sur le levier, auto commandé par déclenchement
+du fusible thermique à une température dépassant 70°C ou télécommandé.
+Classement:
+De ce qui précède, les articles considérés sont des parties de construction, classées à la sous
+position 7308. 90 du Système harmonisé, rubrique 7308. 90. 00. 00 du tarif du droit d’importation
+et ce, par application des RGI 1 et 6.
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/10-08-20/16h30
+[Note: 5 image(s) found on this page. ]

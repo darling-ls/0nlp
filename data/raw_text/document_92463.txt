@@ -1,0 +1,78 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 6485/312
+Objet: Modification du tarif des droits de chancellerie et automatisation de leur liquidation.
+Réf. : - Arrêté conjoint du ministre des affaires étrangères, de la coopération africaine et des
+marocains résidant à l’étranger et du ministre délégué auprès de la ministre de
+l'économie et des finances, chargé du budget n° 1472-23 du 17 kaada 1444 (6 juillet
+2023) modifiant l’arrêté conjoint du ministre des affaires étrangères et de la
+coopération et du ministre de l'économie et des finances n° 799-00 du 25 rabii I (28 juin
+2000), fixant le tarif des droits de chancellerie.
+- Circulaires n° 5224/312 du 01/07/2010 et n° 4070/213 du 23/06/1989.
+Le tarif des droits de chancellerie exigibles sur le visa des manifestes des navires et des listes de
+passagers embarqués à destination du Maroc est fixé par arrêté conjoint du ministre des affaires
+étrangères et de la coopération et du ministre de l'économie et des finances n° 799-00 visé en
+référence.
+Ce tarif prévoit cinq quotités qui s’appliquent selon la nature du chargement
+(passagers/marchandises), la nationalité du navire et le volume du tonnage chargé de
+marchandises ou le nombre de passagers embarqués.
+Pour faciliter cette procédure et permettre son automatisation, il a été jugé nécessaire, après
+concertation avec la profession, de revoir le tarif de ces droits.
+Tél est l’objet de l’arrêté conjoint n° 1472-23 visé en référence, qui a modifié le tarif des droits de
+chancellerie comme suit:
+1500 dirhams/escale pour les navires marocains ou étrangers qui ont opéré un chargement
+de marchandises ou de marchandises et de passagers à destination du Maroc; Pour les
+navires effectuant durant le même voyage plusieurs déchargements dans les ports
+marocains, le droit de chancellerie est dû une seule fois;
+500 dirhams/escale pour les navires embarquant des passagers (uniquement) avec un
+maximum de 1500 dirhams/jour en cas de réalisation de plus de 3 escales par jour; En sont
+exempts les excursionnistes des navires de croisières au Maroc.
+Grâce à cette révision, la liquidation des droits de chancellerie sera, dorénavant, automatisé sur
+la base des données disponibles sur le système BADR avec une notification automatique d’une
+fiche de liquidation aux redevables.
+Le mode opératoire relatif à cette nouvelle procédure est décrit en annexe.
+Rabat, le 26 Juillet 2023
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --Enfin, la nouvelle tarification des droits de chancellerie entre en vigueur à compter du 1er Août
+2023.
+Sont modifiés, en conséquence, les termes des circulaires visées en référence.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/26-07-23/16h25
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --Annexe à la circulaire n° 6485/312 du 26/07/2023
+Mode opératoire de la liquidation automatique des droits de chancellerie
+1. Enrichissement des données relatives au ‘Voyage maritime’ et à la ‘Déclaration
+Sommaire’:
+Pour permettre la liquidation automatique des droits de chancellerie, les données du ‘VOYAGE
+MARITIME’ et de la ’Déclaration Sommaire’ ont été enrichies comme suit:
+
+Enrichissement de l’écran relatif à la création d’un voyage maritime par les informations encadrées en
+rouge:
+Ces informations ne sont pas modifiables lors de la modification d’un voyage.
+
+Enrichissement de l’onglet « Référence » de ce type de DS par les informations « Voyageurs » et
+« Marchandises ». Ci-dessous un exemple pour illustration:
+[Note: 2 image(s) found on this page. ]
+--- Page 4 (parsed text) --Ces champs ne sont pas modifiables lors de la modification de ce type de DS.
+2. Automatisation de la liquidation:
+La liquidation des droits de chancellerie se fait automatiquement au niveau de la Déclaration Sommaire (DS)
+maritime. Les cas ci-après sont exclus:
+
+DS maritimes suite à un voyage POOL;
+
+DS maritimes de type ‘marchandise’ avec statut « LEST »;
+
+DS de type 001 (Etat de déchargement en transbordement, en vigueur à Tanger Med);
+Les navires effectuant durant le même voyage plusieurs déchargements dans les ports marocains
+sont taxés une seule fois. Ces opérations sont identifiées à partir de l’information « Port de
+provenance » objet l’enrichissement cité ci-dessus.
+3. Notification du redevable:
+Suite à la liquidation des droits de chancellerie, le système envoi automatiquement un email de notification
+au redevable:
+4. Consultation de la liquidation des droits de chancellerie
+La consultation de la liquidation des droits de chancellerie se fait à travers le service « Recherche par
+référence » du menu Liquidation en renseignant la référence de la DS:
+[Note: 2 image(s) found on this page. ]
+--- Page 5 (parsed text) --Le système affiche la fiche de liquidation. Le clic sur le n° de référence de la liquidation donne accès aux
+données de la fiche:
+Les liquidations des droits de chancellerie en souffrance apparaissent à l’instar des autres fiches de
+liquidation au niveau du service des liquidations non payées, accessible à l’opérateur et à l’agent douanier:
+[Note: 1 image(s) found on this page. ]

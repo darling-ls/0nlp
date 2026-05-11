@@ -1,0 +1,36 @@
+--- Page 1 (parsed text) --Rabat, le 12 octobre 2018
+CIRCULAIRE N°5862/232
+Objet: Classement dans le tarif du droit d’importation de l’article dénommé "FGDW-002
+FIBARO DOOR/WINDOW SENSOR 2".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de
+l’article dénommé "FGDW-002 FIBARO DOOR/WINDOW SENSOR 2".
+Description:
+Il s’agit d’un appareil électronique d’une dimension de 71x18x18 mm alimenté par une pile
+d’une tension de 3, 6 V, constitué de:
+- un capteur à positionner sur la partie fixe de la fenêtre ou de la porte; et
+- un aimant à fixer sur la partie mobile de la porte ou de la fenêtre.
+Cet appareil est muni d’un détecteur d'ouverture ou de fermeture des portes ou des
+fenêtres, d’un interrupteur de proximité, d’un capteur de température, d’une alarme et
+d’un détecteur de protection anti-vandalisme.
+Utilisation:
+Ledit appareil est conçu pour être installé sur les fenêtres, les portes et les barrières de
+sécurité pour détecter l'ouverture d'une porte ou d’une fenêtre, mesurer la température et
+générer des signaux en cas de sabotage ou de problème de sécurité.
+Ce dispositif est conçu pour opérer avec un système domotique global fonctionnant en
+réseau suivant un protocole de radiofréquences utilisant la fréquence 869. 8 ou 869. 8 MHz,
+à la différence de la version "FGBHDW-002 FIBARO DOOR/WINDOW SENSOR", objet de la
+circulaire n°5794/232 du 23/05/2018, qui utilise la fréquence 2. 4 GHz spécifique à la
+technologie "Bluetooth".
+Il est contrôlé à partir d’un ordinateur, d’une tablette ou d’un Smartphone à travers un
+contrôleur domotique.
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Classement:
+L’article dénommé "FGDW-002 FIBARO DOOR/WINDOW SENSOR 2" est un appareil
+électronique de détection, de mesure et de contrôle à distance, pour application
+domestique, classé à la sous-position 8531. 10 du Système harmonisé, rubrique
+8531. 10. 00. 00 du tarif du droit d’importation et ce, par application des RGI 1 et 6.
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale
+sous le timbre de la présente.
+SGIA/Diffusion/12-10-18/12h20
+[Note: 1 image(s) found on this page. ]

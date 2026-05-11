@@ -1,0 +1,39 @@
+--- Page 1 (parsed text) --Rabat, le 16 août 2021
+CIRCULAIRE N° 6221/313
+Objet: Dématérialisation de la déclaration provisionnelle.
+Réf. : Circulaires n° 6168/312 du 12/03/2021, n° 6170/312 du 26/03/2021 et 6195/312 du 18/05/2021.
+Les circulaires visées en référence ont instauré une nouvelle procédure de déclarations provisionnelles
+s’appliquant initialement aux opérations initiées sous le régime du transit et celles ne donnant pas lieu à
+l’ouverture de comptes sous régimes économiques en douane (RED).
+A présent, et poursuivant le processus de dématérialisation de la déclaration provisionnelle, il a été
+décidé d’étendre la nouvelle provisionnelle aux opérations sous les régimes douaniers donnant lieu à
+l’ouverture d’un compte sous RED et ce, à compter du 26/08/2021.
+Il sied de préciser que le nouveau mode provisionnel ne s’applique pas aux opérations souscrites sous le
+régime de l’exportation préalable directe ou indirecte.
+Il demeure entendu que les modalités de fonctionnement prévues par les circulaires visées en référence
+sont toujours applicables.
+Enfin, le document en annexe décrit le mode opératoire et les règles de gestion de la nouvelle
+provisionnelle pour des régimes donnant lieu à l’ouverture de comptes sous RED.
+Toute difficulté d’application sera signalée à l’administration centrale sous le timbre de la présente.
+SGIA/Diffusion/16-08-21/16h05
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la circulaire n°6221/313 du 16 août 2021
+Règles de création et de gestion des comptes RED- nouvelle provisionnelle
+Ouverture d’un seul compte RED portant la référence de la DUM initiale;
+La date d’ouverture du compte RED est celle de l’enregistrement de la 1ère sous-DUM;
+Les lignes d’ouverture du compte RED sont constituées des articles des sous-DUM ayant les mêmes
+éléments ci-après:
+ Espèce tarifaire;
+ Unité commerciale;
+ Valeur unitaire;
+ Données complémentaires.
+Actualisation des lignes d’ouverture du compte RED à l’occasion de la création ou du redressement
+d’une sous-DUM.
+Ci-dessous un exemple pour illustration:
+Consultation de la liste des sous-DUMs nouvelle provisionnelle:
+Consultation du compte RED ouvert sous la référence de la DUM initiale nouvelle provisionnelle:
+[Note: 3 image(s) found on this page. ]
+--- Page 3 (parsed text) --Mise à jour des lignes de compte suite à un redressement d’une sous DUM:
+ Avant redressement
+ Après redressement
+[Note: 3 image(s) found on this page. ]

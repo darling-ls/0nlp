@@ -1,0 +1,50 @@
+--- Page 1 (parsed text) --Rabat, le 19/11/2018
+CIRCULAIRE N° 5877/312
+Objet: Procédures et Méthodes
+Suppression de la formalité de dépôt physique des déclarations de mise à la
+consommation de marchandises en provenance des zones franches ou en suite
+de régimes économiques en douane.
+Réf. : Circulaire n° 5747/312 du 29/12/2017
+Dans le cadre du déploiement progressif de la dématérialisation du circuit de
+dédouanement, la circulaire citée en référence a supprimé le dépôt physique pour les
+déclarations se rapportant aux opérations de cession sous régimes économiques en
+douane.
+Compte tenu des résultats concluants de cette mesure, il a été décidé d’élargir son
+application aux opérations réalisées sous les régimes douaniers repris en annexe.
+A ce titre, il convient de rappeler que la signature électronique des déclarations et des
+documents joints s’effectue selon les conditions et modalités prescrites par la circulaire
+n° 5746/312 du 29/12/2017.
+Ces mêmes modalités s’appliquent également aux autorisations délivrées par
+l’administration exigibles, le cas échéant, pour le bénéfice de certains des régimes
+précités, en attendant leur dématérialisation.
+Au niveau du service, le contrôle de ces déclarations s’effectuera selon les modalités
+appliquées actuellement pour les déclarations de cession.
+S’agissant des pièces comptables destinées à la Cour des Comptes (copie de la déclaration
+et de la fiche de liquidation), le service procédera à leur édition directement à partir du
+système BADR et ce, en attendant la mise en service imminente de leur échange avec
+ladite institution.
+Les dispositions de la présente circulaire prennent effet à compter du 22 novembre 2018.
+Toute difficulté d’application doit être signalée à cette administration sous le timbre cidessus.
+SGIA/Diffusion/19-11-18/10h55
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --ANNEXE A LA CIRCULAIRE N° 5877/312 DU 19/11/2018
+CODES REGIMES
+LIBELLES REGIMES
+040
+050
+430
+044
+046
+047
+048
+094
+097
+-- MAC en suite d'ATPA
+-- MAC de marchandises en provenance des zones franches
+-- MAC en suite de Transformation Sous Douane
+-- MAC en suite d'AT
+-- MAC en suite d'Entrepôt Public
+-- MAC en suite d'Entrepôt Prive Particulier
+-- MAC en suite d'Entrepôt Industriel Franc
+-- MAC en suite d’Entrepôt de Produits Pétroliers
+-- MAC en suite d’entrepôt autres marchandises

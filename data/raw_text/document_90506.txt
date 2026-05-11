@@ -1,0 +1,94 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 6369/312
+Objet: Procédures et Méthodes
+Généralisation du dédouanement par anticipation des marchandises importées par voies
+maritime et aérienne.
+Réf. : - Article 66 du code des douanes et impôts indirects.
+- Arrêté de la Ministre de l’Economie et des Finances n° 1640-22 du 20 juin 2022
+modifiant l’arrêté du ministre des finances n° 1318-77 du 31 octobre 1977.
+L’anticipation des formalités de dédouanement constitue un levier essentiel pour la réduction du
+délai de dédouanement des marchandises importées.
+A ce titre, l’article 66 du code des douanes et impôts indirects (CDII) prévoit la possibilité de
+dépôt de la déclaration en détail avant l’arrivée de la marchandise, dans les conditions fixées par
+arrêté du ministre chargé des finances.
+Pour favoriser cette démarche, les articles 49 et 57 du CDII, tels qu’amendés en 2012 et mis en
+application par arrêté du ministre de l’économie et des finances n° 3414-12 du 15 kaada 1433 (2
+octobre 2012), prévoient l’obligation de dépôt de la déclaration sommaire avant l’arrivée de la
+marchandise au bureau d’importation.
+Par ailleurs, l’arrêté du ministre des finances n° 1318-77 du 17 kaada 1397 (31 octobre 1977) a
+été amendé par arrêté de la ministre de l’économie et des finances n° 1640-22 du 20/06/2022
+pour permettre la généralisation de la déclaration en détail par anticipation sans autorisation
+préalable.
+La présente circulaire a pour objet de définir les règles devant régir la procédure de
+dédouanement par anticipation.
+I.
+Enregistrement de la déclaration en détail par anticipation
+La déclaration en détail peut être enregistrée sur le système BADR avant l’arrivée de la
+marchandise, sans autorisation préalable, à condition, pour les marchandises importées par
+voies maritime ou aérienne, de pré-apurer un lot d’une déclaration sommaire enregistrée.
+Pour ce type d’opérations, le déclarant doit cocher la case « Par anticipation » prévue à cet effet
+sur le système BADR.
+Rabat, le 26/09/2022
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --II.
+Conséquence de l’enregistrement de la déclaration en détail par anticipation
+En vertu de l’article 79 - 1° du CDII, les déclarations déposées par anticipation ne prennent effet,
+avec toutes les conséquences attachées à l’enregistrement, qu’au jour de l’arrivée des
+marchandises.
+En application de ce principe, les déclarations en détail enregistrées avant l'arrivée des
+marchandises et les suites engendrées par leur enregistrement, y compris la mainlevée, ne
+prennent effet qu'à partir de la date de l'arrivée des marchandises.
+Il en découle ce qui suit:
+1. Droits et taxes applicables
+Sans préjudice des dispositions de l’article 13 du CDII, relatives à la clause transitoire, les droits et
+taxes à percevoir sur les marchandises importées déclarées par anticipation sont ceux en vigueur
+à la date d’arrivée desdites marchandises, qui correspond, pour les importations par voie
+maritime, à la date d’accostage du navire.
+Par ailleurs, en cas de baisse des taux entre la date d’enregistrement de la déclaration en détail
+par anticipation et celle de l’arrivée de la marchandise, le déclarant peut bénéficier, sur sa
+demande, de l’application du tarif le plus favorable (article 90 du CDII).
+2. Rectification de la déclaration en détail
+Les déclarations en détail enregistrées par anticipation peuvent être rectifiées, sans suites
+contentieuses, tant que la marchandise n’est pas encore arrivée sur le territoire assujetti.
+Après l’arrivée de la marchandise, la rectification de la déclaration en détail peut être autorisée
+aux conditions de l’article n° 78-2 du CDII.
+3. Annulation de la déclaration en détail
+Les déclarations en détail enregistrées par anticipation peuvent être annulées dans les cas ciaprès:
+- A la demande du déclarant, dans les conditions fixées par l’article 78 bis du CDII;
+- D’office, pour les déclarations enregistrées et qui n’ont reçu aucune suite à l’expiration
+d'un délai de soixante (60) jours, calculé à compter de la date d’enregistrement de la
+déclaration en détail correspondante (article 78 ter du CDII).
+4. Initiation du contrôle
+Le contrôle de la déclaration en détail est initié automatiquement dès enregistrement de la
+déclaration en détail. Le mode de contrôle décidé et l’inspecteur côté sont affichés aussi bien au
+service qu’au déclarant.
+III.
+Contrôle douanier et attribution de la mainlevée
+ Circuit vert
+La mainlevée est automatiquement attribuée sous réserve, le cas échéant, du paiement ou de la
+garantie des droits et taxes et/ou de l’accomplissement des formalités liées aux réglementations
+particulières.
+ Circuit Orange
+Après contrôle documentaire et à défaut d’anomalie constatée, la mainlevée est délivrée sous
+réserve, le cas échéant, du paiement ou de la garantie des droits et taxes et/ou de
+l’accomplissement des formalités liées aux réglementations particulières.
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --Pour ces deux modes de contrôle, l’opérateur peut procéder à l’enlèvement de la marchandise
+dès son arrivée, après prise en charge des réserves émises, le cas échéant.
+ Circuit rouge
+Les formalités de contrôle documentaire, de liquidation et de paiement ou garantie des droits et
+taxes sont effectuées en attente de l’arrivée de la marchandise pour l’accomplissement des
+formalités de visite physique et celles liées aux réglementations particulières, le cas échéant.
+A l’issue de cette opération, la mainlevée est attribuée sous réserve, le cas échéant, du paiement
+ou de la garantie des droits et taxes et/ou de l’accomplissement des formalités liées aux
+réglementations particulières.
+Dans tous les cas de figure, le service gardera la latitude de re-sélecter les déclarations en
+question vers un circuit de contrôle plus renforcé.
+*******
+Pour garantir la réussite de cette mesure, les transporteurs maritimes et aériens sont invités à
+veiller au respect strict des délais réglementaires de dépôt des déclarations sommaires et à
+délivrer, le cas échéant, les bons à délivrer par anticipation.
+Le non-respect des délais précités exposera les opérateurs défaillants aux suites contentieuses
+en vigueur.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/26-09-22/10h59
+[Note: 2 image(s) found on this page. ]

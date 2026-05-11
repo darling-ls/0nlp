@@ -1,0 +1,28 @@
+--- Page 1 (parsed text) --Rabat, le 27 février 2025
+CIRCULAIRE N° 6644/232
+Objet: Classement dans le tarif du droit d’importation d’une station de charge modèle IDC180E.
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation d’une station
+de charge modèle IDC180E.
+Description et utilisation
+La station de charge modèle IDC180E est un dispositif électrique triphasé de dimensions
+930x1930x615 mm et d’un poids de 480 Kg destiné à être fixé au sol.
+Ce dispositif d’une puissance de sortie pouvant atteindre 180 kW
+transforme le courant alternatif (input 400 Vca) en un courant
+continu (200 à 900 Vcc) afin de recharger les véhicules électriques via
+un système de câblage tout en assurant une protection contre les
+surcharges, les courts circuits grâce, notamment, à un système de
+refroidissement à air.
+La station est munie, essentiellement, d’un compteur d’énergie, d’un
+écran d’affichage, d’un lecteur de cartes et se connecte à internet
+afin de faciliter la surveillance et la gestion du processus de charge à
+distance.
+Photo fournie à titre illustratif
+Classement:
+De ce qui précède, la station de charge modèle IDC180E est un redresseur classé, par application des
+RGI 1 et 6, à la sous-position 8504. 40 du Système harmonisé, rubrique 8504. 40. 99. 70 du tarif du
+droit d’importation.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/27-02-25/15h40
+[Note: 4 image(s) found on this page. ]

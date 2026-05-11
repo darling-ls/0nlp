@@ -1,0 +1,355 @@
+--- Page 1 (parsed text) --Rabat, le 29/12/2017
+CIRCULAIRE N° 5746/312
+Objet: Procédures et Méthodes.
+Dématérialisation du circuit de dédouanement – Dispositions communes à tous les
+régimes douaniers
+Réf. : - Article 203 bis du code des douanes et impôts indirects et ses textes d’application
+- Arrêté du Ministre de l'Economie et des Finances n° 913-15 du 15 joumada I 1436 (6
+mars 2015) relatif au dépôt par procédés informatiques des déclarations en détail, des
+acquits à caution et des documents y annexés.
+- Circulaires n° 4185/211 du 31/12/1991 et 5707/312 du 21/07/2017
+Dans le cadre du déploiement progressif du processus de dématérialisation du circuit de
+dédouanement, il a été décidé par circulaire n° 5707/312 du 21/07/2017, de subordonner le
+dépôt des déclarations de cession sous régimes économiques en douane et leurs documents
+annexes à la signature électronique.
+Compte tenu des résultats concluants de cette mesure, il a été décidé de l’étendre, à compter du
+18 janvier 2018, aux déclarations en détail et documents y annexés souscrits sous les autres
+régimes douaniers.
+Par ailleurs et dans la perspective de supprimer le dépôt physique des déclarations et des
+documents susvisés, il a paru nécessaire de préciser les modalités de leur dépôt et les règles de
+leur gestion.
+I. Signature, dépôt et enregistrement des déclarations en détail
+En application des dispositions du code des douanes et impôts indirects, notamment ses articles
+74 et 77 et leurs textes d’application, la déclaration en détail établie dans les formes
+réglementaires et signée par son auteur est immédiatement enregistrée.
+Au plan pratique, dès la création de la déclaration sur le système BADR, elle est
+automatiquement affectée de sa référence d’identification.
+A la signature électronique de la déclaration et des documents devant lui être joints, elle est
+automatiquement déposée dans le système informatique de l'administration et son auteur reçoit
+une confirmation de son enregistrement.
+Ainsi, la date et l’heure de signature de la déclaration portées dans la case réservée à la signature
+du déclarant, constituent la date de son dépôt et de son enregistrement.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --A partir de cette date, la responsabilité du signataire est engagée conformément aux dispositions
+en vigueur en ce qui concerne:
+l'exactitude des énonciations;
+l'authenticité des documents annexés, et
+le respect de l'ensemble des obligations découlant du régime douanier déclaré au regard
+de la législation et la réglementation douanières et des autres législations et
+réglementations dont l’application incombe à la douane.
+Il demeure entendu que la modification ou l’annulation des déclarations enregistrées peut être
+autorisée dans les conditions légales en vigueur.
+II. Dépôt des documents devant être joints à la déclaration en détail
+Conformément aux dispositions de l’article 74 du code des douanes et impôts indirects, la
+déclaration en détail et les documents y annexés constituent un document unique et indivisible.
+Aux termes de l’article 8 de l’arrêté du ministre chargé des finances n° 1319-77 du 31 octobre
+1977, doivent être joints à la déclaration en détail, les factures et tous autres documents exigés
+pour l'application:
+des droits et taxes;
+des régimes douaniers;
+des différentes législations pour l'exécution desquelles la douane prête son concours.
+Au plan pratique, les documents à joindre à la déclaration sont répartis en deux catégories:
+Documents annexes: il s’agit des documents dont dispose le déclarant avant d’initier sa
+déclaration tels que, contrat commercial, titre de transport (connaissement, LTA, lettre de
+voiture) ainsi que, le cas échéant, la liste de colisage et les documents nécessaires pour
+l’application des régimes douaniers (exemples: lettre de cession, preuve de l’origine,
+autorisation d’admission temporaire, .. ).
+Documents exigibles: il s’agit des documents requis, justifiant l’accomplissement des
+formalités autres que douanières applicables au produit déclaré dans le cadre du concours
+aux autres services assuré par la douane, tels que le certificat sanitaire vétérinaire,
+l’agrément de l’ANRT, etc. …
+Les documents annexes doivent être signés par le déclarant et porter la référence
+d’enregistrement de la déclaration. Ils sont impérativement chargés sur le système informatique
+« BADR » avant la signature de la déclaration à laquelle ils sont annexés.
+Les documents exigibles, portant également la référence d’identification de la déclaration à
+laquelle ils sont adossés, sont chargés et envoyés au fur à mesure de leur délivrance par les
+organismes de contrôle concernés.
+Toutefois, la transmission des documents exigibles n’est pas nécessaire lorsque lesdits
+documents sont directement notifiés, dans le cadre de l’échange de données, au service douanier
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --par l’organisme émetteur, tel est le cas, notamment, des titres de change et du résultat du
+contrôle normatif exercé par le département chargé de l’industrie.
+Les documents annexes ou exigibles doivent être joints à la déclaration selon les spécifications
+techniques fixées par l'annexe à la circulaire n° 5707/312 du 21/07/2017.
+Il est à noter que les dates d’envoi des documents joints sont tracés et historisés sur le système
+informatique de l’administration, permettant ainsi au service de se prononcer sur leur
+recevabilité et l’application en conséquence des dispositions en vigueur, notamment, en cas de
+discordance des termes de la déclaration avec le contenu desdits documents.
+S’agissant des déclarations provisionnelles, la première sous DUM créée doit être annexée des
+documents du premier envoi. Les autres documents seront ajoutés pour couvrir les expéditions
+qui suivent. Dans tous les cas, les documents annexes devront être envoyés dans leur intégralité
+au moment de l’arrêt de la déclaration.
+III. Dispositions particulières
+a. Déclarations dispensées de la formalité du dépôt électronique:
+Sont dispensées de la formalité du dépôt électronique, telle que définie ci-dessus, les
+déclarations conventionnelles (ATA, TIR, déclaration postale, etc. ), les déclarations
+occasionnelles, ainsi que les déclarations visées au titre IV de l’arrêté du ministre des fiances n°
+1319-77 précité (exemples: déclarations d’admission et d’exportation temporaires des véhicules
+a usage commercial utilises en trafic routier international, déclaration simplifiée d’importation et
+d’exportation des échantillons, modèles, spécimen et coupes-types, etc. ).
+b. Cas particulier des documents annexes volumineux
+Certains opérateurs reçoivent de leurs fournisseurs des factures/colisages détaillées de plusieurs
+dizaines de pages. Pour ces cas, une facture récapitulative impérativement émise par le
+fournisseur est déposée dans le système selon les modalités précitées. Le document détaillé peut
+être exigé par le service à tous les stades du contrôle, auquel cas il devra lui être présenté dans sa
+version originale.
+L’acceptation des factures récapitulatives est soumise à autorisation préalable des ordonnateurs.
+Cette autorisation peut être ponctuelle ou permanente.
+c. Délai de dépôt des déclarations créées sur système
+Les déclarations en détail créées sur système et ayant reçu une référence d’identification doivent
+être signées électroniquement dans le délai de soixante (60) jours.
+Au-delà de ce délai, les déclarations en détail créées et non signées seront supprimées d'office
+par l'administration et purgées du système informatique.
+IV. Conservation des originaux des documents déposés électroniquement
+Le dépôt électronique des déclarations et de leurs documents joints ne désengage pas la
+responsabilité des signataires, qui doivent assurer, pendant la durée légale de conservation:
+[Note: 1 image(s) found on this page. ]
+--- Page 4 (parsed text) --l'authenticité de l'origine et l'intégrité du contenu des documents sous forme originale,
+papier ou électronique, ainsi que leur lisibilité.
+la conservation des documents visés par l'administration, en faisant apparaître de
+manière certaine et lisible le visa apposé et sa date.
+la communication, à toute réquisition des agents de l'administration, des documents
+exigés, sous leur forme originale, papier ou électronique.
+V. Prise en charge des déclarations enregistrées
+Une fois enregistrées, les déclarations sont prises en charge par le service à travers la
+fonctionnalité « INITIER CONTROLE ».
+Dès l’activation par le service douanier de cette fonctionnalité au niveau du système BADR, le
+contrôle de la déclaration et de ses documents annexes est initié. Elle a pour effet, l’affichage des
+résultats de sélectivité et partant, l’application des dispositions contentieuses éventuelles,
+notamment en ce qui concerne la modification ou l’annulation de la déclaration.
+En cas de besoin, le service peut demander au déclarant de se présenter ou d’envoyer des
+documents nécessaires pour l’application du régime douanier ou fiscal sollicité. Cette demande
+est notifiée au déclarant via le système BADR.
+VI. Procédure manuelle
+Lorsque, pour quelque cause que ce soit, l'accès au système informatique de l'administration est
+interrompu pendant la durée réglementaire, les déclarations et leurs documents annexes sont
+déposés sous format papier, selon la procédure manuelle en vigueur.
+Après rétablissement de l’accès au système susvisé, les déclarations et leurs documents annexes
+y sont déposés électroniquement.
+De même, l'administration peut exiger, si nécessaire, la présentation d'une version papier de la
+déclaration enregistrée électroniquement et de ses documents annexes.
+Enfin, les modalités techniques d’enregistrement des déclarations en détail, sont décrites dans le
+guide ci-joint.
+Les dispositions de la présente circulaire seront complétées par des dispositions spécifiques aux
+régimes douaniers.
+Les termes de la circulaire n° 4185/211 du 31/12/1991 relative au dépôt des déclarations en
+douane par des procédés informatiques sont modifiées en conséquence.
+Toute difficulté d’application doit être signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/29-12-17/17h20
+[Note: 2 image(s) found on this page. ]
+--- Page 5 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 1/19
+Mode opératoire
+Signature électronique et chargement des documents
+sur BADR
+I- FONCTIONNALITES RESERVEES AU DECLARANT
+I-1 Signature électronique de la déclaration
+• Accéder au menu
+puis à la fonctionnalité
+au niveau de
+l’explorateur de BADR:
+• Saisir la référence de la déclaration puis cliquer sur le bouton:
+• Cliquer sur le lien:
+[Note: 4 image(s) found on this page. ]
+--- Page 6 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 2/19
+• Cliquer sur le bouton Oui. L’écran suivant s’affiche:
+Les fichiers affichés au niveau de la liste des documents, à lire à gauche de l’écran
+précédent, doivent être parcourus par le déclarant comme indiqué dans le message
+affiché en haut de la DUM. Il s’agit des documents suivants: la DUM, la DUM COMPLETE.
+Remarquer le changement du statut des documents parcourus de ‘A LIRE’ à ‘LU’.
+• Cliquer ensuite sur le bouton SIGNER. Le nom du déclarant est restitué et les clauses
+contractuelles sont affichées selon le cas:
+[Note: 3 image(s) found on this page. ]
+--- Page 7 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 3/19
+• Cocher l’option indiquée en bas de l’écran précédent et cliquer sur le bouton. Le certificat de connexion de l’utilisateur est restitué. Celui-ci sera
+utilisé pour l’apposition de la signature:
+• Cliquer sur le bouton:
+• Saisir le code PIN du certificat utilisé et cliquer sur le bouton ‘OK’. Le processus de
+signature est terminé.
+• Cliquer sur le bouton Fermer la fenêtre. Remarquer l’ajout de l’intervention relative à
+la signature du déclarant au niveau de l’onglet Info.
+[Note: 3 image(s) found on this page. ]
+--- Page 8 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 4/19
+• Cliquer sur l’onglet Documents pour visualiser les différents signataires de la
+déclaration, les dates et les numéros des transactions associées:
+• Cliquer sur les liens PDF pour consulter les documents signés.
+[Note: 3 image(s) found on this page. ]
+--- Page 9 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 5/19
+Remarquer l’ajout du signataire (Nom, prénom et CNI) et la date de signature au niveau
+de la zone « Le déclarant ».
+N. B: Dans le cas d’une déclaration régime 022, les nom, prénom et CNI du déclarant sont
+apposés à la fois dans la zone « Le déclarant » et la zone « Le soumissionnaire »:
+I-2 Chargement et signature électronique des documents annexes et exigibles
+• Accéder au menu
+puis à la fonctionnalité
+au
+niveau de l’explorateur de BADR:
+[Note: 4 image(s) found on this page. ]
+--- Page 10 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 6/19
+• Cliquer ensuite sur le bouton:
+• Choisir le(s) fichier(s) à charger pour le document:
+[Note: 2 image(s) found on this page. ]
+--- Page 11 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 7/19
+Remarquer l’annonce du succès de l’opération au niveau de la zone Infos et le
+chargement du fichier au niveau de la rubrique Liste des fichiers chargés.
+Chargement des documents annexes:
+• Renseigner les éléments obligatoires suivants:
+Type: Choisir le type du document à annexer (Facture, liste de colisage, …)
+Référence: Saisir la référence complète du document à annexer.
+• Cliquer ensuite sur le bouton:
+• Choisir le(s) fichier(s) à charger pour le document:
+[Note: 1 image(s) found on this page. ]
+--- Page 12 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 8/19
+Remarquer l’annonce du succès de l’opération au niveau de la zone Infos et le
+chargement du fichier au niveau de la rubrique Liste des fichiers chargés.
+• Cliquer sur
+au niveau du menu contextuel de gauche:
+• Cliquer sur le bouton Oui:
+[Note: 2 image(s) found on this page. ]
+--- Page 13 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 9/19
+Les fichiers affichés au niveau de la liste des documents à lire à gauche de l’écran
+précédent, doivent être parcourus par le déclarant, en cliquant sur le lien DOCUMENT
+SUIVANT, comme indiqué dans le message affiché en haut de la DUM. Il s’agit des
+documents: la DUM, la DUM COMPLETE et les documents chargés.
+Remarquer le changement du statut des documents parcourus de ‘A LIRE’ à ‘LU’.
+• Cliquer sur le bouton SIGNER. La fenêtre suivante s’affiche:
+• Cocher l’option indiquée en bas de l’écran précédent et cliquer sur le bouton:
+[Note: 2 image(s) found on this page. ]
+--- Page 14 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 10/19
+Le certificat affiché par défaut est celui de connexion de l’utilisateur.
+• Cliquer sur le bouton:
+• Saisir le code PIN du certificat de connexion et cliquer sur le bouton ‘OK’. Les
+documents chargés sont signés.
+• Cliquer sur
+pour achever l’opération de signature de la déclaration.
+La signature est tracée au niveau de l’historique de la déclaration et les documents
+signés peuvent être consultés sur l’onglet Documents de la DUM.
+I-3 Signature électronique de la déclaration de cession par le cédant
+[Note: 3 image(s) found on this page. ]
+--- Page 15 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 11/19
+Le cédant doit d’abord accepter la cession avant de procéder à la signature électronique
+de la déclaration de cession en cours d’enregistrement.
+• Accéder au menu, puis à la fonctionnalité
+au niveau de
+l’explorateur de BADR:
+• Saisir la référence de la déclaration de cession, puis cliquer sur le bouton:
+• Cliquer sur
+au niveau du menu contextuel de gauche:
+• Cliquer sur le bouton Oui pour confirmer la signature:
+[Note: 3 image(s) found on this page. ]
+--- Page 16 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 12/19
+Les fichiers, affichés au niveau de la liste des documents à lire à gauche de l’écran
+précédent, doivent être parcourus par le cédant comme indiqué dans le message affiché
+en haut de la DUM. Il s’agit des documents suivants: la DUM, la DUM COMPLETE et les
+DOCUMENTS ANNEXES.
+• Parcourir la liste de documents:
+Remarquer le changement du statut des documents parcourus de ‘A LIRE’ à ‘LU’.
+• Cliquer sur le bouton:
+• Cocher l’option indiquée en bas de l’écran précédent et cliquer sur le bouton:
+[Note: 3 image(s) found on this page. ]
+--- Page 17 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 13/19
+Le certificat restitué est celui du cédant connecté.
+• Cliquer sur le bouton:
+• Saisir le code PIN et cliquer sur le bouton ‘OK’:
+• Cliquer sur
+pour achever l’opération de signature de la déclaration
+de cession par le cédant.
+[Note: 3 image(s) found on this page. ]
+--- Page 18 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 14/19
+I-4 Signature électronique de la déclaration de cession par le cessionnaire
+Le déclarant doit d’abord enregistrer la déclaration de cession avant de procéder à sa
+signature électronique sur le système BADR.
+Suivre les mêmes étapes que celles décrites ci-dessus en utilisant la fonctionnalité.
+Dans le cas des transitaires, la signature électronique, toutes déclarations confondues, n’est
+possible que pour les personnes habiles.
+I-5 Messages de notification
+Après signature de la déclaration, un mail de notification est envoyé au signataire ainsi qu’à
+l’adresse publique de l’opérateur déclarant:
+Un mail de notification est aussi envoyé après initiation du contrôle par l’agent douanier
+informant le déclarant du lancement du processus de contrôle par l’Administration:
+[Note: 2 image(s) found on this page. ]
+--- Page 19 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 15/19
+II- FONCTIONNALITES RESERVEES A L’AGENT DOUANIER
+II-1 Initier le contrôle
+Cette fonctionnalité permet à l’agent douanier d’initier le contrôle d’une ou de plusieurs
+déclarations sachant que le dépôt physique sera rejeté par le système. Il s’agit des DUM
+souscrites sous des régimes pour lesquels le circuit est dématérialisé.
+L’accès à cette fonctionnalité peut se faire soit par intervalle de dates de signature, soit par
+référence de la DUM:
+Remarquer le message d’erreur affiché lors de la confirmation du dépôt physique d’une
+déclaration souscrite sous un régime dont le circuit est dématérialisé:
+[Note: 3 image(s) found on this page. ]
+--- Page 20 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 16/19
+Le résultat de la recherche précédente s’affiche comme suit:
+Cliquer sur Confirmer pour afficher le résultat de sélectivité/cotation:
+L’action est tracée au niveau de l’historique de la déclaration:
+[Note: 4 image(s) found on this page. ]
+--- Page 21 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 17/19
+II-2 Demander des documents
+Une demande de documents, à soumettre à l’opérateur, peut être effectuée par l’agent
+douanier sur le système BADR.
+Utiliser pour cela la fonctionnalité « Demander des documents » du menu Dédouanement:
+L’accès se fait à travers la référence de la DUM. Le clic sur le bouton Valider permet d’accéder
+aux informations de celle-ci:
+L’agent douanier peut demander autant de documents que nécessaire en sélectionnant le
+type du document de la liste déroulante offerte et en renseignant un commentaire informant
+l’opérateur des éléments nécessaires.
+Les documents demandés sont récapitulés au niveau du tableau « Document à charger »:
+[Note: 3 image(s) found on this page. ]
+--- Page 22 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 18/19
+Le clic sur le lien « DEMANDER CHARGEMENT » du menu contextuel permet de valider
+l’opération. Un message de succès est affiché au niveau de la zone Infos:
+La demande est ainsi soumise et un mail de notification est envoyé à l’adresse de messagerie
+publique de l’opérateur déclarant l’invitant à compléter la déclaration par d’autres
+documents. Les commentaires renseignés par l’agent douanier sont envoyés sur le mail:
+Lors de la consultation de la déclaration en question, le déclarant peut constater l’affichage
+de la liste des demandes de chargement des documents à travers le clic sur le lien Demande
+de chargement (1 Nouveaux) au niveau de l’onglet Documents:
+[Note: 3 image(s) found on this page. ]
+--- Page 23 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 19/19
+L’opération de la demande des documents est tracée au niveau de l’historique de la
+déclaration:
+Le déclarant est invité à annexer les documents demandés par l’agent douanier à travers la
+fonctionnalité « Annexer les documents » puis à les signer en cliquant sur le lien. Suivre pour cela les mêmes étapes que celles décrites ci-dessus.
+II-3 Rejeter des documents
+Un rejet de documents peut être effectué par l’agent douanier sur le système BADR.
+Utiliser pour cela la fonctionnalité « Rejeter des documents » du menu Dédouanement:
+L’accès à cette fonctionnalité se fait par référence de la DUM. Le clic sur le bouton Valider
+permet d’accéder à celle-ci:
+[Note: 3 image(s) found on this page. ]
+--- Page 24 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 20/19
+L’agent douanier est invité à sélectionner le ou les documents à rejeter en les cochant un à un
+sur la liste restituée et en motivant son action:
+Les documents rejetés sont restitués au niveau du tableau « Rejet de document »:
+Le clic sur le lien REJETER du menu contextuel permet de confirmer l’opération. Un message
+de succès de l’opération est affiché au niveau de la zone Infos:
+[Note: 3 image(s) found on this page. ]
+--- Page 25 (parsed text) --Mode opératoire – Signature et chargement de documents
+Page 21/19
+Un mail de notification est envoyé automatiquement à l’adresse de messagerie publique de
+l’opérateur déclarant en lui précisant la liste des documents de la déclaration qui sont rejetés.
+Ci-dessous un exemple pour illustration:
+Lors de la consultation de la déclaration, le déclarant peut constater le motif de rejet des
+documents à travers le clic sur le lien hypertexte Rejeté au niveau de l’onglet Documents:
+L’opération de rejet des documents est tracée au niveau de l’historique de la déclaration:
+Intervention « Rejet de documents »
+[Note: 3 image(s) found on this page. ]

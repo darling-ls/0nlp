@@ -1,0 +1,24 @@
+--- Page 1 (parsed text) --Rabat, le 16 JUIN 2022
+CIRCULAIRE N° 6338/232
+OBJET: Classement dans le tarif du droit d’importation du produit dénommé "IC DRIVER".
+REF: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation du
+produit dénommé "IC DRIVER".
+Description et utilisation
+Il s’agit d’un dispositif électronique, d’une puissance de 7W, composé d’un circuit intégré sur
+lequel est monté, un redresseur, une résistance et un micro-convertisseur.
+Ledit dispositif convertit le courant alternatif provenant du secteur en un courant continu
+d’une tension appropriée pour que les luminaires LED fonctionnent correctement. Il régule,
+également, le flux d’électricité en veillant à fournir une alimentation constante
+indépendamment des variations pouvant affectées les propriétés électriques des LED.
+Source: Photo de l’échantillon communiqué par le demandeur
+Classement:
+L'article dénommé "IC DRIVER" est un dispositif électronique composé de dispositifs
+différents montés sur le même substrat et destinés à fonctionner ensemble ne constituant
+qu’un seul corps et dont la fonction principale est celle du redressement du courant et
+partant, cet équipement est classé, par application des RGI 1 et 6, à la sous-position 8504. 40
+du Système harmonisé, rubrique 8504. 40. 99. 80 du tarif du droit d’importation.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale
+sous le timbre de la présente.
+SGIA/Diffusion/16-06-22/16h15
+[Note: 4 image(s) found on this page. ]

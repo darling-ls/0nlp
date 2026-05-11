@@ -1,0 +1,832 @@
+[
+    {
+        "category": "Comptabilité",
+        "number": "6703/522",
+        "date": "30/12/2025",
+        "description": "Taux de la majoration sur obligations cautionnées pour le 1er semestre de l’année 2026.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97284&application=circulaire",
+        "document_id": "97284",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97284.txt"
+    },
+    {
+        "category": "Comptabilité",
+        "number": "6663/522",
+        "date": "30/06/2025",
+        "description": "Taux de la majoration sur obligations cautionnées pour le 2ème semestre de l'année 2025.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96198&application=circulaire",
+        "document_id": "96198",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96198.txt"
+    },
+    {
+        "category": "Contrôle du commerce extérieur",
+        "number": "6700/311",
+        "date": "24/12/2025",
+        "description": "Investissements et Régimes Particuliers - Restrictions quantitatives à l'importation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97245&application=circulaire",
+        "document_id": "97245",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97245.txt"
+    },
+    {
+        "category": "Contrôle du commerce extérieur",
+        "number": "6660/211",
+        "date": "05/06/2025",
+        "description": "Etudes tarifaires - Application d’un droit antidumping provisoire sur les importations de Polychlorure de Vinyle (PVC) originaires d’Egypte.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96072&application=circulaire",
+        "document_id": "96072",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96072.txt"
+    },
+    {
+        "category": "Contrôle du commerce extérieur",
+        "number": "6625/211",
+        "date": "03/01/2025",
+        "description": "Etudes tarifaires - Institution d’un droit antidumping définitif sur les importations de fours électriques originaires de Türkiye.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95285&application=circulaire",
+        "document_id": "95285",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95285.txt"
+    },
+    {
+        "category": "Contrôle du commerce extérieur",
+        "number": "6626/211",
+        "date": "03/01/2025",
+        "description": "Etudes tarifaires - Révision et prorogation du droit antidumping définitif sur les importations de polychlorure de Vinyle originaires des Etats Unis d’Amérique.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95286&application=circulaire",
+        "document_id": "95286",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95286.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6705/222",
+        "date": "31/12/2025",
+        "description": "Accord de Libre Échange Maroc/USA et Accord d’Association Maroc/Royaume-Uni - Contingents tarifaires.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97293&application=circulaire",
+        "document_id": "97293",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97293.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6706/233",
+        "date": "31/12/2025",
+        "description": "Règles d’origine - Accord d’association conclu avec l’UE, accords de libre-échange conclus avec la Turquie, les pays arabes méditerranéens (Accord d’Agadir) et l’AELE.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97302&application=circulaire",
+        "document_id": "97302",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97302.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6701/233",
+        "date": "26/12/2025",
+        "description": "Règles d’origine - Contre-valeurs dans les monnaies nationales des montants exprimés en euros.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97269&application=circulaire",
+        "document_id": "97269",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97269.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6699/233",
+        "date": "23/12/2025",
+        "description": "Règles d'origine arabes-Convention de facilitation et de développement des échanges commerciaux entre les pays arabes-Certificats d'origine électroniques utilisées dans le cadre de cette convention.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97229&application=circulaire",
+        "document_id": "97229",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97229.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6681/222",
+        "date": "30/09/2025",
+        "description": "Accord d’Association Maroc-UE - Accord agricole relatif aux mesures de libéralisation réciproques en matière de produits agricoles, de produits agricoles transformés, de poissons et de produits de la pêche.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96678&application=circulaire",
+        "document_id": "96678",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96678.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6661/222",
+        "date": "19/06/2025",
+        "description": "Accord amendant l’Accord de libre-échange Maroc-Türkiye.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96146&application=circulaire",
+        "document_id": "96146",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96146.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6631/221",
+        "date": "15/01/2025",
+        "description": "- Système de Préférences Commerciales entre les États Membres de l’OCI (SPC-OCI).\n- Modifications à la nomenclature douanière.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95343&application=circulaire",
+        "document_id": "95343",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95343.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6632/221",
+        "date": "15/01/2025",
+        "description": "-Régime fiscal de faveur au profit de certains pays d’Afrique\n-Modifications à la nomenclature douanière (loi de finances pour l’année budgétaire 2025).",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95344&application=circulaire",
+        "document_id": "95344",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95344.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6629/223",
+        "date": "10/01/2025",
+        "description": "- Convention Commerciale et Tarifaire Maroc-Guinée.\n- Modifications à la nomenclature douanière (loi de finances pour l’année budgétaire 2025).",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95341&application=circulaire",
+        "document_id": "95341",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95341.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6627/223",
+        "date": "09/01/2025",
+        "description": "- Accord portant création de la ZLECAf\n- Modifications à la nomenclature douanière (loi de finances pour l’année budgétaire 2025).",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95322&application=circulaire",
+        "document_id": "95322",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95322.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6697/232",
+        "date": "15/12/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un article dénommé \"Shared power Bank\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97172&application=circulaire",
+        "document_id": "97172",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97172.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6698/232",
+        "date": "15/12/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un système de gestion de l’énergie domestique dénommé \"HEMS\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97173&application=circulaire",
+        "document_id": "97173",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97173.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6696/232",
+        "date": "12/12/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un produit dénommé \"GROW UP \".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97168&application=circulaire",
+        "document_id": "97168",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97168.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6695/232",
+        "date": "11/12/2025",
+        "description": "Classement dans le tarif du droit d'importation d’un produit dénommé \"Bloc à lécher pour veaux\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97161&application=circulaire",
+        "document_id": "97161",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97161.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6693/232",
+        "date": "03/12/2025",
+        "description": "Classement dans le tarif du droit d’importation d’une table multifonction.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97107&application=circulaire",
+        "document_id": "97107",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97107.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6694/232",
+        "date": "03/12/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un produit dénommé \"Classical Maple Reformer\" modèle VOG-PL001\"",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97113&application=circulaire",
+        "document_id": "97113",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97113.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6692/211",
+        "date": "21/11/2025",
+        "description": "Etudes tarifaires - Prorogation de la mesure de sauvegarde appliquée aux importations de panneaux de bois revêtus.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97052&application=circulaire",
+        "document_id": "97052",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97052.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6690/232",
+        "date": "04/11/2025",
+        "description": "Classement dans le tarif du droit d'importation du produit dénommé \"Chutes d’ouate en FTS\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96935&application=circulaire",
+        "document_id": "96935",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96935.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6689/232",
+        "date": "03/11/2025",
+        "description": "Classement dans le tarif du droit d’importation de certains produits textiles utilisés pour la suspension de rideaux.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96929&application=circulaire",
+        "document_id": "96929",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96929.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6687/232",
+        "date": "31/10/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"CARNAC MS\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96904&application=circulaire",
+        "document_id": "96904",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96904.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6688/232",
+        "date": "31/10/2025",
+        "description": "Classement dans le tarif du droit d’importation des articles dénommés \"Disposable hemodialysis care kits\", référencés \"BAIN-HC-006\" et \"BAIN-HC-008\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96907&application=circulaire",
+        "document_id": "96907",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96907.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6686/232",
+        "date": "30/10/2025",
+        "description": "Classement dans le tarif du droit d’importation de l’article dénommé \"100% Polyester Felt\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96890&application=circulaire",
+        "document_id": "96890",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96890.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6684/232",
+        "date": "14/10/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"sels de calcium d’acides gras d’huile de palme \".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96777&application=circulaire",
+        "document_id": "96777",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96777.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6683/232",
+        "date": "08/10/2025",
+        "description": "Classement dans le tarif du droit d’importation d'un véhicule automobile modèle \"C10\" à autonomie prolongée \"REEV\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96740&application=circulaire",
+        "document_id": "96740",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96740.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6680/211",
+        "date": "29/09/2025",
+        "description": "Taxe sur la Valeur Ajoutée à l'importation des produits destinés à l'alimentation du bétail et des animaux de basse-cour.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96675&application=circulaire",
+        "document_id": "96675",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96675.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6678/211",
+        "date": "01/09/2025",
+        "description": "Etudes tarifaires - Prorogation de la suspension de la perception du droit d'importation applicable aux bovins domestiques.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96531&application=circulaire",
+        "document_id": "96531",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96531.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6676/232",
+        "date": "15/08/2025",
+        "description": "Classement dans le tarif du droit d’importation de certaines chaussures portant les références suivantes : SK-841 ; SM-950 ; SK-704 ; SL-234 ; SL-280 ; SL-293 ; SM-482 ; SM-951 ; SM-953 ; SM-987 ; SM-1032 ; SM-4001 ; SM-4008 ; Campus CAMP-EDGE ; Campus TACO CH ; Campus DAGGER et Campus CAMP-SPUNKY.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96472&application=circulaire",
+        "document_id": "96472",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96472.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6674/232",
+        "date": "13/08/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"Kit économiseur de carburant\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96454&application=circulaire",
+        "document_id": "96454",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96454.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6673/232",
+        "date": "12/08/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"Frafat F85-10\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96444&application=circulaire",
+        "document_id": "96444",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96444.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6670/232",
+        "date": "28/07/2025",
+        "description": "Classement dans le tarif du droit d’importation d'un programmateur d'arrosage portant la référence \"PRO C\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96361&application=circulaire",
+        "document_id": "96361",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96361.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6668/232",
+        "date": "24/07/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un article dénommé \"Contrôleur d’accès MICROgarde\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96353&application=circulaire",
+        "document_id": "96353",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96353.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6669/232",
+        "date": "24/07/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un véhicule dénommé \"AGRIP ARD 120/180\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96354&application=circulaire",
+        "document_id": "96354",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96354.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6666/232",
+        "date": "23/07/2025",
+        "description": "Classement dans le tarif du droit d’importation de certains accumulateurs électriques portant les références FY12.8V200Ah, FY25.6V100Ah, FY51.2V150Ah et AN_LPB_N_48300",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96347&application=circulaire",
+        "document_id": "96347",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96347.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6667/232",
+        "date": "23/07/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un câble coaxial portant la référence LCF12-50J",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96348&application=circulaire",
+        "document_id": "96348",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96348.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6657/232",
+        "date": "28/05/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"Boîtier pour compteur électrique\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96036&application=circulaire",
+        "document_id": "96036",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96036.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6658/232",
+        "date": "28/05/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un produit dénommé \"Goat Full Milk\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96048&application=circulaire",
+        "document_id": "96048",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96048.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6654/211",
+        "date": "25/04/2025",
+        "description": "Etudes tarifaires - TVA à l’importation appliquée aux produits phytosanitaires.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95878&application=circulaire",
+        "document_id": "95878",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95878.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6653/232",
+        "date": "23/04/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"Ecran Professionnel pour affichage dynamique\" portant la référence \"LH55VHCEBGBXEN\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95863&application=circulaire",
+        "document_id": "95863",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95863.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6651/211",
+        "date": "11/04/2025",
+        "description": "Etudes tarifaires - Mesure de sauvegarde sur les importations de panneaux de fibres de bois revêtus.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95819&application=circulaire",
+        "document_id": "95819",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95819.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6652/232",
+        "date": "11/04/2025",
+        "description": "Classement dans le tarif du droit d’importation d’une unité de gestion d'ascenseurs dénommée \"PORT TECHNOLOGY\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95831&application=circulaire",
+        "document_id": "95831",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95831.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6650/232",
+        "date": "08/04/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"Granulés d’aluminium\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95790&application=circulaire",
+        "document_id": "95790",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95790.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6648/232",
+        "date": "21/03/2025",
+        "description": "Classement dans le tarif du droit d’importation d'une unité mobile en semi-remorque dénommée \"UHDOB2\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95725&application=circulaire",
+        "document_id": "95725",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95725.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6647/232",
+        "date": "07/03/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"Polyéthylène broyé\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95651&application=circulaire",
+        "document_id": "95651",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95651.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6645/232",
+        "date": "04/03/2025",
+        "description": "Classement dans le tarif du droit d’importation d’une baie de sonorisation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95624&application=circulaire",
+        "document_id": "95624",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95624.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6643/232",
+        "date": "27/02/2025",
+        "description": "Classement dans le tarif du droit d’importation de certains gilets portant la référence \"CAST KR1/SP1\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95586&application=circulaire",
+        "document_id": "95586",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95586.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6644/232",
+        "date": "27/02/2025",
+        "description": "Classement dans le tarif du droit d’importation d’une station de charge modèle IDC180E.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95587&application=circulaire",
+        "document_id": "95587",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95587.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6642/232",
+        "date": "25/02/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un produit dénommé \"lacets\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95566&application=circulaire",
+        "document_id": "95566",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95566.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6638/232",
+        "date": "14/02/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un refroidisseur d’air portant la référence ACF-710",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95518&application=circulaire",
+        "document_id": "95518",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95518.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6637/232",
+        "date": "13/02/2025",
+        "description": "Classement dans le tarif du droit d’importation d'un terminal de paiement de marque NEXGO.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95509&application=circulaire",
+        "document_id": "95509",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95509.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6635/232",
+        "date": "07/02/2025",
+        "description": "Classement dans le tarif du droit d’importation d’un matériel dénommé \"Robinet d’Incendie Armé RIA\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95481&application=circulaire",
+        "document_id": "95481",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95481.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6634/211",
+        "date": "06/02/2025",
+        "description": "Etudes tarifaires-Prorogation du droit antidumping définitif appliqué aux importations de cahiers originaires de la Tunisie.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95475&application=circulaire",
+        "document_id": "95475",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95475.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6633/232",
+        "date": "03/02/2025",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"BEYERS MELANGE PREMIUM\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95454&application=circulaire",
+        "document_id": "95454",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95454.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6628/211",
+        "date": "09/01/2025",
+        "description": "- Etudes tarifaires.\n- Suspension de la perception du droit d’importation et de la TVA applicable à certains animaux et produits agricoles.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95323&application=circulaire",
+        "document_id": "95323",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95323.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6704/214",
+        "date": "30/12/2025",
+        "description": "Impôts Indirects : Taxes intérieures de consommation sur les tabacs manufacturés-Prix de vente au public.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97285&application=circulaire",
+        "document_id": "97285",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97285.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6649/214",
+        "date": "28/03/2025",
+        "description": "Impôts Indirects : Taxes intérieures de consommation sur les tabacs manufacturés - Prix de vente au public.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95757&application=circulaire",
+        "document_id": "95757",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95757.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6640/214",
+        "date": "20/02/2025",
+        "description": "Impôts Indirects - Régularisation des excédents de poids du fuel.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95541&application=circulaire",
+        "document_id": "95541",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95541.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6691/311",
+        "date": "10/11/2025",
+        "description": "Investissements et Régimes Particuliers-Contrôle à l’exportation des produits de l’Artisanat.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96979&application=circulaire",
+        "document_id": "96979",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96979.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6685/311",
+        "date": "21/10/2025",
+        "description": "Investissements et Régimes Particuliers - Contrôle à l’importation des équipements de télécommunication.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96805&application=circulaire",
+        "document_id": "96805",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96805.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6672/311",
+        "date": "08/08/2025",
+        "description": "Investissements et Régimes Particuliers - Contrôle des matériels et équipements de défense et de sécurité, des armes et des munitions.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96422&application=circulaire",
+        "document_id": "96422",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96422.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6659/311",
+        "date": "28/05/2025",
+        "description": "Accueil des Marocains Résidant à l’Etranger - Opération MARHABA 2025",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96034&application=circulaire",
+        "document_id": "96034",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96034.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6655/311",
+        "date": "05/05/2025",
+        "description": "Investissements et Régimes Particuliers- Restrictions quantitatives à l’exportation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95926&application=circulaire",
+        "document_id": "95926",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95926.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6646/311",
+        "date": "06/03/2025",
+        "description": "Investissements et Régimes Particuliers - Restrictions quantitatives à l’exportation. Prorogation de délai.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95643&application=circulaire",
+        "document_id": "95643",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95643.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6641/311",
+        "date": "25/02/2025",
+        "description": "Investissements et Régimes Particuliers - Produits soumis au contrôle de conformité aux normes d'application obligatoire.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95564&application=circulaire",
+        "document_id": "95564",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95564.txt"
+    },
+    {
+        "category": "Loi de Finances",
+        "number": "6702/210",
+        "date": "26/12/2025",
+        "description": "Dispositions douanières de la loi de finances pour l’année budgétaire 2026.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97273&application=circulaire",
+        "document_id": "97273",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97273.txt"
+    },
+    {
+        "category": "Opérations de dédouanement",
+        "number": "6677/312",
+        "date": "18/08/2025",
+        "description": "Déclaration sommaire d'acheminement et d'entrée des marchandises dans les MEAD.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96478&application=circulaire",
+        "document_id": "96478",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96478.txt"
+    },
+    {
+        "category": "Opérations de dédouanement",
+        "number": "6636/312",
+        "date": "10/02/2025",
+        "description": "Déclaration sommaire d’acheminement et d’entrée des marchandises dans les MEAD.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95493&application=circulaire",
+        "document_id": "95493",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95493.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6682/511",
+        "date": "01/10/2025",
+        "description": "Organisation et Gestion Prévisionnelle des Ressources Humaines - Réorganisation de la Filière des Brigades.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96685&application=circulaire",
+        "document_id": "96685",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96685.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6679/511",
+        "date": "09/09/2025",
+        "description": "Organisation et Gestion Prévisionnelle des Ressources Humaines - Transfert du siège de la Direction Provinciale de DAKHLA.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96564&application=circulaire",
+        "document_id": "96564",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96564.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6664/511",
+        "date": "02/07/2025",
+        "description": "Organisation des services déconcentrés - Direction Régionale de Tanger-Tétouan-Al Hoceima.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96215&application=circulaire",
+        "document_id": "96215",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96215.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6665/511",
+        "date": "02/07/2025",
+        "description": "Organisation des services déconcentrés - Direction Régionale de Casablanca-Settat.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96216&application=circulaire",
+        "document_id": "96216",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96216.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6656/511",
+        "date": "27/05/2025",
+        "description": "Organisation des services déconcentrés - Réorganisation de la Filière des Brigades.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96031&application=circulaire",
+        "document_id": "96031",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96031.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6630/511",
+        "date": "15/01/2025",
+        "description": "- Organisation et Gestion Prévisionnelle des Ressources Humaines\n- Organisation des Services de la Direction Régionale de Rabat-Salé-Kénitra",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95342&application=circulaire",
+        "document_id": "95342",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95342.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6675/312",
+        "date": "13/08/2025",
+        "description": "Procédures et Méthodes - Magasins Et Aires de Dédouanement.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96458&application=circulaire",
+        "document_id": "96458",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96458.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6662/312",
+        "date": "24/06/2025",
+        "description": "Dématérialisation du circuit de dédouanement - Vérification de l’authenticité des documents joints aux déclarations en détail.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96166&application=circulaire",
+        "document_id": "96166",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96166.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6639/312",
+        "date": "18/02/2025",
+        "description": "Dématérialisation du circuit de dédouanement - Conservation des documents originaux.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=95533&application=circulaire",
+        "document_id": "95533",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document95533.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6707/313",
+        "date": "31/12/2025",
+        "description": "Facilités de cautionnement en matière des régimes économiques en douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=97301&application=circulaire",
+        "document_id": "97301",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document97301.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6671/311",
+        "date": "28/07/2025",
+        "description": "Dématérialisation des autorisations d'exportation sous le régime d'Exportation Temporaire pour Perfectionnement Passif (ETPP).",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=96366&application=circulaire",
+        "document_id": "96366",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document96366.txt"
+    }
+]

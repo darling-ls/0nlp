@@ -1,0 +1,26 @@
+--- Page 1 (parsed text) --Rabat, le 31 octobre 2025
+CIRCULAIRE N° 6687/232
+Objet: Classement dans le tarif du droit d’importation du produit dénommé "CARNAC MS".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation du
+produit dénommé "CARNAC MS".
+Description et utilisation:
+Il s’agit d’un système modulaire automatisé de calibration et de mesure conçu pour être
+embarqué sur un avion et commandé via un PC portable et une tablette.
+Ledit système présenté sous forme de deux caissons est composé des éléments suivants:
+1- Des senseurs de radionavigation (Analyseur NAV/COM, Emetteur-récepteur DME,
+Récepteur GNSS/SBAS, senseur inertiel AHRS, radio VHF COM);
+2- Un concentrateur des données (DAU);
+3- Un PC portable (VSAC);
+4- Un système de positionnement de référence (DGPS-RTK); et
+5- Une tablette de guidage pilote.
+Il est utilisé pour tester et valider en vol les systèmes automatisés d'aide à la navigation
+(signaux radio, balises), à l'approche des aéroports et à l'atterrissage, en analysant les
+signaux en conditions réelles de vol pour vérifier leur conformité aux normes.
+Classement:
+De ce qui précède, le système considéré est classé, par application des RGI 1 et 6, à la sousposition 9031. 80 du Système harmonisé, rubrique 9031. 80. 00. 80 du tarif du droit
+d’importation.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous
+le timbre de la présente.
+SGIA/Diffusion/31-10-25/14h20
+[Note: 3 image(s) found on this page. ]

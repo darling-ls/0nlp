@@ -1,0 +1,97 @@
+--- Page 1 (parsed text) --Rabat, le 03 Février 2022
+CIRCULAIRE N° 6291/311
+OBJET: - Investissements et Régimes Particuliers.
+- Mise en service sur BADR de la gestion des conventions d’investissement.
+REFER: Circulaires n°s 5740/200 du 28/12/2017 et 6255/210 du 24/12/2021.
+Dans le cadre de la poursuite de la dématérialisation des procédures, l’Administration des Douanes et
+Impôts Indirects met en service à compter du 08/02/2022 un nouveau module dédié à la gestion des
+conventions d’investissement.
+Ce nouveau module vise à accompagner les évolutions législatives et procédurales qu’a connu cette
+partie du service et intègre de nouvelles fonctionnalités pour assurer la clarté, l’automaticité et le suivi
+optimal des conventions d’investissements.
+Il est décliné en deux principales fonctionnalités:
+La pré-imputation des listes des conventions directement par les importateurs au niveau de
+la saisie de la DUM sur BADR;
+La confirmation de l’imputation des conventions après validation de la Mainlevée sur BADR.
+Les modalités de gestion des opérations réalisées dans ce cadre restent inchangées.
+Le document en annexe reprend le mode opératoire de ce nouveau module.
+Toute difficulté d’application éventuelle est à signaler sous le timbre de la présente.
+SGIA/Diffusion/03-02-22/14h25
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --2
+ANNEXE: MODE OPERATOIRE
+
+Accéder au menu DEDOUANEMENT au niveau de l’explorateur BADR:
+
+Cliquer sur le lien Créer une déclaration:
+ Renseigner les éléments nécessaires pour la création d’une nouvelle déclaration, puis
+cliquer sur le bouton Confirmer:
+Onglet Entête de la DUM:
+[Note: 3 image(s) found on this page. ]
+--- Page 3 (parsed text) --3
+ Au niveau de la rubrique Accord et Franchise, choisir l’un des codes franchises suivants:
+o 1046: Biens d’équipement, bénéficiant de l’exonération du D. I et de la TVA;
+o 1078: Biens d’équipement, bénéficiant uniquement de l’exonération du D. I, alors que le
+TVA demeure exigible.
+La rubrique suivante s’affiche:
+ Cocher l’une des cases suivantes selon la situation de la consignation:
+Pas de consignation: Cette case est cochée par défaut.
+Prorogation attendue: Dans le cas d’une demande de prolongation d’une
+convention d’investissement demandée par l’opérateur.
+Annexes attendues: Dans le cas d’une demande d’ajout d’un ou plusieurs biens
+d’investissement au niveau des annexes de la convention d’investissement.
+Dans les deux derniers cas, la décision n’est pas encore signée.
+
+Saisir l’intitulé ou la référence de la convention d’investissement, l’écran suivant s’affiche:
+Les éléments suivants sont restitués automatiquement par le système:
+- Référence CI si le champ Intitulé convention est renseigné: L’année et le numéro
+de série de la convention d’investissement.
+- Intitulé convention si le champ Référence CI est renseigné: Le nom complet de la
+convention d’investissement.
+[Note: 2 image(s) found on this page. ]
+--- Page 4 (parsed text) --4
+- Date première imputation: Il s’agit de la date de la première importation dans le
+cadre de ladite convention.
+- La date de début et la date de fin pour bénéficier de l’exonération du droit
+d’importation.
+- La date de début et la date de fin pour bénéficier de l’exonération de la TVA.
+Onglet Articles:
+
+Compléter les informations en saisissant les numéros de l’annexe, le lot et l’article:
+Le champ Désignation Bémo est restitué automatiquement par le système.
+ Si l’annexe est en quantité, les informations suivantes sont affichées:
+- Solde quantité: le solde disponible, en termes de quantité de l’article pouvant
+bénéficier de la convention d’investissement.
+[Note: 2 image(s) found on this page. ]
+--- Page 5 (parsed text) --5
+- Unité: l’unité de mesure de la quantité.
+ Si l’annexe est en valeur, les informations suivantes sont affichées:
+Valeur en devise: Le solde disponible, en termes de valeur de l’article pouvant
+bénéficier de la convention d’investissement.
+Devise: la devise de la valeur.
+L’opérateur est invité à renseigner la valeur en devise à imputer.
+ Dans le cas où l’opérateur a coché Prorogation attendue ou Annexes attendues au niveau
+de l’onglet « Entête de la DUM », la rubrique AGLACI s’affiche comme suit:
+[Note: 1 image(s) found on this page. ]
+--- Page 6 (parsed text) --6
+L’utilisateur est invité à renseigner le numéro et la date de la décision.
+N. B:
+- L’unité de la convention doit être identique à l’unité de l’article de la DUM, autrement un
+message d’erreur s’affiche: « L’unité de facturation est différente de l’unité de mesure de
+l’article de la convention ».
+- La quantité à imputer doit être inférieure au solde disponible, autrement un message
+d’erreur s’affiche: « La quantité à imputer est supérieure au solde disponible ».
+- La valeur à imputer doit être inférieure au solde disponible, autrement un message
+d’erreur s’affiche: « La valeur à imputer est supérieure au solde disponible ».
+- Si la date du système est supérieure à la date de fin de l’exonération des DI et TVA, alors
+un message d’erreur s’affiche: « Le délai de bénéfice des avantages DI et TVA dans le cadre
+de la convention d’investissement sélectionnée est expiré! »
+- En cas de redressement de la quantité et/ou la valeur de la déclaration relative à l’article
+objet de la convention d’investissement, à l’occasion d’un contrôle effectué par l’agent
+douanier, le solde de la quantité et/ou de la valeur de l’article en question est modifié
+automatiquement sur le système.
+Ci-après à titre d’exemple un redressement de la quantité de l’article objet de la convention
+de 100 à 40:
+- Avant redressement:
+- Après redressement:
+[Note: 3 image(s) found on this page. ]

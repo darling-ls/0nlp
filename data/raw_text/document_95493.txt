@@ -1,0 +1,293 @@
+--- Page 1 (parsed text) --Rabat, le 10 Février 2025
+CIRCULAIRE N° 6636/312
+Objet: Déclaration sommaire d’acheminement et d’entrée des marchandises dans les MEAD.
+Réf. : - Arrêté du ministre de l’économie et des finances n° 2857-19 du 11/10/2019 modifiant
+l’arrêté n° 1035-03 du 28/05/2003.
+- Circulaires n° 5887/210 du 27/12/2018, n° 4742/212 du 27/12/2001 et n° 4902/312 du
+31/12/2003.
+Dans le cadre de la loi de finances pour l’année budgétaire 2019, l’article 63 du code des douanes et
+impôts indirects a été amendé pour consacrer la Déclaration Sommaire (DS) relative aux Magasins
+Et Aires de Dédouanement (MEAD) comme déclaration valant acquit à caution couvrant
+l’acheminement des marchandises depuis le bureau d’importation et leur entrée dans les MEAD.
+La formule de ce nouveau support déclaratif a été fixée par l’arrêté du ministre de l’économie et
+des finances n° 2857-19 du 11 octobre 2019 modifiant l’arrêté du ministre des finances et de la
+privatisation n° 1035-03 du 28 mai 2003 relatif à la déclaration sommaire des marchandises
+importées par voie maritime, aérienne ou à l’entrée dans les magasins et aires de dédouanement
+ainsi que les documents pouvant y être joints.
+Cette réforme qui s’inscrit dans le cadre de la simplification des procédures douanières, vise à
+remplacer les trois déclarations matérialisant, jusque-là, la prise en charge des marchandises dans
+les MEAD, à savoir, l’acquit à caution de transit, la DS MEAD et l’état de dépotage, par une seule
+déclaration combinant les trois volets, à souscrire par l’exploitant au niveau du bureau d’entrée.
+La présente circulaire a pour objet de définir les règles de gestion de cette nouvelle procédure.
+1. Enregistrement:
+Préalablement à la sortie de la marchandise du bureau de départ (pouvant être, selon le cas, un
+bureau d’importation ou un MEAD), l’exploitant du MEAD ou son représentant dûment mandaté,
+doit enregistrer une DS MEAD sur le système informatique BADR, selon la formule reprise en
+annexe I, en y joignant tous les documents nécessaires à cette procédure, notamment, le titre de
+transport et le manifeste commercial reprenant les données du chargement par ligne (Expéditeur,
+destinataire (raison sociale et ICE), nombre de colis, désignation commerciale, poids brut et valeur).
+L’enregistrement de la DS MEAD donne lieu à l’ouverture automatique d’un compte de transit.
+2. Garantie:
+La DS MEAD est couverte par la caution de type ‘S’, accordée aux exploitants de MEAD sur la base
+de la soumission générale cautionnée souscrite en garantie des opérations de leurs MEAD ou, le cas
+échéant, la caution globale de type « G ».
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --3. Sélectivité et cotation:
+Au bureau de départ, la DS MEAD fait l’objet d’une sélectivité et d’une cotation automatique et, par
+conséquent, d’une initiation de contrôle automatique, comme en matière d’acquis à caution de
+transit.
+4. Contrôle de transit et mainlevée:
+Après contrôle de transit, l’agent douanier renseigne les éléments relatifs à ce contrôle et délivre, le
+cas échéant, une mainlevée après apposition ou validation des scellés déclarés par l’exploitant.
+5. Ecor et contre écor:
+Les formalités d’écor et de contre écor sont accomplies comme en matière de déclarations de transit.
+6. Document d’accompagnement:
+Après accomplissement des formalités d’écor, un extrait de la DS MEAD établi selon le modèle en
+annexe II peut être imprimé par l’exploitant en guise de document d’accompagnement du lot de
+marchandise lors de son acheminement vers le MEAD de destination.
+7. Prise en charge au niveau du MEAD:
+A l’arrivée de la marchandise au MEAD de destination et après contrôle de la régularité de
+l’opération de transit, l’agent douanier affecté à ce MEAD confirme la réception de la marchandise,
+déchargeant ainsi le compte de transit objet de la DS MEAD.
+Pour les MEAD exploités par des OEA Sûreté-Sécurité, cette formalité se fera sur la base de la préconfirmation d’arrivée faite, le cas échéant, par l’exploitant, dans le cadre de la facilité de dépotage
+sans présence douanière, objet de la circulaire n° 5991/300 du 18/12/2019.
+Le contrôle du délai de transit des DS MEAD se fera conformément aux termes de la circulaire
+n°6387/412 du 13/12/2022.
+8. Emission des Bons A Délivrer (BAD):
+L’émission des BAD relatifs aux lots objet de la DS MEAD est gérée automatiquement au niveau du
+guichet unique « Portnet ».
+9. Apurement:
+La DS MEAD est apurée par les mainlevées des DUM de dédouanement des marchandises qu’elle
+couvre.
+Elle peut être également apurée par:
+Les DS MEAD couvrant des lots de marchandises destinés à d’autres MEAD;
+C’est le cas, notamment, des envois en groupage à destination de plusieurs MEAD, pour lesquels
+il sera procédé à la création d’une première DS MEAD au bureau de départ, à apurer au premier
+MEAD de transit puis la création d’une autre DS MEAD pour couvrir l’acheminement et la prise
+en charge au niveau du deuxième MEAD de destination.
+Les apurements exceptionnels, notamment, pour le cas des marchandises couvertes par des
+carnets ATA ou des carnets TIR.
+10. Rectification des énonciations de la DS MEAD:
+La DS MEAD peut être rectifiée dans les conditions ci-après:
+Au niveau du bureau d’importation et lors de l’acheminement de la marchandise: Dans les
+conditions réglementaires régissant la rectification des déclarations acquit à caution de transit.
+Après réception au niveau du MEAD de destination: Dans les conditions réglementaires régissant la
+rectification des déclarations sommaires.
+--- Page 3 (parsed text) --11. Annulation de la DS MEAD:
+L’annulation de la DS MEAD obéit aux mêmes règles et conditions d’annulation des déclarations
+sommaires.
+12. Suites contentieuses:
+Les infractions constatées en cours du contrôle au bureau de transit jusqu’à la décharge du compte
+de transit sont traitées, au plan contentieux, conformément aux dispositions applicables au régime
+de transit.
+Les infractions constatées après réception ou lors du dépotage des marchandises dans le MEAD de
+destination sont traitées, au plan contentieux, conformément aux dispositions applicables à la mise
+en douane.
+13. Redevance informatique:
+La DS MEAD est soumise au paiement de la redevance informatique selon le tarif relatif aux
+déclarations sommaires.
+*****************
+Le mode opératoire de cette nouvelle procédure est accessible sur le site Internet de cette
+administration (www. douane. gov. ma) à travers l’onglet « Entreprises et Professionnels », rubriques
+« Entreprises » / « Procédures et guides liés au dédouanement en ligne » ou via le lien suivant:
+http: //www. douane. gov. ma/dms/loadDocument? documentId=93041.
+Toute disposition contraire est abrogée en conséquence.
+La nouvelle DS MEAD entre en vigueur à compter de la date de la présente et sera rendue
+obligatoire dans un délai de trois mois. Pendant cette période, l’ancienne procédure
+d’acheminement et de prise en charge des marchandises au niveau des MEAD sera maintenue, en
+parallèle, pour faciliter l’adhésion progressive des opérateurs.
+Toute difficulté d’application sera signalée au service central sous le timbre de la présente.
+SGIA/Diffusion/10-02-25/16h30
+[Note: 1 image(s) found on this page. ]
+--- Page 4 (parsed text) --ADMINISTRATION DES DOUANES
+ET IMPOTS INDRECTS
+DECLARATION SOMMAIRE D’ACHEMINEMENT ET D’ENTREE DES
+MARCHANDISES DANS LES MAGASINS ET AIRES DE DEDOUANEMENT
+(MEAD)
+LE:
+PAGE: VERSION:
+A- REFERENCES
+1BUREAU
+2- REGIME
+3ANNEE
+4NUMERO
+5CLE
+6- DATE
+ENREGISTREMENT
+B- DECLARANT
+7NOM
+8- RC
+9- ICE
+10- N°
+AGREMENT MEAD
+11- CAUTION
+(N° DECISION)
+C RC
+N°RC
+E- MOYEN DE TRANSPORT
+18- TRANSPORTEUR
+19- TYPE
+IMMATRICULATION
+22- POIDS BRUT
+TOTAL
+23- TARE
+24- NOMBRE DE CONTENANTS
+20- PAYS
+21- NUMERO
+F- DETAIL DE LA MARCHANDISE PAR DECLARATION SOMMAIRE DE REFERENCE
+REFERENCE
+27- N° DE
+LIGNE
+CHARGEMENT
+30MARQUE
+NATURE
+MARCHANDISE
+DESTINATAIRE
+CONTENANT
+37POIDS
+BRUT
+(KG)
+VALEUR
+EQUIPEMENT
+MONNAIE
+ETRANGERE
+40- MAD
+25- DS
+DE
+REF.
+26CNT/L
+TA
+28- DATE
+29- LIEU
+38MONNAIE
+39MONTANT
+31LIBELLE
+32- CODE
+S. H (4/10)
+33- ICE
+34- NOM
+35CODE
+36NOMBRE
+41- N°
+42- TARE
+Sous Total
+Sous Total
+TOTAL
+43- AUTORISATION D’ACHEMINEMENT
+44- NOMBRE DE SCELLES
+45- NUMEROS DE SCELLES
+46- CONFIRMATION DE RECEPTION DE L’OPERATION DE TRANSIT
+SIGNATURE DU DECLARANT:
+C- TRANSIT
+D- DECLARATION SOMMAIRE DE REFERENCE
+12- BUREAU DE DEPART
+13- LIEU DE STOCKAGE
+14- BUREAU DE TRANSIT
+15- N° DS DE REFERENCE
+16- DATE
+D’ENREGISTREMENT
+17- N° LOT
+CONNAISSEMENT/LTA/…
+ANNEXE I: Modèle de la DS MEAD
+Annexe à la circulaire n° 6636/312 du 10/02/2025
+[Note: 7 image(s) found on this page. ]
+--- Page 5 (parsed text) --DONNEES A RENSEIGNER
+A – Référence de la déclaration:
+1- Bureau: le code du bureau douanier de rattachement du MEAD de destination de la marchandise.
+2- Régime: le code du régime douanier de la DS MEAD.
+3- Année: l’année de souscription de la déclaration sommaire.
+4- Numéro: le numéro attribué par le système BADR à la déclaration sommaire sur 7 chiffres chronologiques.
+5- Clé: la clé d’identification de la déclaration attribuée par le système BADR.
+6- Date d’enregistrement: la date d’enregistrement de la DS MEAD sur le système informatique.
+B- Données relatives au déclarant et au MEAD exploité:
+7- Nom: nom ou raison sociale de l’exploitant du MEAD.
+8- RC:
+ C RC (Centre RC): lieu d’immatriculation au registre de commerce.
+ N°RC: numéro du registre de commerce.
+9 - ICE: le numéro de l’Identifiant Commun de l’Entreprise relatif au déclarant.
+10- N° Agrément MEAD: le numéro d’agrément attribuée par l’administration pour l’exploitation du MEAD.
+11- Caution: le n° de la décision de caution attribuée par l’administration suite à l’agrément du MEAD.
+C- Données relatives à l’opération de transit:
+12- Bureau de départ: le code du bureau de départ de l’opération de transit (selon le cas: bureau d’importation ou
+MEAD).
+13- Lieu de stockage: le code du magasin où est stockée la marchandise dans le bureau de départ.
+14- Bureau de transit: le code du bureau de transit de la marchandise, s’il y’a lieu.
+D- Données relatives à la déclaration sommaire de référence:
+15- N° DS de référence: c’est l’ensemble des données relatives au bureau, régime, année, série chronologique et clé
+de la déclaration sommaire de référence qui peut être, selon le cas: la DS du bureau d’entrée (maritime ou aérien)
+ou une DS MEAD.
+16- Date d’enregistrement: la date d’enregistrement de la DS de référence.
+17- N° LOT (CONNAISSEMENT/LTA/…): la référence du/des titre(s) de transport de la marchandise.
+E- Données relatives au moyen de transport:
+18- Transporteur: Il peut s’agir de l’exploitant du MEAD (case B) ou d’un autre transporteur engagé par l’exploitant
+du MEAD dans le cadre d’un contrat de partenariat.
+19- Type: la nature du moyen de transport (camion, ensemble routier, remorque, semi-remorque, etc. ).
+20- Immatriculation - Pays: le pays d’immatriculation du moyen de transport.
+21- Immatriculation - Numéro: l’immatriculation du moyen de transport de la marchandise.
+22- Poids Brut total: Poids total des marchandises ventilé, le cas échéant, par moyen de transport.
+23- Tare: la tare du moyen de transport de la marchandise.
+24- Nombre de contenants: le nombre de contenants utilisés.
+F- Données relatives au détail de la marchandise:
+25- Référence - DS de REF: la déclaration sommaire de référence (renseignée au niveau de la case 15).
+26- Référence - CNT/LTA: la référence du titre de transport de la marchandise (renseignée au niveau de la case 17).
+27- N° de ligne: le numéro de la ligne de la marchandise dans le titre de transport; chaque ligne étant attribuée à un
+destinataire précis.
+28- Chargement - Date: la date du chargement de la marchandise à l’étranger.
+29- Chargement - Lieu: le lieu de chargement de la marchandise à l’étranger.
+30- Marque: la marque affichée sur le contenant. A défaut, écrire le libellé « Destinataire/ Réf. DS/ N° ligne ».
+31- Nature Marchandise - Libellé: la désignation de la marchandise.
+32- Nature Marchandise - Code SH: le classement de la marchandise selon la codification à 4 chiffres du « Système
+Harmonisé ». Pour les marchandises soumises à un contrôle obligatoire au bureau d’entrée, au titre d’une
+réglementation particulière, notamment, celui exercé par l’ONSSA,
+33- ICE: l’identifiant commun de l’entreprise relatif au destinataire de la marchandise.
+--- Page 6 (parsed text) --34- Nom: le nom ou la raison sociale du destinataire de la marchandise.
+35- Code: le code du contenant à designer sur une liste restituée par le système informatique.
+36- Nombre: le nombre de contenants utilisés.
+37- Poids Brut (kg): le poids brut de la marchandise objet de la ligne du titre de transport.
+38- Valeur – Monnaie étrangère - Monnaie: l’unité monétaire étrangère de facturation.
+39- Valeur – Monnaie étrangère - Montant: le montant facturé en monnaie étrangère.
+40- Valeur – MAD: la contre-valeur en Dirham du montant facturé en monnaie étrangère.
+41- Equipement - N°: le numéro de l’équipement utilisé, généralement lorsqu’il s’agit de transport par conteneurs.
+42- Equipement - Tare: la tare de l’équipement indiqué dans la case 41.
+Cases réservées à l’administration:
+43- Autorisation d’acheminement: la date et l’heure de la mainlevée de l’opération de transit et le nom de l’agent
+douanier l’ayant délivré.
+44- Nombre de scellés: le nombre de scellés apposés sur le moyen de transport assurant l’opération de transit.
+45- Numéro(s) de scellés: le(s) numéro(s) du/des scellé(s) indiqué(s) au niveau de la case 44.
+46- Confirmation de réception de l’opération de transit: la date et l’heure de la confirmation de réception de
+l’opération de transit et le nom de l’agent douanier l’ayant attesté.
+--- Page 7 (parsed text) --Annexe II: Document d’accompagnement
+ADMINISTRATION DES DOUANES
+ET IMPOTS INDRECTS
+DECLARATION SOMMAIRE D’ACHEMINEMENT ET D’ENTREE DES
+MARCHANDISES DANS LES MAGASINS ET AIRES DE DEDOUANEMENT
+(MEAD)
+LE:
+PAGE: VERSION:
+EXTRAIT D’ACHEMINEMENT
+A- REFERENCES
+1BUREAU
+2- REGIME
+3ANNEE
+4NUMERO
+5CLE
+6- DATE
+ENREGISTREMENT
+B- DECLARANT
+7- NOM
+8- ICE
+D- MOYEN DE TRANSPORT
+11- TYPE
+IMMATRICULATION
+14- POIDS BRUT TOTAL
+12- PAYS
+13- NUMERO
+E- DETAIL DE LA MARCHANDISE
+15- NOMBRE TOTAL CONTENANT
+16- POIDS TOTAL BRUT (KG)
+17- AUTORISATION D’ACHEMINEMENT
+18- NOMBRE DE SCELLES
+19- NUMEROS DE SCELLES
+C- TRANSIT
+9- BUREAU DE DEPART
+10- BUREAU DE RANSIT

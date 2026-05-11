@@ -1,0 +1,56 @@
+--- Page 1 (parsed text) --Rabat, le 25 mai 2021
+CIRCULAIRE N° 6201/232
+OBJET: Classement dans le tarif du droit d’importation d’un article dénommé "Power
+inverter", références 150W Power Inverter et 200W Power Inverter.
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation d’un
+article dénommé "Power inverter", références 150W Power Inverter et 200W Power Inverter.
+Description et utilisation
+Il s’agit d’un appareil électrique pour véhicule automobile consistant en un adaptateur
+allume-cigare permettant de délivrer un courant alternatif.
+Il permet de redresser et de transformer le courant électrique continu de la batterie du
+véhicule, d'une tension de 12 V, en un courant alternatif d'une tension de 220 V et d'une
+fréquence de 50 Hz, afin d'alimenter et de recharger un appareil électrique compatible.
+Les caractéristiques de ces deux modèles sont reprises dans le tableau ci-après:
+Caractéristiques techniques
+150W Power Inverter
+200W Power Inverter
+Puissance de sortie
+150W
+200W
+Puissance d'entrée
+DC 12V
+DC 12V
+Sortie 1
+DC 220V
+DC 220V
+Sortie 2
+DC 12V 10A Max
+DC 220V
+Sortie USB
+2 X 5V/2. 4A
+4 X 5V/2. 4A
+Fréquence de sortie
+50HZ ± 2%
+50HZ ± 2%
+Type de signal
+Sinusoïdal
+Sinusoïdal
+Dimensions
+142 x 90 mm
+150 x 78 mm
+Poids
+280 g
+296 g
+Photos
+Source: documentation produite par le demandeur.
+[Note: 4 image(s) found on this page. ]
+--- Page 2 (parsed text) --Classement:
+De ce qui précède, l’article dénommé "Power inverter" est un équipement qui permet de
+redresser le courant continu en courant alternatif tout en transformant sa tension, classé par
+application des RGI 1 et 6 à la sous-position 8504. 40 du Système harmonisé, rubrique
+8504. 40. 99. 50 du tarif du droit d’importation.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous
+le timbre de la présente.
+SGIA/Diffusion/25-05-21/11h10
+[Note: 1 image(s) found on this page. ]

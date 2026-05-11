@@ -1,0 +1,31 @@
+--- Page 1 (parsed text) --Rabat, le 24 mai 2018
+CIRCULAIRE N° 5798/232
+Objet: Classement dans le tarif du droit d’importation de l’article dénommé "FGS-212 Fibaro
+Relay Switch".
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de l’article
+dénommé "FGS-212 Fibaro Relay Switch".
+Description:
+Il s’agit d’un micromodule électrique de dimensions 42, 5x38, 25x20, 3 mm, sans fil, de type
+commutateur (On/Off) comprenant un relais-commutateur.
+Ce micromodule est alimenté par un courant d’une tension de 110-240V, d’une fréquence de 5060Hz et d’une puissance maximale cumulée ne dépassant pas 2500W (10A).
+Utilisation:
+Cet appareil, à usage domestique, est conçu pour être monté dans les boîtes d’interrupteurs
+muraux de diamètre supérieur ou égal à 50mm et des prises murales au niveau desquelles le
+contrôle du système électrique d’une puissance maximale de 2500 Watts (10A) est nécessaire.
+Il peut contrôler les appareils électriques qui lui sont raccordés à distance (exemple les
+radiateurs, le ballon d'eau chaude standard, les appareils électriques (télévision, four à microonde, etc. ), .. .) directement en utilisant les boutons poussoirs ou indirectement via un protocole
+de communication sans fil, qui utilise les radios fréquences pour établir les communications et
+échanger les informations.
+Ledit appareil est conçu pour opérer avec un système domotique global fonctionnant dans le
+cadre du protocole précité. Il est contrôlé à partir d’un ordinateur, d’une tablette ou d’un
+smartphone à travers un box domotique.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --Classement:
+L’article dénommé "FGS-212 Fibaro Relay Switch" est un commutateur, pour application à
+domicile, classé à la position 85. 36 du Système harmonisé, sous-position tarifaire 8536. 50. 13. 00
+et ce, par application des RGI 1 et 6.
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/24-05-18/13h05
+[Note: 2 image(s) found on this page. ]

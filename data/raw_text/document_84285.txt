@@ -1,0 +1,31 @@
+--- Page 1 (parsed text) --CIRCULAIRE N° 6191/312
+Objet: Circuit de dédouanement sous les régimes 856 et 866.
+L’autorisation d’acheminement des marchandises déclarées sous les régimes 856 (Transit entre
+zones franches autres que portuaires et aéroportuaires) et 866 (Transit à l’export vers l’étranger à
+partir des zones franches) est subordonnée à la validation sur le système informatique BADR de la
+« confirmation d’entrée ». Cette transaction trace et confirme la présentation des marchandises
+en cause au point de sortie de la zone d’accélération industrielle (ex zones franches).
+Cette procédure n’est pas optimale et rallonge les délais de passage en douane pour ces flux dont
+le facteur temps est primordial.
+Ainsi et dans le cadre de la simplification et de l’optimisation des procédures, il a été décidé de
+revoir le circuit de traitement des deux régimes précités selon le schéma ci-après:
+1. Signature de la déclaration en détail;
+2. Déclaration des scellés par l’opérateur concerné et apposition par l’agent douanier selon
+le mode opératoire objet de la circulaire n° 6182/312 du 19/04/2021;
+3. Acheminement du moyen de transport vers la porte de sortie de la zone d’accélération
+industrielle, sans attendre l’autorisation d’acheminement;
+4. A la porte de sortie de la zone d’accélération industrielle, l’agent douanier accède au
+menu « Autorisation d’acheminement » et y renseigne la référence de la déclaration en
+détail concernée;
+5. Le système restitue une décision soit d’autorisation d’acheminement ou de visite
+physique de la marchandise;
+6. En cas de visite physique, l’autorisation d’acheminement est accordée après validation du
+contrôle par le service douanier et apposition de nouveaux scellés;
+7. Acheminement de la marchandise vers le bureau de destination sous scellés;
+8. Au bureau de destination, le service douanier renseigne le système informatique de la
+confirmation d’arrivée de la marchandise et, par la suite, du « vu embarquer » pour le
+régime 866.
+Toute difficulté d’application sera signalée à l’administration sous le timbre ci-dessus.
+Rabat, le 11 Mai 2021
+SGIA/Diffusion/11-05-21/13h35
+[Note: 3 image(s) found on this page. ]

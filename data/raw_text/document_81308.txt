@@ -1,0 +1,124 @@
+--- Page 1 (parsed text) --Rabat, le 17 Avril 2020
+CIRCULAIRE N° 6037/312
+Objet: Procédures et Méthodes
+Déclaration simplifiée
+Réf. : Code des douanes et impôts indirects – article 76bis.
+Arrêté du Ministre de l’Economie, des Finances, de la Privatisation et du Tourisme
+n°1437-01 du 06/08//2001 fixant les délais pour présenter la déclaration
+complémentaire.
+Pour tenir compte des spécificités de certains secteurs d’activité, l’administration peut,
+conformément à l’article 76-bis du code des douanes et impôts indirectes, autoriser le
+dédouanement de marchandises sous couvert d’une déclaration simplifiée.
+Cette dernière peut prendre la forme d’un document commercial ou de tout autre document
+en tenant lieu ou d’une inscription des marchandises dans la comptabilité matières de
+l’opérateur économique, à charge pour ce dernier de présenter une déclaration
+complémentaire dans un délai n’excédant pas trente (30) jours.
+La déclaration complémentaire constitue avec la déclaration simplifiée un acte unique et
+indivisible.
+Dans le cadre de la simplification des procédures et en application de ce dispositif légal,
+l’administration a mis en place une nouvelle formule de déclaration simplifiée dont les
+modalités de gestion sont définies ci-après.
+I.
+Champs d’application
+La facilité « déclaration simplifiée » est accordée aux opérations suivantes:
+1) Enlèvement des envois express non taxables;
+2) Avitaillement des opérateurs du secteur de la pêche en matériels, carburants, combustibles
+et lubrifiants;
+3) Avitaillement des navigations maritimes ou aériennes à destination de l’étranger, en
+carburants, combustibles et lubrifiants, pièce de rechange, vivres et provisions de bord;
+4) Avitaillement des navigations maritimes des unités de surveillance de la marine royale, de
+la gendarmerie royale, des douanes et de la sûreté nationale, en carburants, combustibles
+et lubrifiants;
+5) Vente en hors droits et taxes au profit des voyageurs en partance ou en provenance de
+l’étranger;
+6) Vente en hors droits et taxes au profit des diplomates et entités diplomatiques accrédités
+au Maroc, à l’exception des véhicules;
+[Note: 1 image(s) found on this page. ]
+--- Page 2 (parsed text) --7) Avitaillement des zones d’accélération industrielle par les prestataires de restauration.
+Sont exclus de cette facilité, les produits soumis à une réglementation particulière.
+II.
+Modalités d’octroi
+La facilité « déclaration simplifiée » est accordée sur demande des opérateurs, par les
+Directeurs Préfectoraux et Inter-Préfectoraux, les Directeurs Provinciaux et Interprovinciaux,
+les Directeurs des Importations, des Exportations et des MEAD.
+La décision d’octroi de la facilité « déclaration simplifiée » peut prévoir des délais précis
+d’enregistrement de la déclaration complémentaire ainsi que la nature et, le cas échéant, les
+modèles de documents pouvant servir de supports de déclarations simplifiées.
+L’autorisation est obligatoirement prise en charge sur le système BADR et peut concerner une
+seule opération ou être accordée à titre permanent.
+III.
+Circuit de la « déclaration simplifiée »
+1.
+Déclaration simplifiée
+Il s’agit du document ayant servi à la réalisation des opérations susvisées. Il peut avoir la
+forme de tout document commercial ou de transport comportant les données nécessaires
+pour l’identification de la marchandise et de son régime douanier. Deux cas de figure se
+présentent:
+a) Opérations réalisées sous douane, pour lesquelles la mainlevée est accordée, après
+contrôle d’usage, sur le corps du document présenté, en deux exemplaires, dont l’un est
+conservé par le service et l’autre est restitué au déclarant.
+b) Opérations réalisées hors douane, que le déclarant est tenu d’inscrire dans une
+comptabilité matière, y compris par procédé informatique. L’accès à cette comptabilité
+matière ainsi qu’aux documents justificatifs correspondants doit être permis à première
+réquisition des agents de l’administration.
+2.
+Déclaration complémentaire
+C’est une déclaration qui doit être enregistrée sur le système informatique « BADR » selon le
+mode opératoire en annexe, sur la base des données de la déclaration simplifiée, complétées
+des autres énonciations exigibles. Le ou les documents matérialisant la déclaration simplifiée
+sont également joints au niveau de l’onglet « documents ».
+A titre de facilité, une déclaration complémentaire peut couvrir plusieurs déclarations
+simplifiées.
+Dans ce cas, la déclaration complémentaire sera renseignée des données de toutes les
+opérations couvertes. Pour les opérateurs justifiant d’une fréquence mensuelle minimale de
+quinze (15) opérations, les documents annexes peuvent être remplacés par un état
+récapitulatif global.
+La déclaration complémentaire doit être déposée sur BADR dans un délai maximal de trente
+(30) jours à compter de la date de la première déclaration simplifiée.
+Le contrôle de la déclaration complémentaire est réalisé comme en matière de déclaration en
+détail.
+Ainsi, après contrôle documentaire de la déclaration complémentaire et ses documents
+annexes et paiement ou garantie, le cas échéant, des droits et taxes dus, une mainlevée est
+attribuée.
+--- Page 3 (parsed text) --3.
+Divers
+Les opérations initiées au bénéfice de ce mode déclaratif, en apurement d’un compte de
+régimes économiques en douane, doivent être réalisées pendant la durée de validité de ce
+compte. A ce titre, il sera tenu compte de la date d’établissement du document matérialisant
+la déclaration simplifiée.
+Enfin, le défaut de dépôt de la déclaration complémentaire ou le non-respect du délai
+réglementaire de cette obligation est sanctionné conformément à la réglementation en
+vigueur.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/17-04-20/12h55
+[Note: 2 image(s) found on this page. ]
+--- Page 4 (parsed text) --Annexe à la circulaire n° 6037/312 du 17 Avril 2020
+DECLARATION COMPLEMENTAIRE
+MODE OPERATOIRE
+Accéder à la fonctionnalité « Créer une déclaration » du menu « DEDOUANEMENT »:
+L’écran ci-après s’affiche:
+Après renseignement des éléments demandés (Code bureau et code régime), l’écran ci-après
+s’affiche pour permettre à l’utilisateur de choisir la catégorie « Complémentaire » au niveau
+de la liste.
+La déclaration complémentaire se présente de la même manière qu’une DUM normale, à
+l’exception des points ci-après:
+ Elle ne peut être en mode « combiné ».
+ Elle ne peut être « par anticipation ».
+ Elle comprend les dates de la première et de la dernière opération réalisées sous couvert
+de déclarations simplifiées, comme données obligatoires à servir par le déclarant.
+Autrement un message d’erreur s’affiche:
+[Note: 3 image(s) found on this page. ]
+--- Page 5 (parsed text) --Ces deux dates peuvent être identiques pour les déclarations couvrant une seule opération ou
+celles couvrant plusieurs opérations réalisées le même jour.
+Cette plage de dates ne doit pas dépasser trente (30) jours. Autrement, un message d’erreur
+est affiché:
+La date de la dernière opération doit être inférieure ou égale à la date du jour. Autrement un
+message de rejet est affiché:
+Dans le cas où l’opérateur engagé ne bénéficie pas de la facilité relative à la déclaration
+complémentaire, un message d’erreur s’affiche lors de la validation de la déclaration:
+[Note: 3 image(s) found on this page. ]
+--- Page 6 (parsed text) --Après enregistrement, le système affiche un message de succès:
+La mention complémentaire est affichée lors de l’édition de la déclaration:
+Le reste du circuit de traitement de la déclaration complémentaire obéit aux mêmes règles de
+gestion d’une DUM normale.
+[Note: 3 image(s) found on this page. ]

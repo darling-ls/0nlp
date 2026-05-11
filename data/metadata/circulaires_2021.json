@@ -1,0 +1,1322 @@
+[
+    {
+        "category": "Comptabilité",
+        "number": "6256/522",
+        "date": "27/12/2021",
+        "description": "Taux de la majoration sur obligations cautionnées pour le 1er semestre 2022.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87951&application=circulaire",
+        "document_id": "87951",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87951.txt"
+    },
+    {
+        "category": "Comptabilité",
+        "number": "6208/522",
+        "date": "28/06/2021",
+        "description": "Taux de la majoration sur obligations cautionnées pour le 2ème semestre 2021.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85183&application=circulaire",
+        "document_id": "85183",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85183.txt"
+    },
+    {
+        "category": "Concours aux autres services",
+        "number": "6216/311",
+        "date": "06/08/2021",
+        "description": "Contrôle normatif-Modification des codifications douanières.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85541&application=circulaire",
+        "document_id": "85541",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85541.txt"
+    },
+    {
+        "category": "Concours aux autres services",
+        "number": "6215/311",
+        "date": "05/08/2021",
+        "description": "Investissements et Régimes Particuliers - Restrictions quantitatives à l’importation et à l’exportation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85517&application=circulaire",
+        "document_id": "85517",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85517.txt"
+    },
+    {
+        "category": "Concours aux autres services",
+        "number": "6211/311",
+        "date": "05/07/2021",
+        "description": "Contrôle normatif.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85310&application=circulaire",
+        "document_id": "85310",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85310.txt"
+    },
+    {
+        "category": "Concours aux autres services",
+        "number": "6163/311",
+        "date": "29/01/2021",
+        "description": "Contrôle normatif-Modification des codifications douanières.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83117&application=circulaire",
+        "document_id": "83117",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83117.txt"
+    },
+    {
+        "category": "Contrôle douanier",
+        "number": "6239/422",
+        "date": "18/10/2021",
+        "description": "Lutte contre le blanchiment des capitaux et le financement du terrorisme.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86884&application=circulaire",
+        "document_id": "86884",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86884.txt"
+    },
+    {
+        "category": "Contrôle du commerce extérieur",
+        "number": "6218/400",
+        "date": "09/08/2021",
+        "description": "Lutte contre la contrefaçon.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85557&application=circulaire",
+        "document_id": "85557",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85557.txt"
+    },
+    {
+        "category": "Contrôle du commerce extérieur",
+        "number": "6206/211",
+        "date": "16/06/2021",
+        "description": "Etudes tarifaires - Mesure antidumping appliquée aux importations de contreplaqué originaires de la République de Chine.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85023&application=circulaire",
+        "document_id": "85023",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85023.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6269/233",
+        "date": "31/12/2021",
+        "description": "Règles d’origine-Protocoles pan-euro-méditerranéens sur les règles d’origine-Contre-valeurs dans les monnaies nationales des montants exprimés en euros.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=88081&application=circulaire",
+        "document_id": "88081",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document88081.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6254/223",
+        "date": "24/12/2021",
+        "description": "Maroc-UA/Accord de siège relatif à l’installation du siège de l’Union Panafricaine de la Jeunesse (UPJ) au Royaume du Maroc.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87934&application=circulaire",
+        "document_id": "87934",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87934.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6252/233",
+        "date": "20/12/2021",
+        "description": "Règles d’origine - Amendement de la règle d’origine applicable au sucre dans le cadre du droit commun.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87890&application=circulaire",
+        "document_id": "87890",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87890.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6249/233",
+        "date": "09/12/2021",
+        "description": "Règles d'origine - Certificat d'origine électronique utilisé dans le cadre de la grande zone franche arabe et la convention du libre échange avec les Emirates Arabes Unies.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87834&application=circulaire",
+        "document_id": "87834",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87834.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6234/222",
+        "date": "29/09/2021",
+        "description": "Accord d’Association Maroc-UE-Accord entre l'Union européenne (UE) et le Royaume du Maroc relatif aux mesures de libéralisation réciproques en matière de produits agricoles, de produits agricoles transformés, de poissons et de produits de la pêche-Dixième année de mise en œuvre.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86424&application=circulaire",
+        "document_id": "86424",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86424.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6219/222",
+        "date": "09/08/2021",
+        "description": "Accords d’Association avec l’UE et le Royaume-Uni, Accord avec les États de l’AELE, Accords de Libre Échange avec la Turquie et les États-Unis d’Amérique-Modification des codifications douanières figurant sur les listes annexées aux circulaires d’application.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85559&application=circulaire",
+        "document_id": "85559",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85559.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6197/222",
+        "date": "20/05/2021",
+        "description": "Accord de Libre Echange entre le Maroc et les Etats-Unis d’Amérique : Modification du droit d’importation préférentiel et hors contingent applicable au blé tendre et à ses dérivés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84449&application=circulaire",
+        "document_id": "84449",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84449.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6198/222",
+        "date": "20/05/2021",
+        "description": "Accord d’Association Maroc-UE - Accord entre l'Union européenne (UE) et le Royaume du Maroc relatif aux mesures de libéralisation réciproques en matière de produits agricoles, de produits agricoles transformés, de poissons et de produits de la pêche - Modification du droit d’importation préférentiel applicable au blé tendre et à ses dérivés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84450&application=circulaire",
+        "document_id": "84450",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84450.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6196/222",
+        "date": "20/05/2021",
+        "description": "Accord établissant une Association entre le Royaume du Maroc et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord - Modification du droit d’importation préférentiel applicable au blé tendre et à ses dérivés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84451&application=circulaire",
+        "document_id": "84451",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84451.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6156/223",
+        "date": "25/01/2021",
+        "description": "Convention générale Maroco-Séoudienne et son protocole additionnel signés les 06/09/1966 et 13/09/1987-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord Maroco-Saoudien-Arrêté du Ministre de l’Economie, des Finances et de la Réforme de l’Administration n° 3280.20 du 29 décembre 2020 modifiant la nomenclature du tarif des droits de douanes.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83084&application=circulaire",
+        "document_id": "83084",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83084.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6158/222",
+        "date": "25/01/2021",
+        "description": "Accord d’Association Maroc-UE-Accord Maroc-UE relatif aux mesures de libéralisation réciproques en matière de produits agricoles, de produits agricoles transformés, de poissons et de produits de la pêche- Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83085&application=circulaire",
+        "document_id": "83085",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83085.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6153/223",
+        "date": "22/01/2021",
+        "description": "Accord Commercial maroco-sénégalais du 13 février 1963 et son protocole additionnel du 26 mars 1981-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane-Arrêté du Ministre de l’Economie, des Finances et de la Réforme de l’Administration n° 3280.20 du 29 décembre 2020 (BO n° 6948 du 31 décembre 2020) modifiant la nomenclature du tarif des droits de douanes.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83065&application=circulaire",
+        "document_id": "83065",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83065.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6152/222",
+        "date": "21/01/2021",
+        "description": "Accord de libre échange entre le Maroc et l’Association Européenne de Libre Echange (AELE)-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83061&application=circulaire",
+        "document_id": "83061",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83061.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6151/223",
+        "date": "20/01/2021",
+        "description": "Accord Commercial et Tarifaire entre le Maroc et la République Islamique de Mauritanie-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane.\n\n-Arrêté du Ministre de l’Economie, des Finances et de la Réforme de l’Administration n° 3280.20 du 29 décembre 2020 (BO n° 6948 du 31 décembre 2020) modifiant la nomenclature du tarif des droits de douanes.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83056&application=circulaire",
+        "document_id": "83056",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83056.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6145/223",
+        "date": "18/01/2021",
+        "description": "-Accord de Libre Echange entre le Royaume du Maroc et la République Tunisienne du 16/03/1999-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane-Arrêté du Ministre de l’Economie, des Finances et de la Réforme de l’Administration n° 3280.20 du 29 décembre 2020 (BO n° 6948 du 31 décembre 2020) modifiant la nomenclature du tarif des droits de douanes.\n\n.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83030&application=circulaire",
+        "document_id": "83030",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83030.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6146/222",
+        "date": "18/01/2021",
+        "description": "Accord d’association Maroc-UE-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83031&application=circulaire",
+        "document_id": "83031",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83031.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6144/223",
+        "date": "18/01/2021",
+        "description": "Convention Commerciale et Tarifaire entre le Royaume du Maroc et la République de Guinée du 06/09/2000-Modification des codifications douanières figurant sur la liste annexée à la circulaire d’application de la Convention suite à la modification de la nomenclature du tarif des droits de douane-Arrêté du Ministre de l’Economie, des Finances et de la Réforme de l’Administration n° 3280.20 du 29 décembre 2020 (BO n° 6948 du 31 décembre 2020) modifiant la nomenclature du tarif des droits de douanes.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83032&application=circulaire",
+        "document_id": "83032",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83032.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6147/222",
+        "date": "18/01/2021",
+        "description": "Accord d’Association entre le Maroc et le Royaume-Uni-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83033&application=circulaire",
+        "document_id": "83033",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83033.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6149/221",
+        "date": "18/01/2021",
+        "description": "Produits originaires et en provenance de certains Pays d’Afrique bénéficiant de l’exonération totale du droit d’importation dans le cadre de l’offre marocaine en faveur des PMA-Modification des codifications douanières figurant sur la liste n° 2 annexée à la circulaire n° 5690/221 du 6 juin 2017 telle que modifiée suite à la modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83035&application=circulaire",
+        "document_id": "83035",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83035.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6148/222",
+        "date": "18/01/2021",
+        "description": "Accord de libre échange entre le Maroc et la Turquie-Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83036&application=circulaire",
+        "document_id": "83036",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83036.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6141/222",
+        "date": "06/01/2021",
+        "description": "Accord de Libre Echange entre le Maroc et les États-Unis d’Amérique- Modification des codifications douanières figurant sur les listes annexées à la circulaire d’application de l’Accord suite à la modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=82976&application=circulaire",
+        "document_id": "82976",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document82976.txt"
+    },
+    {
+        "category": "Coopération internationale",
+        "number": "6140/233",
+        "date": "05/01/2021",
+        "description": "Règles d’origine-Protocoles pan-euro-méditerranéens sur les règles d’origine-Contre-valeurs dans les monnaies nationales des montants exprimés en euros.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=82971&application=circulaire",
+        "document_id": "82971",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document82971.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6260/232",
+        "date": "30/12/2021",
+        "description": "Amendements du Système harmonisé (SH) et rationalisation du tarif du droit d’importation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87985&application=circulaire",
+        "document_id": "87985",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87985.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6264/211",
+        "date": "30/12/2021",
+        "description": "Etudes tarifaires - Mesure de sauvegarde appliquée aux importations des tôles laminées à froid et tôles plaquées ou revêtues.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87991&application=circulaire",
+        "document_id": "87991",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87991.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6265/211",
+        "date": "30/12/2021",
+        "description": "Etudes tarifaires - Mesure de sauvegarde préférentielle sur les importations de certains produits de textiles et d’habillement originaires de Turquie.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87992&application=circulaire",
+        "document_id": "87992",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87992.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6266/211",
+        "date": "30/12/2021",
+        "description": "Etudes tarifaires - Mesure de sauvegarde appliquée aux importations du fil machine et du fer à béton.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87993&application=circulaire",
+        "document_id": "87993",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87993.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6258/200",
+        "date": "29/12/2021",
+        "description": "Classement des véhicules de collection présentant un intérêt historique.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87972&application=circulaire",
+        "document_id": "87972",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87972.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6244/232",
+        "date": "16/11/2021",
+        "description": "Classement dans le tarif du droit d’importation de l’article dénommé \"CloudFisher\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87507&application=circulaire",
+        "document_id": "87507",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87507.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6240/232",
+        "date": "01/11/2021",
+        "description": "Classement dans le tarif du droit d’importation des produits dénommés \"Eco Diesel\" et \"Eco Rasing\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87164&application=circulaire",
+        "document_id": "87164",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87164.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6241/211",
+        "date": "01/11/2021",
+        "description": "Etudes tarifaires - Suspension de la perception du droit d’importation applicable au blé dur et au blé tendre et ses dérivés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87175&application=circulaire",
+        "document_id": "87175",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87175.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6238/211",
+        "date": "18/10/2021",
+        "description": "Taxe sur la Valeur Ajoutée à l’importation des médicaments dont le prix fabricant hors taxe dépasse 588 dirhams.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86870&application=circulaire",
+        "document_id": "86870",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86870.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6237/211",
+        "date": "14/10/2021",
+        "description": "Etudes tarifaires - Mesure de sauvegarde appliquée aux importations des tôles laminées à chaud.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86835&application=circulaire",
+        "document_id": "86835",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86835.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6236/232",
+        "date": "08/10/2021",
+        "description": "Classement dans le tarif du droit d’importation de l’article dénommé \"Flush 1 Relay\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86722&application=circulaire",
+        "document_id": "86722",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86722.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6232/232",
+        "date": "27/09/2021",
+        "description": "Classement dans le tarif du droit d’importation de certains articles portant les références \"1 ; 1PM ; 2.5 et 4PRO\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86338&application=circulaire",
+        "document_id": "86338",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86338.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6228/232",
+        "date": "31/08/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un produit dénommé \"TECA PHARMA\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85847&application=circulaire",
+        "document_id": "85847",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85847.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6227/232",
+        "date": "30/08/2021",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"MIX CAFE INSTANTANE ET CEREALE \".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85845&application=circulaire",
+        "document_id": "85845",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85845.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6222/232",
+        "date": "18/08/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un produit dénommé \"Glycine S.A.L.F 1,5%\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85701&application=circulaire",
+        "document_id": "85701",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85701.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6223/232",
+        "date": "18/08/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un produit dénommé \"Sodium chloride S.A.L.F 0,9%\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85702&application=circulaire",
+        "document_id": "85702",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85702.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6217/311",
+        "date": "09/08/2021",
+        "description": "Investissements et régimes particuliers - Modification des codifications douanières.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85556&application=circulaire",
+        "document_id": "85556",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85556.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6214/211",
+        "date": "05/08/2021",
+        "description": "Etudes tarifaires - Modification de la nomenclature du tarif des droits de douane.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85516&application=circulaire",
+        "document_id": "85516",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85516.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6207/232",
+        "date": "28/06/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un véhicule portant la référence \"SKT90S \".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85209&application=circulaire",
+        "document_id": "85209",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85209.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6203/211",
+        "date": "10/06/2021",
+        "description": "Laboratoires pharmaceutiques agrées.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84970&application=circulaire",
+        "document_id": "84970",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84970.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6201/232",
+        "date": "25/05/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un article dénommé \"Power inverter\", références 150W Power Inverter et 200W Power Inverter.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84599&application=circulaire",
+        "document_id": "84599",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84599.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6192/211",
+        "date": "12/05/2021",
+        "description": "Etudes tarifaires - Rétablissement de la perception du droit d’importation applicable au blé dur.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84291&application=circulaire",
+        "document_id": "84291",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84291.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6193/211",
+        "date": "12/05/2021",
+        "description": "Etudes tarifaires - Rétablissement de la perception du droit d’importation applicable au blé tendre et ses dérivés et modification de la quotité du droit d’importation applicable à ces produits.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84292&application=circulaire",
+        "document_id": "84292",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84292.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6188/232",
+        "date": "04/05/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un véhicule automobile portant la référence \"I-PACE EV400\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84158&application=circulaire",
+        "document_id": "84158",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84158.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6186/232",
+        "date": "29/04/2021",
+        "description": "Classement dans le tarif du droit d’importation des articles dénommés \"Composantes de compteur monophasé sans boitier de référence HXE130\" et \"Composantes de compteur triphasé sans boitier de référence HXE330\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84056&application=circulaire",
+        "document_id": "84056",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84056.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6185/211",
+        "date": "26/04/2021",
+        "description": "Laboratoires pharmaceutiques agrées.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84012&application=circulaire",
+        "document_id": "84012",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84012.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6184/232",
+        "date": "23/04/2021",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"King egg 5g\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84004&application=circulaire",
+        "document_id": "84004",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84004.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6181/232",
+        "date": "15/04/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un véhicule automobile portant la référence \"I-PACE EV400\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83877&application=circulaire",
+        "document_id": "83877",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83877.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6177/211",
+        "date": "06/04/2021",
+        "description": "Laboratoires pharmaceutiques agrées.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83526&application=circulaire",
+        "document_id": "83526",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83526.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6171/232",
+        "date": "29/03/2021",
+        "description": "Classement dans le tarif du droit d’importation de l’article dénommé \"Résidus de feuilles de placage reconstituées\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83485&application=circulaire",
+        "document_id": "83485",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83485.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6162/211",
+        "date": "28/01/2021",
+        "description": "Etudes tarifaires-Mesure de sauvegarde appliquée aux importations des tôles laminées à chaud.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83107&application=circulaire",
+        "document_id": "83107",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83107.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6160/211",
+        "date": "27/01/2021",
+        "description": "Taxe sur la Valeur Ajoutée à l’importation de certains médicaments destinés au traitement de la fertilité.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83103&application=circulaire",
+        "document_id": "83103",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83103.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6157/232",
+        "date": "25/01/2021",
+        "description": "Classement dans le tarif du droit d’importation d’un article dénommé \"Charnière pour meuble\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83082&application=circulaire",
+        "document_id": "83082",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83082.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6150/232",
+        "date": "18/01/2021",
+        "description": "Classement dans le tarif du droit d’importation de l’article dénommé \"PALOX\".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83038&application=circulaire",
+        "document_id": "83038",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83038.txt"
+    },
+    {
+        "category": "Droits et taxes",
+        "number": "6143/232",
+        "date": "14/01/2021",
+        "description": "Classement dans le tarif du droit d’importation du produit dénommé \"Black Mass High Nickel \".",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83015&application=circulaire",
+        "document_id": "83015",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83015.txt"
+    },
+    {
+        "category": "Gouvernance",
+        "number": "6179/530",
+        "date": "08/04/2021",
+        "description": "Mise en œuvre des dispositions de la loi n° 55-19.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83542&application=circulaire",
+        "document_id": "83542",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83542.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6261/214",
+        "date": "30/12/2021",
+        "description": "Impôts Indirects : Taxes intérieures de consommation sur les tabacs manufacturés - Prix de vente au public.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87983&application=circulaire",
+        "document_id": "87983",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87983.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6262/214",
+        "date": "30/12/2021",
+        "description": "Impôts Indirects - Taxe spéciale sur les tabacs manufacturés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87984&application=circulaire",
+        "document_id": "87984",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87984.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6263/214",
+        "date": "30/12/2021",
+        "description": "Impôts Indirects : Dispense du dépôt des déclarations de mise en œuvre et de  production.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87986&application=circulaire",
+        "document_id": "87986",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87986.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6250/214",
+        "date": "17/12/2021",
+        "description": "Garantie des métaux précieux.- Liste des poinçons de maître agréés par l’Administration.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87877&application=circulaire",
+        "document_id": "87877",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87877.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6245/214",
+        "date": "26/11/2021",
+        "description": "Garantie des métaux précieux.- Liste des poinçons de maître agréés par l’Administration.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87678&application=circulaire",
+        "document_id": "87678",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87678.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6233/214",
+        "date": "27/09/2021",
+        "description": "Impôts Indirects - Régime des tabacs bruts et des tabacs manufacturés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86342&application=circulaire",
+        "document_id": "86342",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86342.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6229/214",
+        "date": "08/09/2021",
+        "description": "Impôts Indirects - Dispositions législatives et réglementaires.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85979&application=circulaire",
+        "document_id": "85979",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85979.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6210/312",
+        "date": "30/06/2021",
+        "description": "Mise à la consommation des produits locaux soumis à TIC.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85233&application=circulaire",
+        "document_id": "85233",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85233.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6199/214",
+        "date": "20/05/2021",
+        "description": "Garantie des métaux précieux. Liste des poinçons de maître agréés par l’Administration.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84452&application=circulaire",
+        "document_id": "84452",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84452.txt"
+    },
+    {
+        "category": "Impôts indirects",
+        "number": "6174/214",
+        "date": "01/04/2021",
+        "description": "Impôts Indirects : Taxes intérieures de consommation sur les tabacs manufacturés - Prix de vente au public.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83508&application=circulaire",
+        "document_id": "83508",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83508.txt"
+    },
+    {
+        "category": "Informatique",
+        "number": "6182/312",
+        "date": "19/04/2021",
+        "description": "Gestion des opérations de scellement des marchandises.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83910&application=circulaire",
+        "document_id": "83910",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83910.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6259/311",
+        "date": "29/12/2021",
+        "description": "Investissements et Régimes Particuliers - Restrictions quantitatives à l’exportation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87979&application=circulaire",
+        "document_id": "87979",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87979.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6235/311",
+        "date": "06/10/2021",
+        "description": "Dématérialisation de la procédure d’importation des céréales et des légumineuses.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86526&application=circulaire",
+        "document_id": "86526",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86526.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6230/311",
+        "date": "08/09/2021",
+        "description": "Investissements et Régimes Particuliers - Immatriculation des véhicules automobiles dans les séries spéciales.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85980&application=circulaire",
+        "document_id": "85980",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85980.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6212/311",
+        "date": "14/07/2021",
+        "description": "Investissements et Régimes Particuliers-Contrôle à l’exportation des objets d’art et d’antiquité.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85386&application=circulaire",
+        "document_id": "85386",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85386.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6187/311",
+        "date": "30/04/2021",
+        "description": "Echange des résultats de contrôle avec Morocco Foodex.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84098&application=circulaire",
+        "document_id": "84098",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84098.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6176/212",
+        "date": "05/04/2021",
+        "description": "Régimes particuliers - Envois destinés à certaines œuvres de bienfaisance.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83517&application=circulaire",
+        "document_id": "83517",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83517.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6167/311",
+        "date": "03/03/2021",
+        "description": "Investissements et régimes particuliers-Echange des résultats de contrôle.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83317&application=circulaire",
+        "document_id": "83317",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83317.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6166/311",
+        "date": "23/02/2021",
+        "description": "Investissements et régimes particuliers-Contrôle sanitaire des végétaux et produits végétaux.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83266&application=circulaire",
+        "document_id": "83266",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83266.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6161/311",
+        "date": "28/01/2021",
+        "description": "Investissements et régimes particuliers-Modification des codifications douanières.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83106&application=circulaire",
+        "document_id": "83106",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83106.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6154/311",
+        "date": "25/01/2021",
+        "description": "Investissements et régimes particuliers-Produits soumis au contrôle de conformité.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83069&application=circulaire",
+        "document_id": "83069",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83069.txt"
+    },
+    {
+        "category": "Investissements et régimes particuliers",
+        "number": "6142/300",
+        "date": "13/01/2021",
+        "description": "Vente sur le territoire assujetti des biens d’équipement et produits fabriqués dans les zones franches d'exportation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83000&application=circulaire",
+        "document_id": "83000",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83000.txt"
+    },
+    {
+        "category": "Loi de Finances",
+        "number": "6255/210",
+        "date": "24/12/2021",
+        "description": "Dispositions douanières de la loi de finances pour l’année budgétaire 2022.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87939&application=circulaire",
+        "document_id": "87939",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87939.txt"
+    },
+    {
+        "category": "Opérateurs économiques",
+        "number": "6257/314",
+        "date": "28/12/2021",
+        "description": "Gestion de la relation client - Mise en place des « Conseillers-Clients ».",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87960&application=circulaire",
+        "document_id": "87960",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87960.txt"
+    },
+    {
+        "category": "Opérateurs économiques",
+        "number": "6242/422",
+        "date": "10/11/2021",
+        "description": "Traitement des demandes des opérateurs économiques.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87413&application=circulaire",
+        "document_id": "87413",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87413.txt"
+    },
+    {
+        "category": "Opérations de dédouanement",
+        "number": "6189/212",
+        "date": "04/05/2021",
+        "description": "Rectification des déclarations en détail après délivrance de la mainlevée.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84162&application=circulaire",
+        "document_id": "84162",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84162.txt"
+    },
+    {
+        "category": "Opérations de dédouanement",
+        "number": "6169/433",
+        "date": "19/03/2021",
+        "description": "Evaluation des marchandises à l’importation - Cas des véhicules poids lourds à l’état usagé.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83437&application=circulaire",
+        "document_id": "83437",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83437.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6248/511",
+        "date": "08/12/2021",
+        "description": "Organisation et Gestion Prévisionnelle des Ressources Humaines - Réorganisation des recettes de la DRTTA, DRRSK, DRO et DICS.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87819&application=circulaire",
+        "document_id": "87819",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87819.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6247/511",
+        "date": "01/12/2021",
+        "description": "Organisation et Gestion Prévisionnelle des Ressources Humaines\n- Organisation de la Direction Régionale de Rabat-Salé-Kenitra",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87705&application=circulaire",
+        "document_id": "87705",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87705.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6226/511",
+        "date": "19/08/2021",
+        "description": "Organisation et Gestion Prévisionnelle des Ressources Humaines - Suppression des services de la coordination des brigades.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85707&application=circulaire",
+        "document_id": "85707",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85707.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6204/511",
+        "date": "15/06/2021",
+        "description": "Organisation et Gestion Prévisionnelle des Ressources Humaines - Organisation des services déconcentrés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85014&application=circulaire",
+        "document_id": "85014",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85014.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6205/511",
+        "date": "15/06/2021",
+        "description": "Organisation et Gestion Prévisionnelle des Ressources Humaines - Organisation des services déconcentrés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85015&application=circulaire",
+        "document_id": "85015",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85015.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6183/511",
+        "date": "19/04/2021",
+        "description": "Organisation des Directions Interrégionales d’Agadir et du Sud et de la Direction Régionale de Tanger-Tétouan-Al Hoceima.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83911&application=circulaire",
+        "document_id": "83911",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83911.txt"
+    },
+    {
+        "category": "Organisation",
+        "number": "6155/511",
+        "date": "25/01/2021",
+        "description": "Organisation des Direction des Douanes des Ports de Casablanca et Tanger- MED et des Directions Régionales de Tanger-Tétouan-Al Hoceima, Rabat-Salé-Kénitra et l’Oriental.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83081&application=circulaire",
+        "document_id": "83081",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83081.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6221/313",
+        "date": "16/08/2021",
+        "description": "Dématérialisation de la déclaration provisionnelle.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85585&application=circulaire",
+        "document_id": "85585",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85585.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6220/312",
+        "date": "12/08/2021",
+        "description": "Réexportation des marchandises refoulées.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85573&application=circulaire",
+        "document_id": "85573",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85573.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6213/312",
+        "date": "02/08/2021",
+        "description": "Renforcement de la déconcentration.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85501&application=circulaire",
+        "document_id": "85501",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85501.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6210/312",
+        "date": "30/06/2021",
+        "description": "Mise à la consommation des produits locaux soumis à TIC.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85233&application=circulaire",
+        "document_id": "85233",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85233.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6202/312",
+        "date": "04/06/2021",
+        "description": "Dédouanement des marchandises en groupage à l’export.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84880&application=circulaire",
+        "document_id": "84880",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84880.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6195/312",
+        "date": "18/05/2021",
+        "description": "Dématérialisation de la déclaration provisionnelle.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84418&application=circulaire",
+        "document_id": "84418",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84418.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6194/312",
+        "date": "12/05/2021",
+        "description": "Circuit de dédouanement des régimes 856 et 866.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84309&application=circulaire",
+        "document_id": "84309",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84309.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6191/312",
+        "date": "11/05/2021",
+        "description": "Circuit de dédouanement sous les régimes 856 et 866.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84285&application=circulaire",
+        "document_id": "84285",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84285.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6178/312",
+        "date": "08/04/2021",
+        "description": "Allégement des exigences documentaires de l’administration - Suppression de l’avis d’exportation.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83538&application=circulaire",
+        "document_id": "83538",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83538.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6175/412",
+        "date": "02/04/2021",
+        "description": "Mise en place du triple circuit.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83515&application=circulaire",
+        "document_id": "83515",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83515.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6170/312",
+        "date": "26/03/2021",
+        "description": "Dématérialisation de la déclaration provisionnelle.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83482&application=circulaire",
+        "document_id": "83482",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83482.txt"
+    },
+    {
+        "category": "Procédures et Méthodes",
+        "number": "6168/312",
+        "date": "12/03/2021",
+        "description": "Procédures et méthodes - Dématérialisation de la déclaration provisionnelle.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83382&application=circulaire",
+        "document_id": "83382",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83382.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6268/313",
+        "date": "31/12/2021",
+        "description": "Mesures spéciales pour la régularisation des comptes RED-COVID19.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=88080&application=circulaire",
+        "document_id": "88080",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document88080.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6267/313",
+        "date": "30/12/2021",
+        "description": "Entrepôt privé banal (EPB).",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87994&application=circulaire",
+        "document_id": "87994",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87994.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6251/313",
+        "date": "20/12/2021",
+        "description": "COVID 19 : Prorogation du délai d’admission temporaire des véhicules de tourisme, motos et bateaux de plaisance importés par les particuliers non résidant au Maroc.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87878&application=circulaire",
+        "document_id": "87878",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87878.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6246/313",
+        "date": "29/11/2021",
+        "description": "Drawback- Extension de la liste des produits exportés éligibles au drawback énergie. - Conserves de poissons.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87689&application=circulaire",
+        "document_id": "87689",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87689.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6243/313",
+        "date": "11/11/2021",
+        "description": "Procédure d’exportation des vignettes fiscales à apposer sur les contenants des boissons et des tabacs manufacturés produits à l’étranger.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87419&application=circulaire",
+        "document_id": "87419",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87419.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6231/313",
+        "date": "17/09/2021",
+        "description": "Régimes économiques en douane (RED)- Drawback.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=86226&application=circulaire",
+        "document_id": "86226",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document86226.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6224/313",
+        "date": "19/08/2021",
+        "description": "Entrepôt industriel franc.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85705&application=circulaire",
+        "document_id": "85705",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85705.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6225/313",
+        "date": "19/08/2021",
+        "description": "Admission temporaire - Cession de certains articles d'emballage et accessoires.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85706&application=circulaire",
+        "document_id": "85706",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85706.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6209/313",
+        "date": "30/06/2021",
+        "description": "Mesures spéciales pour la régularisation des comptes RED-COVID19.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=85232&application=circulaire",
+        "document_id": "85232",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document85232.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6200/313",
+        "date": "24/05/2021",
+        "description": "COVID 19 : Prorogation du délai d’admission temporaire des véhicules de tourisme importés par les particuliers non résidant au Maroc.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84486&application=circulaire",
+        "document_id": "84486",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84486.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6190/313",
+        "date": "05/05/2021",
+        "description": "Régimes économiques en douane - Valeur à déclarer.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=84168&application=circulaire",
+        "document_id": "84168",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document84168.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6180/313",
+        "date": "12/04/2021",
+        "description": "Exportation en suite d’admission temporaire pour perfectionnement actif (ATPA) sans paiement. Valeur en douane des produits compensateurs exportés.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83589&application=circulaire",
+        "document_id": "83589",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83589.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6173/313",
+        "date": "31/03/2021",
+        "description": "Régime du Drawback - Remboursement des droits et taxes au titre de l’énergie consommée pour la fabrication du fil machine et du rond-à-béton.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83501&application=circulaire",
+        "document_id": "83501",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83501.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6172/312",
+        "date": "29/03/2021",
+        "description": "Procédures et Méthodes - Procédure simplifiée d’admission et d’exportation temporaires des conteneurs.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83492&application=circulaire",
+        "document_id": "83492",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83492.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6164/313",
+        "date": "09/02/2021",
+        "description": "Régimes Economiques en Douane-Simplification des procédures.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83191&application=circulaire",
+        "document_id": "83191",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83191.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6165/313",
+        "date": "09/02/2021",
+        "description": "Régimes économiques en douane-Cautionnement des droits et taxes.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83193&application=circulaire",
+        "document_id": "83193",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83193.txt"
+    },
+    {
+        "category": "Régimes économiques en douane",
+        "number": "6159/313",
+        "date": "26/01/2021",
+        "description": "Régime du Drawback-Extension de la liste des produits exportés éligibles et révision des coefficients de consommation énergétiques.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83088&application=circulaire",
+        "document_id": "83088",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83088.txt"
+    },
+    {
+        "category": "Valeur en douane",
+        "number": "6253/400",
+        "date": "23/12/2021",
+        "description": "Déclaration du poids net des marchandises congelées ou en conserves.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=87929&application=circulaire",
+        "document_id": "87929",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document87929.txt"
+    },
+    {
+        "category": "Valeur en douane",
+        "number": "6169/433",
+        "date": "19/03/2021",
+        "description": "Evaluation des marchandises à l’importation - Cas des véhicules poids lourds à l’état usagé.",
+        "url": "https://www.douane.gov.ma/dms/loadDocument?documentId=83437&application=circulaire",
+        "document_id": "83437",
+        "txt_path": null,
+        "txt_file_path": "/parsed_txt/document83437.txt"
+    }
+]

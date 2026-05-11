@@ -1,0 +1,42 @@
+--- Page 1 (parsed text) --Rabat, le 25 mai 2018
+CIRCULAIRE N° 5803/232
+Objet: Classement dans le tarif du droit d’importation de l’article dénommé " FGBHFS-101 Fibaro
+Flood Sensor ".
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de l’article
+dénommé " FGBHFS-101 Fibaro Flood Sensor ".
+Description:
+Il s’agit d’un appareil électronique équipé d’un capteur d’inclinaison, d’un capteur de
+température, d’un détecteur de sabotage, d’une sirène intégrée et d’un indicateur LED.
+L’alimentation en énergie électrique est assurée par une batterie d’une tension de 3 Volts.
+Utilisation:
+Ledit appareil permet:
+1. La détection des fuites d’eau et l’émission de signal sur l’appareil téléphonique pour
+commander la fermeture de l’alimentation d’eau, à travers un système désigné "box
+domotique";
+2. La télémesure de la température et la transmission des informations au "box domotique" qui
+ajuste immédiatement la température aux besoins;
+3. La détection des intrusions et des tentatives de sabotage avec notification instantanée sur
+l’appareil téléphonique;
+4. Le déclenchement de l’alarme sonore intégrée; et
+5. L’émission de signaux visuels lumineux, variables en fonction de l’incident détecté et ce,
+grâce à la LED multicolore.
+Cet appareil, à usage domestique, permet la détection, la mesure et la transmission des signaux
+codés jusqu’à une distance n’excédant pas 50m et ce, en utilisant le Bluetooth® low energy
+wireless technology et une radio-fréquence (2, 4Ghz).
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --Il est conçu pour opérer avec un système domotique global fonctionnant en réseau suivant un
+protocole de communication sans fil qui utilise les radios fréquences pour établir les
+communications et échanger les informations.
+Il est contrôlé à partir d’un ordinateur, d’une tablette ou d’un smartphone à travers un
+équipement dit "box domotique".
+Ce système devrait être équipé d’une électrovanne pour permettre la fermeture/l’ouverture de
+l’alimentation d’eau.
+Classement:
+De par sa composition et son utilisation, l’article dénommé "FGBHFS-101 Fibaro Flood Sensor" est
+un dispositif, pour application domestique, classé à la position 85. 31 du Système harmonisé,
+sous-position tarifaire 8531. 10. 00. 00 et ce, par application des RGI 1 et 6.
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/28-05-18/10h40
+[Note: 2 image(s) found on this page. ]

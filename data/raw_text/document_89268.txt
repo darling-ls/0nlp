@@ -1,0 +1,31 @@
+--- Page 1 (parsed text) --Rabat, le 04 mai 2022
+CIRCULAIRE N°6320/232
+OBJET: Classement dans le tarif du droit d’importation d’un article dénommé "A3 Red
+binaural 3D Scanner".
+REF: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation d’un
+article dénommé "A3 Red binaural 3D Scanner".
+Description et utilisation
+Il s’agit d’un appareil électrique composé d'un boîtier en matière plastique de 296 x 366 x
+312 mm et d’un poids de 12, 1 kg, doté d’une table ronde rotative motorisée comportant
+deux axes et deux caméras numériques.
+Ledit appareil est un scanner optique à lumière structurée avec une résolution de 12µm et
+une vitesse de 16s (binaural) pour mesurer (par triangulation) des empreintes auriculaires
+tridimensionnelles en vue de fabriquer des audioprothèses.
+Source: Photo communiquée par le demandeur
+Fonctionnement
+Cet appareil fonctionne sur la base de la projection d'un motif lumineux sur l’empreinte
+auriculaire à numériser. Ce motif crée d'éventuelles déformations qui sont enregistrées par
+les deux caméras du scanner, les distances entre les différents points sont ensuite calculées
+afin d'établir un modèle 3D (audioprothèses) avant la transmission des données
+géométriques de la surface à l’ordinateur connecté.
+Ces données peuvent être modifiées ou bien imprimées directement sur une imprimante 3D.
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Classement:
+De ce qui précède, l'article dénommé "A3 Red binaural 3D Scanner" est un appareil optique
+de mesure ou d'essai, classé à la sous-position 9031. 49 du Système harmonisé, rubrique
+9031. 49. 00. 90 du tarif du droit d’importation, par application des RGI 1 et 6.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale
+sous le timbre de la présente.
+SGIA/Diffusion/04-05-22/10h45
+[Note: 2 image(s) found on this page. ]

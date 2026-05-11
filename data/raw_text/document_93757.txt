@@ -1,0 +1,50 @@
+--- Page 1 (parsed text) --Rabat, le 1er Avril 2024
+CIRCULAIRE N° 6554/313
+Objet: - Facilités de cautionnement en matière des régimes économiques en douane.
+- Enrichissement du suivi: Automatisation de la gestion des plafonds.
+Dans le cadre de la facilitation de l’accès aux Régimes Economiques en Douanes (RED) et en
+considération de l’article 116 du code des douanes et impôts indirects, des facilités de
+cautionnement sont octroyées aux opérateurs économiques dans les conditions mises en place
+par l’administration.
+Chaque décision accordée à cet effet fixe le plafond des droits et taxes couverts, en fonction du
+volume d’activité du bénéficiaire. Ce plafond peut être révisé selon l’évolution de ce volume
+d’activité.
+Dans une optique de maitrise de la gestion des facilités de cautionnement, il a été décidé de
+mettre en place un contrôle automatisé des plafonds fixés au titre des facilités de cautionnement
+agréées par l’administration (Cautionnement mixte, cautionnement sur engagement des
+entreprises exportatrices, dispense de caution au profit d’un donneur d’ordre, cautionnement sur
+engagement des entreprises installées aux zones d’accélération industrielle).
+Au plan pratique, ce contrôle consiste en une vérification en temps réel, de la suffisance de
+l’encours dont dispose l’opérateur, lors de la souscription de chaque opération d’ouverture de
+compte sous RED. L’opération de cautionnement sera automatiquement bloquée en cas de
+dépassement du plafond autorisé.
+Les règles de gestion de cette nouvelle mesure sont sommairement définies comme suit:
+En cas d’enregistrement d’une DUM ouvrant un compte sous RED, l’encours est diminué
+de l’équivalent en dirhams du montant des droits et taxes suspendus;
+En cas de délivrance de la mainlevée au titre d’une DUM d’apurement (Mise à la
+consommation, exportation, cessions): l’encours est augmenté de l’équivalent en
+dirhams du montant des droits et taxes objet du compte RED déchargé (totalement ou
+partiellement).
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) --Pour une meilleure conduite du changement, le déploiement de cette nouvelle mesure, sera
+gradué comme suit:
+Durant une période transitoire de six (06) mois, tout dépassement du plafond accordé
+donnera lieu à la génération d’un message de notification adressé à l’opérateur
+concerné, l’informant de ce dépassement et l’invitant à la régularisation de sa situation.
+A ce stade, le dépassement n’engendre pas un blocage de souscription d’une nouvelle
+DUM garantie par la facilité de cautionnement en question;
+Après cette phase transitoire, tout dépassement de plafond impliquera un blocage
+systématique de la souscription de la DUM sous couvert de la caution en question, et
+nécessitera la régularisation de la situation de la société concernée. Autrement, le
+souscripteur peut faire recours aux modes de cautionnement bancaire ou de la
+consignation pour la couverture de ses opérations futures.
+A cet effet, l’opérateur est tenu de procéder à la régularisation de ses comptes souscrits sous
+RED non encore régularisés, et de produire, le cas échéant, un nouvel avenant des indemnités
+d’assurances, lui permettant une révision à la hausse du plafond initial.
+Enfin, il demeure entendu que les présentes dispositions ne s’appliquent pas aux opérateurs
+bénéficiaires des facilités de cautionnement non plafonnées au vu de leur certification OEA
+simplifications douanières classe A et OEA Sécurité Sureté.
+Toute difficulté d’application sera signalée à l’Administration Centrale sous le timbre de la
+présente.
+SGIA/Diffusion/01-04-24/14h00
+[Note: 1 image(s) found on this page. ]

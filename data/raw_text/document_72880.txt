@@ -1,0 +1,235 @@
+--- Page 1 (parsed text) --Rabat, le 06 juin 2017
+CIRCULAIRE N° 5691/232
+OBJET:  Classement  dans  le  tarif  du  droit  d’importation  d’un  appareil  dénommé  "SOLAR
+STREET LIGHT".
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation d’un
+article dénommé "SOLAR STREET LIGHT".
+Description et utilisation:
+Il  s’agit  d’un  article  présenté  à  l’état  non  monté  et  conditionné  pour  la  vente  au  détail,
+constitué:
+‐
+de cellules photovoltaïques assemblées en module (position 85. 41);
+‐
+d’un appareil d’éclairage LED (position 85. 39);
+‐
+d’une batterie en Lithium (position 85. 06);
+‐
+d’un Switch (position 85. 36); et
+‐
+d’un support de fixation avec écrous et vis (position 73. 26).
+A  noter  qu’il  y  a  une  adéquation  entre  les  paramètres  électriques  du  panneau  (tension,
+puissance, ampérage…) et l’accumulateur (tension, capacité de stockage, ampérage…) d’une
+part  et  ceux  de  l’appareil  d’éclairage  et  le  Switch  d’autre  part  (Les  caractéristiques  de  ces
+composants sont reproduites dans l’annexe ci‐jointe).
+L’appareil d’éclairage est alimenté en énergie solaire produite durant le jour par les cellules
+photovoltaïques et stockée dans la batterie puis restituée la nuit pour assurer l’éclairage des
+espaces et des voies publiques.
+L’autonomie de cet appareil d’éclairage peut varier, suivant les modèles, de 4 à 6 jours non
+ensoleillés.
+Classement:
+L’article  tel  qu’il  est  décrit  constitue  un  appareil  d’éclairage  alimenté  en  énergie  solaire
+produite  et  stockée  dans  l’accumulateur  par  des  panneaux  photovoltaïques,  conçu  pour
+l’éclairage des espaces et des voies publiques.
+SGIA/Diffusion/06-06-17/15h10
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Considérant  que  ces  appareils  d’éclairage  confèrent  à  l’ensemble  le  caractère  essentiel,
+l’ensemble  est  classé  à  la  position  94. 05,  sous‐position  9405. 40. 30. 90  du  tarif  du  droit
+d’importation et ce, par application de la RGI 3b).
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale sous le
+timbre de la présente.
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --Annexe à la circulaire
+Article N°
+SSYG‐206
+SSYG‐208
+SSYG‐210
+SSYG‐212
+SSYG‐215
+SSYG‐218
+SSYG‐220
+SSYG‐225
+SSYG‐230
+SSYG‐240
+SSYG‐250
+SSYG‐260
+Panneau solaire   18V/12W
+(plus de 17%
+d'efficacité)
+18V/18W
+(plus de 17%
+d'efficacité)
+18V/20W
+(plus de 17%
+d'efficacité)
+18V/20W
+(plus de 17%
+d'efficacité)
+18V/30W
+(plus de 17%
+d'efficacité)
+18V/35W
+(plus de 17%
+d'efficacité)
+18V/40W
+(plus de
+17%
+d'efficacité)
+18V/45W
+(plus de
+17%
+d'efficacité)
+18V/60W
+(plus de 17%
+d'efficacité)
+18V/60W
+(plus de 17%
+d'efficacité)
+18V/80W
+(plus de 17%
+d'efficacité)
+18V/90W
+(plus de
+17%
+d'efficacité)
+Marque LED
+6 W Epistar
+de Taiwan
+8 W Epistar
+de Taiwan
+10 W
+Bridgelux de
+l'USA
+12 W
+Bridgelux de
+l'USA
+15 W
+Bridgelux de
+l'USA
+18 W
+Bridgelux de
+l'USA
+20 W
+Bridgelux
+de l'USA
+25 W
+Bridgelux
+de l'USA
+30 W
+Bridgelux de
+l'USA
+40 W
+Bridgelux de
+l'USA
+50 W
+Bridgelux de
+l'USA
+60 W
+Bridgelux de
+l'USA
+Température
+de couleur
+6500 ‐7000k
+6500 ‐7000k
+6500 ‐7000k
+6500 ‐7000k
+6500 ‐7000k
+6500 ‐7000k
+6500 ‐
+7000k
+6500 ‐
+7000k
+6500 ‐7000k
+6500 ‐7000k  6500 ‐7000k
+6500 ‐7000k
+Lumen
+600 ‐720
+800 ‐880
+1000 ‐1100
+1200 ‐1300
+1500 ‐1650
+1800 ‐2000
+2000 ‐2200  2500 ‐2750
+3000 ‐3300
+4000 ‐4400
+5000 ‐5500
+6000 ‐6600
+Temps de
+travail
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+3 à 5 jours
+pluvieux
+Température
+de travail
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+de  ‐20°C  à
++60°C
+Imperméabilité   IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+IP 65
+Hauteur de
+montage
+2‐3 mètres
+3‐4 mètres
+3‐4 mètres
+3‐4 mètres
+4‐5 mètres
+4‐5 mètres
+5‐6mètres
+5‐6mètres
+6‐7mètres
+6‐7mètres
+8‐10mètres
+8‐10mètres
+Source: d’après le catalogue fourni par le demandeur.

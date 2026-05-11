@@ -1,0 +1,112 @@
+--- Page 1 (parsed text) --Rabat, le 13 Décembre 2022
+Circulaire N° 6387/412
+Objet: Contrôle des délais d’accomplissement des opérations de transit.
+En vertu de l’article 156 du code des douanes et impôts indirects, l’administration fixe le délai
+d’accomplissement des opérations de transit ainsi que, le cas échéant l’itinéraire à suivre par
+les transporteurs.
+Dans le cadre de sa politique de dématérialisation et d’automatisation des processus de
+dédouanement, le système «BADR» a été enrichi, par de nouvelles fonctionnalités de contrôle du
+respect des délais de transit selon le mode opératoire en annexe.
+Ainsi, et pour un meilleur suivi de ces opérations, le système « BADR » générera un ensemble
+de notifications par mail à l’attention du déclarant, l’informant de l’évolution du délai du transit
+de ses déclarations et des mesures éventuelles à entreprendre.
+De même, pour les arrivées en dehors des heures légales d’ouverture des bureaux dans lesquels
+une permanence douanière n’est pas assurée, les déclarants devront procéder eux-mêmes
+à une «pré-confirmation d’arrivée» sur système.
+Il demeure entendu que, tout retard éventuel constaté dans le renseignement du système, doit
+être justifié dans les 72 heures qui suivent la réception du message de notification reçu à cet effet.
+Étant
+entendu
+que
+les
+suites
+contentieuses,
+seront
+retenues
+pour
+tout
+retard
+non justifié dans les délais ou dont les justificatifs ont été rejetés par le service.
+Toute difficulté d’application sera communiquée à l’administration centrale sous le timbre de la
+présente.
+Les dispositions de la présente entrent en vigueur, à compter du 1er Janvier 2023.
+SGIA/Diffusion/13-12-22/10h55
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --1/6
+ANNEXE: MODE OPERATOIRE
+1- Ajout d’une nouvelle fonctionnalité « Pré-confirmation d’arrivée », offerte aux déclarants, pour
+confirmer l’arrivée du dernier arrivage relatif à un transit. Elle est accessible via le menu
+nouvellement ajouté « DELAI DE TRANSIT ».
+L’écran ci-après s’affiche, invitant l’utilisateur à renseigner la référence de la DUM dont la
+marchandise est arrivée au lieu de stockage de destination:
+Il est à préciser que seuls les transits dont le lieu de stockage de destination autorise la préconfirmation seront acceptés.
+Après clic sur le bouton, le système restitue par défaut la date système comme date de préconfirmation, avec possibilité de modification:
+Après clic sur le bouton, le délai de transit est calculé (entre la date de pré-confirmation et
+celle de l’autorisation d’acheminement, du dernier contre écor ou du dernier enlèvement selon les
+cas).
+[Note: 4 image(s) found on this page. ]
+--- Page 3 (parsed text) --2/6
+Dans le cas où le délai de transit est respecté, un message de succès s’affiche:
+Sinon, le message d’information suivant, indiquant un dépassement du délai de transit, s’affiche:
+L’opérateur est alors invité à justifier son retard dans un délai de 72 heures, via la fonctionnalité
+« Justifier retard de transit », nouvellement ajoutée dans le menu DELAI DE TRANSIT:
+L’écran ci-après s’affiche:
+[Note: 4 image(s) found on this page. ]
+--- Page 4 (parsed text) --3/6
+Après saisie de la référence de la DUM et clic sur le bouton « Valider », l’utilisateur est invité à
+renseigner obligatoirement le motif de son retard en joignant les documents justificatifs:
+Après clic sur le lien
+du menu contextuel de l’écran précédent, un message de succès
+s’affiche:
+Les justificatifs apportés sont soumis au traitement de l’agent douanier.
+L’opérateur est informé par messagerie du sort dudit traitement.
+
+Cas d’acceptation:
+[Note: 4 image(s) found on this page. ]
+--- Page 5 (parsed text) --4/6
+
+Cas de rejet:
+2- La consultation de la liste des déclarations de transit et combinées non arrivées à temps est mise à
+la disposition du déclarant via le sous menu « Services » du menu DELAI DE TRANSIT:
+L’écran ci-après s’affiche selon le type de l’opérateur connecté:
+ Cas d’un opérateur déclarant pour lui-même
+L’utilisateur peut procéder à la recherche par intervalle de dates d’enregistrement de la déclaration.
+Après clic sur le bouton « Confirmer », le système restitue le résultat ci-après:
+Ce résultat est affiché sous forme de tableau récapitulatif. Il comprend les informations suivantes:
+
+Référence de la DUM. Offerte sous forme de lien.
+
+Raison sociale de l’opérateur déclarant.
+
+Date d’enregistrement de la DUM.
+[Note: 4 image(s) found on this page. ]
+--- Page 6 (parsed text) --5/6
+ Cas d’un « Transitaire »
+Le système invite l’utilisateur à renseigner un des éléments suivants:
+Plage de dates d’enregistrement de la DUM.
+Raison sociale de l’opérateur soumissionnaire. Saisir pour cela les premières lettres de
+l’opérateur soumissionnaire puis sélectionner ensuite le nom de l’opérateur soumissionnaire
+recherché.
+Après clic sur le bouton « Confirmer », le système restitue le résultat ci-après:
+Les informations affichées sont les mêmes que celles décrites dans le cas d’un opérateur déclarant
+pour lui-même.
+3- Des notifications sont envoyées, à l’adresse de messagerie publique de l’opérateur déclarant, au
+déclenchement des opérations suivantes:
+
+A la sortie de la marchandise du lieu de stockage de départ (Autorisation d’acheminement
+pour les DUM combinées et Dernier contre écor/enlèvement pour les DUM de transit) pour
+informer le déclarant de la sortie de la marchandise:
+[Note: 3 image(s) found on this page. ]
+--- Page 7 (parsed text) --6/6
+
+Après 80% du délai, informant le déclarant de la durée restante pour l’arrivée à
+destination:
+
+Après expiration du délai, informant le déclarant de la non arrivée de la marchandise:
+
+A la pré-confirmation par le déclarant et la confirmation d’arrivée/de réception par l’agent
+douanier, et si le délai est dépassé, informant le déclarant de l’arrivée de la marchandise:
+
+Après dépassement de 72 heures à compter de l’arrivée tardive, sans présentation de
+justificatifs, informant le déclarant de la non présentation des justificatifs:
+[Note: 4 image(s) found on this page. ]

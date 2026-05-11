@@ -1,0 +1,66 @@
+--- Page 1 (parsed text) --Rabat, le 20 Octobre 2023
+CIRCULAIRE N° 6503/311
+Objet: Contrôle à l’importation des sources de rayonnements ionisants.
+Dans le cadre de la poursuite de la mise en œuvre du Plan National de Simplification des
+Procédures et de généralisation de l’EDI (Echange de Données Informatisées), l’Administration des
+Douanes et Impôts Indirects et l’Agence Marocaine de Sûreté et de Sécurité Nucléaires et
+Radiologiques (AMSSNuR) ont mis en place un cadre d’échange des résultats de contrôle à
+l’importation des sources de rayonnements ionisants repris sur la liste ci-jointe.
+Ces résultats seront échangés, à compter du 31/10/2023, entre les deux organismes, via la
+plateforme PortNet, selon la procédure annexée à la circulaire n°5577/312 du 22/02/2016.
+Aussi, le service est-il informé que jusqu’à ce qu’il en soit autrement disposé, les autorisations
+délivrées dans ce cadre par les services compétents relevant de l’AMSSNuR et établies sous format
+papier continueront à être exigées par les services douaniers.
+Toute difficulté d’application sera signalée au service central sous le timbre de la présente ou via
+l’outil d’assistance DAAM.
+SGIA/Diffusion/20-10-23/16h00
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Désignation
+Code nomenclature
+Tritium et ses composés; alliages, dispersions (y compris les cermets),
+produits céramiques et mélanges renfermant du tritium ou ses composés
+2844410000
+Actinium-225, actinium-227, californium-253, curium-240, curium-241,
+curium-242, curium-243, curium-244, einsteinium-253, einsteinium-254,
+gadolinium-148, polonium-208, polonium-209, polonium-210, radium223, uranium-230 ou uranium-232, et leurs composés; alliages,
+dispersions (y compris les cermets), produits céramiques et mélanges
+renfermant ces éléments ou composés
+2844420000
+Produits inorganiques du genre de ceux utilisés comme luminophores
+2844430010
+Isotopes radioactif artificiels et leurs composés
+2844430091
+Eléments chimiques et isotopes, fissiles; leurs composés, alliages,
+dispersions et cermets
+2844430092
+Autres éléments chimiques radioactifs et isotopes radioactifs; leurs
+£composés inorganiques ou organiques de constitution chimique définie
+ou non; alliage, dispersions et cermets, renfermant ces éléments ou ces
+£isotopes ou leurs composés inorganiques ou organiques
+2844430099
+Résidus radioactifs: Du thorium, de l’uranium appauvri en U 235, même
+mélangés entre eux
+2844440010
+Autres Résidus radioactifs
+2844440090
+Réacteurs nucléaires
+8401100000
+Machines et appareils pour la séparation isotopique, et leurs parties
+8401200000
+Accélérateurs de particules
+8543100000
+Appareils de scintigraphie
+9018140000
+Appareils de tomographie pilotés par une machine automatique de
+traitement de l’information
+9022120000
+Autres, pour l’art dentaire
+9022130000
+Autres, pour usages médicaux, chirurgicaux ou vétérinaires
+9022140000
+Pour autres usages
+9022190000
+Pour autres usages
+9022290000
+Tubes à rayons X
+9022300000

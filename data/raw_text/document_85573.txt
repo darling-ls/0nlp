@@ -1,0 +1,73 @@
+--- Page 1 (parsed text) --Circulaire n° 6220/312
+Objet: Réexportation des marchandises refoulées.
+Les marchandises déclarées à l’importation et reconnues non conformes à une réglementation
+particulière peuvent être autorisées à être réexpédiées, à la demande de l’importateur, vers
+l’étranger sur la base de la décision de non-conformité émise par l’organisme de contrôle
+concerné.
+Cette autorisation peut concerner des marchandises qui n’ont pas encore quitté l’enceinte
+douanière ainsi que celles ayant été enlevées sur la base d’une décision de l’organisme de
+contrôle compétent autorisant l’importateur à stocker la marchandise dans ses locaux en
+attendant les résultats définitifs du contrôle.
+Dans le cadre de l’harmonisation des procédures de dédouanement, il a été jugé nécessaire de
+clarifier la procédure à suivre pour ce type d’opérations.
+Tel est l’objet de la présente circulaire.
+I. Cas des marchandises n’ayant pas quitté l’enceinte douanière du bureau d’importation
+La réexpédition des marchandises déclarées à l’importation et reconnues non conformes à une
+réglementation particulière peut être autorisée aux conditions ci-après:
+1. Annulation ou redressement de la déclaration d’importation
+L’article 78 bis-2° du code des douanes et impôts indirects prévoit la possibilité d’annulation des
+déclarations portant sur des marchandises importées et reconnues non conformes à la législation
+et à la réglementation en vigueur notamment en matière sanitaire et de répression des fraudes.
+Pour ce, l’importateur ou son mandataire doit formuler une demande, via le système BADR, en la
+motivant par la décision de non-conformité émise par l’organisme de contrôle concerné et en
+précisant le choix de l’option de réexpédition de la marchandise en question vers l’étranger. Pour
+les réglementations particulières dont la procédure de contrôle n’est pas encore dématérialisée,
+la demande doit être appuyée d’une copie de la décision de non-conformité.
+Les demandes de l’espèce seront prises en charge par le service dans les conditions
+réglementaires en vigueur.
+A ce titre, il convient de rappeler qu’en vertu du même article précité, l’annulation de la
+déclaration éteint ses effets à l’égard du déclarant, à l’exception de ceux engendrant des suites
+contentieuses.
+Lorsque la décision de refoulement concerne uniquement une partie de la marchandise déclarée,
+le service procédera, à la demande de l’importateur ou son mandataire, comme suit:
+- Annulation du pré-apurement du lot de la déclaration sommaire concernée;
+- Eclatement du titre de transport en deux sous-lots, l’un pour la partie conforme de la
+marchandise et l’autre pour la partie non conforme;
+Rabat, le 12 AOUT 2021
+[Note: 1 image(s) found on this page. ]
+--- Page 2 (parsed text) --- Redressement de la déclaration d’importation par soustraction de la partie non conforme
+de la marchandise déclarée;
+- Délivrance de la mainlevée de la déclaration d’importation sur la base de la version
+redressée portant sur la partie de la marchandise ayant reçu l’attestation de conformité
+délivrée par l’organisme de contrôle concerné.
+Les droits et taxes acquittés, le cas échéant, sur la marchandise refoulée seront remboursés dans
+les conditions réglementaires en vigueur.
+L’acceptation de la demande d’annulation ou de redressement de la déclaration d’importation
+vaut automatiquement autorisation de réexpédition de la marchandise en question vers
+l’étranger.
+2. Réexpédition de la marchandise refoulée vers l’étranger
+La réexpédition de la marchandise refoulée vers l’étranger doit faire l’objet d’une déclaration en
+détail à souscrire sous le régime du transbordement (code 002) avec indication au niveau du
+champ « document précédent » de la référence de la déclaration d’importation.
+Après contrôle d’usage, une mainlevée est délivrée à la déclaration de transbordement.
+En sus du contrôle a posteriori initié, le cas échéant, par cette administration, les opérations de
+l’espèce sont communiquées automatiquement à l’Office des Changes pour les besoins de
+contrôle de l’aspect change.
+II. Cas des marchandises ayant quitté l’enceinte douanière du bureau d’importation
+La procédure décrite au I. est valable également pour les opérations de refoulement portant sur
+une marchandise ayant quitté l’enceinte douanière; deux cas de figure se présentent à ce titre:
+Dédouanement au niveau du bureau de sortie: l’opération sera réalisée sous couvert d’une
+déclaration de transbordement (code 002), à souscrire sous le code de ce bureau;
+Dédouanement au niveau d’un bureau autre que celui de sortie: l’opération sera réalisée
+sous couvert d’une déclaration de transbordement (code 002) combinée, à souscrire sous le
+code du bureau de dédouanement.
+Dans les deux cas, la marchandise ne peut être enlevée du lieu de son stockage qu’après constat
+de l’intégrité des scellés ou des plombs apposés conjointement par la douane et l’organisme de
+contrôle concerné et la mise sous scellés du moyen de transport devant servir à l’acheminement
+de la marchandise vers le bureau de transbordement.
+La présente procédure n’exclut pas les deux autres options de régularisation de la situation
+douanière des marchandises refoulées, à savoir: l’abandon ou la destruction aux conditions
+réglementaires en vigueur.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la présente.
+SGIA/Diffusion/12-08-21/15h50
+[Note: 2 image(s) found on this page. ]

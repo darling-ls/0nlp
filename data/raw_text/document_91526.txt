@@ -1,0 +1,26 @@
+--- Page 1 (parsed text) --Rabat, le 09/02/2023
+CIRCULAIRE N° 6418/232
+Objet: Classement dans le tarif du droit d’importation du produit dénommé "Automate de
+commande".
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation du
+produit dénommé "Automate de commande".
+Description et utilisation:
+Il s’agit d’une armoire de commande métallique équipée d’un "Central Processing Unit"
+(CPU), d’interrupteurs, de disjoncteurs, de connecteurs, d’une alimentation intégrée de 24V
+et d’un courant de 10A ainsi que d’un écran d’affichage et de boutons poussoirs sur la porte.
+Cette armoire est conçue pour commander une large gamme d'appareils afin de répondre à
+des besoins en matière d'automatisation. Son unité centrale combine un microprocesseur,
+un réseau, une alimentation intégrée et des circuits d'entrée et de sortie numériques pour la
+commande.
+Le processeur contient une logique programmée pour le contrôle et la commande, telles que
+des instructions de comptage et de temporisation ainsi que des fonctionnalités pour
+communiquer avec d'autres appareils.
+Classement:
+De ce qui précède, le produit dénommé "Automate de commande" est un contrôleur
+programmable classé, par application des RGI 1 et 6, à la sous-position 8537. 10 du Système
+harmonisé, rubrique 8537. 10. 00. 90 du tarif du droit d’importation.
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale
+sous le timbre de la présente.
+SGIA/Diffusion/09-02-23/16h25
+[Note: 3 image(s) found on this page. ]

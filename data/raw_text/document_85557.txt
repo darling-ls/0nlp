@@ -1,0 +1,40 @@
+--- Page 1 (parsed text) --Rabat, le 09 Août 2021
+Circulaire N° 6218/400
+OBJET: Lutte contre la contrefaçon.
+REFER: Circulaire n° 4994/410 du 10 mars 2006.
+Circulaire n° 5568/414 du 28 janvier 2016.
+Dans le cadre de la dématérialisation des formalités douanières et en complément des
+circulaires sus référencées, une nouvelle fonctionnalité permettant le dépôt, sur le système
+BADR, des documents relatifs aux demandes de suspension de mise en libre circulation des
+marchandises soupçonnées de contrefaçon, a été mise en place.
+Ainsi, dorénavant les titulaires des droits, ou leurs mandataires, ne sont plus tenus de déposer
+physiquement les demandes de suspension de mise en libre circulation des marchandises
+soupçonnées de contrefaçon. Ils doivent lors de l’enregistrement de leurs demandes, insérer
+les documents exigés au niveau du système BADR, et ce, selon la catégorisation ci-après (voir
+également en annexe):
+Documents Opérateur/Mandataire: Justificatifs du droit de propriété sur la marque
+(Pouvoirs et Procurations);
+Documents Marque: Attestations d’enregistrement à l’OMPIC et documents
+permettant l’identification des marchandises objet de la demande;
+Documents Administratifs: Engagement du déposant de la marque vis-à-vis de
+l’Administration attestant de la conformité des signatures, de la qualité des signataires
+et des traductions légales éventuelles.
+SGIA/Diffusion/09-08-21/16h25
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --ANNEXE 1
+Ajout d’une nouvelle rubrique intitulée « Documents Annexes » permettant aux opérateurs le
+chargement des documents lors de la création de leurs demandes de suspension:
+Pour cela, l’utilisateur est invité à « Sélectionner » le type de document à annexer à partir d’une liste
+déroulante offerte. Celle-ci comprend les valeurs suivantes: « Documents Operateurs/Mandataire »,
+« Documents Marque » et « Document Administratifs ».
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) --En cliquant sur le bouton « Parcourir » on peut choisir le document à charger.
+Le document à charger doit être précédemment élaboré au format PDF. Autrement un message
+d’erreur s’affiche.
+Après le chargement du premier document, le bouton « Ajouter Document » permet d’alimenter la
+liste des documents annexés:
+L’annexe d’autres documents s’opère, selon le besoin du déposant, de la même manière que le 1er ajout.
+Le clic sur le bouton
+permet la suppression du document annexé en question après
+confirmation dans la boite de dialogue qui apparait comme suit:
+[Note: 5 image(s) found on this page. ]

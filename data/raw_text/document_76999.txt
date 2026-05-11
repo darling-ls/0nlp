@@ -1,0 +1,33 @@
+--- Page 1 (parsed text) --Rabat, le 18 octobre 2018
+CIRCULAIRE N° 5864 /312
+Objet: Echange électronique de données dans le cadre de l’accord de libre-échange
+entre les Pays Arabes Méditerranéens « Accord d’Agadir ».
+Réf: Circulaire n° 5047/223 du 27/03/2007.
+Dans le cadre de la facilitation des échanges commerciaux entre les pays de l’Accord
+d’Agadir (Egypte, Jordanie, Tunisie et Maroc) mis en application par la circulaire visée en
+référence, une note d’entente a été signée au Caire le 13 avril 2016 pour la connexion
+électronique et l’échange de données entre les pays concernés.
+Pour la mise en application de cette note, les déclarations en détail relatives aux
+importations en provenance des trois autres pays de l’Accord d’Agadir, doivent être
+renseignées, selon le mode opératoire en annexe, de la référence de la déclaration
+d’exportation souscrite au niveau du pays de provenance.
+Cette information sera facultative pendant une période transitoire allant jusqu’au
+01/01/2019, date à laquelle elle sera rendue obligatoire.
+Toute difficulté d’application sera signalée à l’administration sous le timbre de la
+présente.
+SGIA/Diffusion/18-10-18/15h40
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --ANNEXE A LA CIRCULAIRE N°5864/312 du 18/10/2018
+MODE OPERATOIRE
+Pour toute déclaration d’importation en provenance de l’un des pays de l’accord d’Agadir,
+le déclarant est invité à renseigner obligatoirement la référence de la déclaration ayant
+servi à l’exportation de sa marchandise du pays de provenance (Tunisie, Egypte ou
+Jordanie):
+Autrement, un message d’erreur est affiché:
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) --Selon le pays de provenance déclaré, le système BADR procédera à la vérification
+immédiate du format de la référence de la déclaration d’exportation introduite.
+Autrement, un message d’erreur est affiché:
+Placer la souris sur le champ relatif à la référence de la déclaration d’exportation pour
+afficher plus de détail concernant les formats adoptés:
+[Note: 2 image(s) found on this page. ]

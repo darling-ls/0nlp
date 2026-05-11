@@ -1,0 +1,43 @@
+--- Page 1 (parsed text) --Rabat, le 27/09/2021
+CIRCULAIRE N° 6232/232
+OBJET: Classement dans le tarif du droit d’importation de certains articles portant les
+références "1; 1PM; 2. 5 et 4PRO".
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de
+certains articles portant les références "1; 1PM; 2. 5 et 4PRO".
+Description:
+Il s’agit de micromodules électriques de type commutateur, équipés de 1, 2 ou 4 relais,
+conçus pour être installés derrière un bouton de commande d'éclairage, une prise, un boitier
+de dérivation ou un coffret électrique.
+Ces appareils à usage domestique permettent le contrôle à distance des dispositifs
+électriques par téléphone portable, ordinateur ou système domotique. Ils utilisent un
+système cloud pour se connecter via le Wi-Fi aux appareils qui les contrôlent sans avoir à
+être géré par un contrôleur domotique.
+Ils sont alimentés par un courant d’une tension de 110-240V et d’une fréquence de 2400 à
+2500 Mhz et sont tous munis d’un capteur de température interne pour la protection contre
+la surchauffe.
+Utilisation:
+ Le module 1 est un micromodule de dimensions 41x36x17 mm, équipé d’une seule
+sortie qui permet de commander l'alimentation d'un seul appareil de 16A (1x3500W).
+ Le module 1PM est un micromodule de dimensions 41x36x17 mm, équipé d’une
+seule sortie qui permet de commander l'alimentation d'un seul appareil de 16A
+(1x3500W) et de suivre la consommation électrique de l'appareil raccordé.
+[Note: 2 image(s) found on this page. ]
+--- Page 2 (parsed text) -- Le module 2. 5 est un micromodule de dimensions 39x36x17 mm, équipé de deux
+sorties qui permettent de commander deux appareils de manière indépendante de
+10A chacun (2x 2300W par sortie à 230V) et de suivre la consommation électrique de
+ses relais.
+ Le module 4PRO est un micromodule pour tableau électrique de dimensions
+90x52x57 mm, équipé de quatre sorties qui permettent de contrôler quatre circuits
+de 10A chacun (4x 2300W) et de mesurer la puissance traversant ses relais. Il est
+équipé aussi d’un afficheur couleur 1. 8" TFT qui transmet des informations au sujet
+des relais.
+Classement:
+De ce qui précède, ces appareils sont des commutateurs domestiques classés, par
+application des RGI 1 et 6, comme suit:
+Les modules 1 et 1PM au n°8536. 50. 13. 00; et
+Les modules 2. 5 et 4PRO au n°8537. 10. 30. 00.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous
+le timbre de la présente.
+SGIA/Diffusion/27-09-21/15h30
+[Note: 1 image(s) found on this page. ]

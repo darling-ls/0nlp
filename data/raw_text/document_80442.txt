@@ -1,0 +1,116 @@
+--- Page 1 (parsed text) --Rabat, le 18 Décembre 2019
+CIRCULAIRE N° 5991/300
+Objet: Statut de l’OEA Sécurité-Sûreté.
+Facilités accordées aux exploitants de MEAD titulaires du statut OEA Sécurité-Sûreté.
+Dépotage sans présence douanière en dehors des heures légales d’ouvertures.
+Réf. : Circulaire n° 5933/310 du 09/05/2019.
+La circulaire visée en référence avait introduit un nouveau package de facilité en faveur des
+Opérateurs Economiques Agréés (OEA) - Sécurité et Sûreté exploitants de MEAD, dont
+notamment, l’autorisation de dépotage des marchandises importées acheminées vers ces
+enceintes en dehors des heures légales d’ouverture, sans la présence des services douaniers.
+L’entrée en vigueur de cette nouvelle facilité avait été reportée jusqu'à la mise en œuvre des
+paramètres techniques et procéduraux nécessaires.
+A présent, ces paramètres étant mis en place, la facilité est désormais accessible pour les
+opérateurs susvisés selon le circuit ci-après:
+1. A la souscription de la déclaration de transit à destination des MEAD, l’opérateur
+renseigne, en sus des énonciations habituelles, les données relatives aux moyens de
+transport utilisés pour le transit ainsi que la date et l’heure estimatives d’arrivée au
+MEAD.
+2. Après initiation du contrôle de la déclaration de transit, le système informatique affiche
+au déclarant, le cas échéant, une décision de « dépotage sans présence douanière en
+dehors des heures légales d’ouverture ».
+Cette décision est notifiée concomitamment au service douanier du bureau de ressort du
+MEAD de destination qui garde toute la latitude pour se présenter et assister au
+dépotage au moment de l’arrivée des moyens de transport.
+3. A l’arrivée au MEAD des marchandises objet d’une décision de « dépotage sans présence
+douanière en dehors des heures légales d’ouverture », deux situations peuvent se
+présenter:
+a. Arrivée pendant les heures légales d’ouverture: la prise en charge et le dépotage des
+marchandises doit se faire en présence de la douane selon la procédure en vigueur;
+b. Arrivée en dehors des heures légales d’ouverture: l’exploitant du MEAD vérifie
+l’intégrité des scellés et la conformité de leurs références avec celles annotées sur la
+déclaration de transit et procède, en cas d’absence d’anomalies, au dépotage des
+marchandises après renseignement de la « Déclaration de réception » prévue sur le
+système BADR avec précision de la date et l’heure effectives d’arrivée des moyens de
+[Note: 1 image(s) found on this page. ]
+--- Page 2 (parsed text) --transport, des références et de l’intégrité des scellés ainsi que de la présence ou non
+du service douanier.
+En cas de constat d’anomalies (scellés altérés ou portant des références non
+conformes à la déclaration de transit, etc. ), l’exploitant du MEAD doit signaler ce
+constat sur le système BADR et s’abstenir de tout dépotage des marchandises
+considérées tout en veillant à leur sécurisation en attendant la reprise du service
+douanier.
+4. Pour les marchandises dépotées sans présence douanière, l’agent douanier affecté au
+MEAD procède, dès la reprise de service, à la confirmation de la déclaration de réception
+faite par l’exploitant du MEAD après vérification de l’existence des lots dépotés en son
+absence.
+Le mode opératoire à suivre par les bénéficiaires de cette nouvelle facilité est décrit dans le
+guide en annexe.
+Toute difficulté d’application sera signalée à l’administration centrale sous le timbre de la
+présente.
+SGIA/Diffusion/18-12-19/12h45
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) --Annexe à la circulaire n° 5991/300 du 18/12/2019
+1. Accéder à l’onglet intitulé « Moyen Transport de transit » pour renseigner les moyens de
+transport lors de la création ou de la modification d’une déclaration en détail souscrite
+sous un régime de transit:
+ Cliquer sur le bouton
+pour renseigner les informations encadrées en
+rouge de l’écran ci-dessous: type, référence, matricule, date et heure d’arrivée
+estimative
+ Cliquer sur le bouton « Confirmer » pour alimenter la liste des moyens de transport:
+L’ajout d’autres moyens de transport se fait de la même manière:
+Pour supprimer un moyen de transport, il suffit de cliquer sur son numéro (encadré en
+rouge) puis sur le bouton
+(encadré en vert):
+[Note: 6 image(s) found on this page. ]
+--- Page 4 (parsed text) --2. La suite du circuit est la même que ce qui est utilisé actuellement.
+3. Une fois l’enlèvement est opéré sur système, un mail de notification est envoyé à
+l’adresse de messagerie publique de l’opérateur déclarant:
+4. La déclaration de réception doit être établie avant la confirmation de réception au
+niveau du bureau de destination.
+Accéder pour cela à la fonctionnalité
+à travers le menu
+DEDOUANEMENT:
+[Note: 4 image(s) found on this page. ]
+--- Page 5 (parsed text) --L’écran ci-après s’affiche:
+ Saisir la référence de la déclaration puis cliquer sur le bouton « valider »:
+Le système restitue la liste des moyens de transport de transit déjà renseignés.
+ Cliquer sur le numéro de la ligne correspondant au moyen de transport de transit en
+question puis renseigner obligatoirement les informations encadrées en couleur rouge
+ci-après:
+[Note: 3 image(s) found on this page. ]
+--- Page 6 (parsed text) -- Date et heure effective de l’arrivée du moyen de transport.
+ Présence douanière: Offerte sous forme de case à cocher dans le cas de la
+présence d’un agent douanier.
+ Référence des scellés: Cette information n’est pas affichée dans le cas où la
+case « présence douanière » est cochée.
+ Intégrité des scellés: Offerte sous forme de bouton radio à sélectionner. Elle
+prend une des valeurs suivantes: Oui ou non.
+Cette information n’est pas affichée dans le cas où la case « présence
+douanière » est cochée.
+Le clic sur le bouton
+permet d’alimenter la ligne sélectionnée en question par
+les éléments précités:
+L’alimentation des autres lignes des moyens de transport se fait de la même manière.
+Remarque: Dans le cas où la case « Intégrité des scellés » est à « Non », un message
+d’information est affiché
+[Note: 4 image(s) found on this page. ]
+--- Page 7 (parsed text) -- Cliquer sur le lien
+offert au niveau du menu contextuel pour
+conclure l’opération relative à la déclaration de réception:
+Cette opération est tracée au niveau de l’historique de la déclaration en question:
+5. L’annulation de la déclaration de réception est possible avant la confirmation de
+réception.
+Pour cela, accéder à la fonctionnalité intitulée
+accessible à travers le menu
+DEDOUANEMENT:
+[Note: 5 image(s) found on this page. ]
+--- Page 8 (parsed text) --L’écran ci-après s’affiche:
+ Saisir la référence de la déclaration en détail puis cliquer sur le bouton:
+ Cliquer sur le lien encadré en rouge de l’écran ci-dessus:
+ Un message de succès de l’opération s’affiche après la saisie obligatoire du champ
+« Motif » et le clic sur le bouton:
+[Note: 5 image(s) found on this page. ]
+--- Page 9 (parsed text) -- Cette opération est tracée au niveau de l’historique de la déclaration:
+[Note: 2 image(s) found on this page. ]

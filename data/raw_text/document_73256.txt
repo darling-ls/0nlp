@@ -1,0 +1,140 @@
+--- Page 1 (parsed text) --Rabat, le 21 juillet 2017
+CIRCULAIRE N° 5707/312
+Objet: Procédures et Méthodes
+Signature électronique des déclarations de cession.
+Réf. : Article 203 bis du Code des douanes et impôts indirects et ses textes d’application.
+La loi n° 53‐05 relative à l’échange électronique de données juridiques a fixé le cadre juridique
+applicable à la signature électronique.
+Les dispositions du code des douanes et impôts indirects traitant de la transmission informatique
+des déclarations en douane et des documents y annexés (article 203 bis) ont été amendées et
+alignées sur les dispositions de la loi 53‐05 précitée, par la loi de finances n° 110‐13 pour l’année
+budgétaire 2014.
+Les  conditions  techniques  et  réglementaires  sont  actuellement  réunies  pour  l’instauration
+progressive de la dématérialisation des formalités de dédouanement, dont:
+- l’implémentation sur le système BADR d’une solution de signature électronique sécurisée
+conformément aux exigences de la loi n° 53‐05 susvisée;
+- le développement d’un module d’envoi des documents exigibles.
+Ces deux fonctionnalités permettent de signer électroniquement la déclaration en détail et de lui
+adosser les documents exigibles et /ou annexes. Ces documents doivent être sous format PDF
+avec une taille maximale de 2 Mo à ne pas dépasser par envoi.
+Une  phase  d’essais  de  ces  fonctionnalités,  menée  avec  un  échantillon  d’opérateurs,  a  été
+concluante. De même des actions de démonstration et de vulgarisation ont été réalisées au profit
+des opérateurs dans différentes directions régionales.
+Dans le cadre de la conduite du changement, le déploiement de la dématérialisation du circuit de
+dédouanement sera opéré de façon progressive en commençant, dans un premier temps, par les
+formalités de cession sous régimes économiques en douane, souscrites sous les codes régimes ci‐
+après:
+- 382: EIF EN SUITE D'EIF
+- 383: EIF EN SUITE D'ATPA
+- 384: EIF EN SUITE D'AT
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --- 386: EIF EN SUITE D’EPP
+- 081: ENTREPOT EN SUITE DE REGIMES ECONOMIQUES
+- 817: CESSION/ENTREE EN ENTREPOT D’EXPORTATION EN SUITE DE REGIMES ECONOMIQUES
+- 082: ATPA EN SUITE DE REGIMES ECONOMIQUES
+- 820: TRANSFORMATION SOUS DOUANE EN SUITE D’ATPA
+- 821: TRANSFORMATION SOUS DOUANE EN SUITE D’AT
+- 822: TRANSFORMATION SOUS DOUANE EN SUITE D’EPP
+- 083: AT EN SUITE DE REGIMES ECONOMIQUES
+- 084: CESSION/EXPORT PREALABLE
+- 849: CESSION EXPORTATION PREALABLE DES VEHICULES AUTOMOBILES
+Ainsi,  il  a  été  décidé  de  subordonner,  à  partir du  1er  août  2017,  le  dépôt  des  déclarations  de
+cession  sous  régimes  économiques  en  douane  à  la  signature  électronique  et  l’envoi  des
+documents annexes.
+A  partir  de  cette  date  et  jusqu’à  ce  qu’il  en  soit  autrement  disposé,  le  dépôt  de  la  version
+physique des déclarations de cession ainsi que leur traitement selon les règles d’usage seront
+maintenus.
+Il  est  à  noter  que  la  procédure  de  signature  électronique  des  déclarations  et  de  dépôt  des
+documents y annexés est reprise dans le mode opératoire ci‐joint.
+De même, un guide relatif aux pré‐requis techniques, nécessaires pour la signature électronique,
+devant  équiper  le  poste  de  travail,  est  mis  en  ligne  sur  le  site  Internet  de  l’Administration
+http: //www. douane. gov. ma.  Ce  guide  intitulé  « Pré‐requis  de  la  signature  électronique  sur
+BADR »    est  accessible  à  travers  l’onglet  « Entreprises  et  Professionnels »,  rubriques
+« Entreprises »,  « Procédures  et  guides  liés  au  dédouanement  en  ligne »  ou  en  cliquant  sur  le
+lien: http: //www. douane. gov. ma/dms/loadDocument? documentId=73211.
+Toute difficulté d’application des termes de la présente sera signalée à l’administration centrale
+sous le timbre ci‐dessus ou via l’outil d’assistance DAAM.
+SGIA/Diffusion/21-07-17/16h40
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) --Annexe
+1. Signature  électronique  des  documents  annexes  d’une  déclaration  de
+cession par le déclarant
+• Accéder au menu, puis à la fonctionnalité, au
+niveau de l’explorateur de BADR. L’écran suivant s’affiche:
+• Saisir la référence de la déclaration de cession, puis cliquer sur le bouton.
+L’écran suivant s’affiche:
+• Renseigner les éléments obligatoires suivants:
+‐
+Type: Choisir le type du document à annexer (Facture, liste de colisage, …)
+‐
+Référence: Saisir la référence complète du document à annexer
+1
+[Note: 5 image(s) found on this page. ]
+--- Page 4 (parsed text) --• Cliquer ensuite sur le bouton. Une nouvelle fenêtre
+s’affiche:
+• Choisir le(s) fichier(s) à charger pour le document:
+Remarquer l’annonce du succès de l’opération au niveau de la zone Infos et le chargement du
+fichier au niveau de la rubrique Liste des fichiers chargés.
+2
+[Note: 3 image(s) found on this page. ]
+--- Page 5 (parsed text) --• Cliquer sur
+au niveau du menu contextuel de gauche. La fenêtre
+suivante s’affiche:
+• Cliquer sur le bouton Oui. Une nouvelle fenêtre s’affiche:
+Le  déclarant  est  invité  à  visualiser  sur  écran  toutes  les  pages  du  document  pour  le  marquer
+comme lu, comme le précise le message affiché en haut d’écran.
+• Cliquer ensuite sur le bouton. La fenêtre suivante s’affiche:
+3
+[Note: 4 image(s) found on this page. ]
+--- Page 6 (parsed text) --• Cocher l’option indiquée en bas puis cliquer sur le bouton. La
+fenêtre suivante s’affiche:
+Le certificat affiché par défaut est celui du déclarant connecté.
+• Cliquer sur le bouton. La fenêtre suivante s’affiche:
+• Saisir le code PIN et cliquer sur le bouton ‘OK’. La fenêtre suivante s’affiche:
+4
+[Note: 5 image(s) found on this page. ]
+--- Page 7 (parsed text) --• Cliquer sur
+pour achever l’opération de la signature du document
+annexé à la déclaration de cession.
+2. Signature électronique de la déclaration de cession par le cédant
+Le cédant doit d’abord accepter la cession avant de procéder à la signature électronique
+de la déclaration de cession en cours d’enregistrement.
+• Accéder au menu, puis à la fonctionnalité, au niveau de
+l’explorateur de BADR. L’écran suivant s’affiche:
+• Saisir la référence de la déclaration de cession, puis cliquer sur le bouton.
+L’écran suivant s’affiche:
+• Cliquer sur
+au niveau du menu contextuel de gauche. La fenêtre
+suivante s’affiche:
+5
+[Note: 8 image(s) found on this page. ]
+--- Page 8 (parsed text) --• Cliquer sur le bouton Oui. La fenêtre suivante s’affiche:
+Les fichiers affichés au niveau de la liste des documents à lire à gauche de l’écran précédent,
+doivent être parcourus par le cédant, comme indiqué dans le message affiché en haut de la DUM,
+il s’agit des documents suivants: la DUM, la DUM COMPLETE et les DOCUMENTS ANNEXES.
+• Parcourir la liste de documents:
+Remarquer le changement du statut des documents parcourus de ‘A LIRE’ à ‘LU’.
+6
+[Note: 3 image(s) found on this page. ]
+--- Page 9 (parsed text) --• Cliquer sur le bouton. La fenêtre suivante s’affiche:
+• Cocher l’option indiquée en bas de l’écran précédent et cliquer sur le
+bouton. La fenêtre suivante s’affiche:
+Le certificat affiché par défaut est celui du cédant connecté.
+• Cliquer sur le bouton. La fenêtre suivante s’affiche:
+7
+[Note: 6 image(s) found on this page. ]
+--- Page 10 (parsed text) --• Saisir le code PIN et cliquer sur le bouton ‘OK’. La fenêtre suivante s’affiche:
+• Cliquer sur
+pour achever l’opération de la signature de la déclaration
+de cession.
+3. Signature électronique de la déclaration de cession par le déclarant
+Le déclarant doit d’abord enregistrer la déclaration de cession avant de procéder à sa
+signature électronique sur le système BADR.
+• Suivre les mêmes étapes que celles décrites au paragraphe 2 avec remplacement de la
+fonctionnalité
+par.
+N. B: Dans le cas des transitaires, la fonctionnalité
+est offerte uniquement
+aux personnes habiles.
+8
+[Note: 4 image(s) found on this page. ]

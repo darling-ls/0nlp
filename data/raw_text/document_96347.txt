@@ -1,0 +1,124 @@
+--- Page 1 (parsed text) --Rabat, le 23 juillet 2025
+CIRCULAIRE N° 6666/232
+Objet: Classement dans le tarif du droit d’importation de certains accumulateurs électriques
+portant les références FY12. 8V200Ah, FY25. 6V100Ah, FY51. 2V150Ah et AN_LPB_N_48300.
+Réf. : Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation de
+certains accumulateurs électriques portant les références FY12. 8V200Ah, FY25. 6V100Ah,
+FY51. 2V150Ah et AN_LPB_N_48300.
+Description et utilisation
+Il s’agit d’accumulateurs électriques rechargeables, destinés au stockage d’énergie, ils
+fonctionnent selon la technologie lithium-ion, déclinée en deux chimies spécifiques:
+
+Lithium Fer Phosphate (LiFePO₄) pour les modèles FY12. 8V200Ah, FY25. 6V100Ah et
+FY51. 2V150Ah.
+
+Lithium Polymère (Li-Po) à base d’oxyde de cobalt (LiCoO₂) pour le modèle
+AN_LPB_N_48300.
+Chaque accumulateur est équipé d’un système de gestion électronique intégré (BMS) qui assure
+la protection contre les surtensions, les décharges excessives, les surintensités, les courts-circuits
+ainsi que les températures extrêmes.
+Les caractéristiques techniques de chaque modèle sont reprises en annexe ci-jointe.
+Classement:
+De ce qui précède, les accumulateurs considérés sont classés, par application des RGI 1 et 6, à la
+sous-position 8507. 60 du Système harmonisé, rubrique 8507. 60. 80. 00 du tarif du droit
+d’importation.
+Toute difficulté d’application sera portée à la connaissance de l’Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/23-07-25/17h30
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la circulaire n° 6666/232 du 23 juillet 2025
+1. Modèle FY12. 8V200Ah
+
+Technologie: LiFePO₄
+
+Tension nominale: 12, 8 V
+
+Capacité: 200 Ah
+
+Énergie stockée: 2, 56 kWh
+
+Configuration des cellules: 4S1P
+
+Dimensions: 483 × 170 × 240 mm
+
+Poids: 20 ±1 kg
+
+Courant de charge max: 100 A
+
+Courant de décharge max: 100 A
+
+Communication: Bluetooth
+
+Durée de vie estimée: ≥6000 cycles à 80 % DoD
+
+Usage prévu: stockage d’énergie pour applications solaires, résidentielles ou mobiles
+(alimentation de secours, équipements hors-réseau).
+2. Modèle FY25. 6V100Ah
+
+Technologie: LiFePO₄
+
+Tension nominale: 25, 6 V
+
+Capacité: 100 Ah
+
+Énergie stockée: 2, 56 kWh
+
+Configuration des cellules: 8S1P
+
+Dimensions: 340 × 190 × 250 mm
+
+Poids: 19 ±0, 5 kg
+
+Courant de charge max: 100 A
+
+Courant de décharge max: 100 A
+
+Communication: Bluetooth
+
+Durée de vie estimée: ≥6000 cycles à 80 % DoD
+
+Usage prévu: stockage d’énergie pour applications solaires, résidentielles ou mobiles
+(alimentation de secours, équipements hors-réseau).
+3. Modèle FY51. 2V150Ah
+
+Technologie: LiFePO₄
+
+Tension nominale: 51, 2 V
+
+Capacité: 150 Ah
+
+Énergie stockée: 7, 68 kWh
+
+Configuration des cellules: 16S1P
+
+Dimensions: 1105 × 360 × 125 mm
+
+Poids: 60 ±5 kg
+
+Courant de charge max: 100 A
+
+Courant de décharge max: 100 A
+
+Communication: CAN, RS485, RS232, LCD
+
+Durée de vie estimée: ≥6000 cycles à 80 % DoD
+
+Usage prévu: stockage d’énergie pour applications solaires, industrielles, résidentielles
+ou mobiles (alimentation de secours, équipements hors-réseau).
+4. Modèle AN_LPB_N_48300
+
+Technologie: Lithium-polymère (Li-Po)
+
+Chimie: Oxyde de cobalt de lithium (LiCoO₂), graphite, LiPF₆ dans solvants organiques
+
+Tension nominale: 48 V (selon référence produit)
+
+Capacité: 300 Ah (d'après nomenclature produit)
+
+Poids: ≈ 800 g (à confirmer selon modèle final)
+
+Système de protection: Intégré (BMS)
+
+Usage prévu: Application mobile ou fixe — énergie embarquée, télécom, stockage
+stationnaire

@@ -1,0 +1,270 @@
+--- Page 1 (parsed text) --Rabat, le 08/09/2022
+CIRCULAIRE N° 6364/313
+Objet: Régimes économiques en douane – Diw@nati.
+Réf. : Circulaire n° 6114/300 du 08/12/2020.
+La circulaire visée en référence a annoncé le démarrage d’une nouvelle plateforme digitale baptisée
+« Diw@nati » offrant aux chefs d’entreprise une vue d’ensemble sur leurs opérations douanières.
+Dans le cadre de l’enrichissement de cette plateforme, il a été décidé d’y intégrer la gestion et le suivi
+des demandes désignées ci-après:
+ Ouverture d’un entrepôt privé particulier;
+ Ouverture d’un entrepôt privé particulier spécial (EPPS);
+ Bénéfice du cautionnement mixte;
+ Bénéfice du cautionnement sur engagement des entreprises exportatrices;
+ Dispense de caution dans le cadre de la sous-traitance au profit d’un donneur d’ordre
+étranger;
+ Bénéfice du cautionnement sur engagement des entreprises exportatrices installées dans
+les zones d’accélération industrielles;
+ Statut d’Opérateur Economique Agréé-Simplifications Douanières;
+Ainsi, via Diw@nati, l’opérateur est désormais en mesure d’initier et de suivre l’ensemble des étapes
+de traitement requises depuis le dépôt de la demande, en passant par le chargement des documents
+exigés, l’instruction de la demande par le service douanier compétent et l’envoi électronique de la
+réponse de l’administration.
+Le guide en annexe décrit le mode opératoire de ces procédures dématérialisées.
+Les dispositions de la présente prennent effet à compter du 08/09/2022
+Toute difficulté d’application sera signalée à l’administration centrale sous le timbre de la présente.
+SGIA/Diffusion/08-09-22/15h25
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 1/21
+Guide Utilisateur
+DIW@NATI
+Mes demandes
+PARTIE OPERATEUR
+Version 2. 0
+Août 2022
+[Note: 2 image(s) found on this page. ]
+--- Page 3 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 2/21
+S O M M A I R E
+INTRODUCTION. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 3
+1.
+MES DEMANDES. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. . 4
+1. 1. Nouvelle demande. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. . 4
+1. 2. Consulter une demande. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. . 15
+1. 3. Compléter une demande. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. 18
+[Note: 2 image(s) found on this page. ]
+--- Page 4 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 3/21
+I N T R O D U C T I O N
+Le présent document se veut un guide d’utilisateurs pour les opérateurs accédant à la plateforme DIW@NATI afin de soumettre leurs demandes.
+[Note: 2 image(s) found on this page. ]
+--- Page 5 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 4/21
+1.
+M E S D E M A N D E S
+Ci-après le menu « Mes Demandes » tel qu’il est offert par le système DIW@NATI (cf.
+encadré en rouge):
+1. 1. Nouvelle demande
+Cette fonctionnalité permet de soumettre une nouvelle demande. L’utilisateur est invité à
+cliquer sur le lien « Nouvelle Demande » de l’onglet « Mes Demandes ».
+L’écran ci-après s’affiche:
+[Note: 4 image(s) found on this page. ]
+--- Page 6 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 5/21
+A ce niveau, l’utilisateur est invité à saisir obligatoirement les éléments suivants:
+
+Type demande: A sélectionner à partir d’une liste déroulante offrant les différentes
+demandes dématérialisées. Cette liste comprend les valeurs suivantes:
+ Demande de la facilité de cautionnement mixte
+ Demande de la facilité de cautionnement sur engagement des entreprises
+exportatrices
+ Demande de dispense de caution dans le cadre de la sous-traitance avec un donneur
+d’ordre étranger
+ Demande de cautionnement sur engagement des entreprises exportatrices installées
+dans les zones d’accélération industrielle
+ Demande d’ouverture d’un entrepôt privé particulier (EPP)
+ Demande d’ouverture d’un entrepôt privé particulier spécial (EPPS) des carburants
+ Demande du statut d’Opérateur Economique Agréé (OEA-Simplifications douanières)
+
+Structure destinataire: A sélectionner à partir d’une liste déroulante offerte. Celle-ci est
+alimentée selon le type de la demande sélectionnée.
+
+Objet de la demande: Il s’agit d’un champ texte permettant de décrire l’objet de la nouvelle
+demande.
+
+Commentaire
+
+Type document: Champ supplémentaire qui s’affiche dès sélection d’un type de demande.
+Une liste de documents est affichée. Elle varie selon le type de demande sélectionné:
+[Note: 3 image(s) found on this page. ]
+--- Page 7 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 6/21
+ Demande de la facilité de cautionnement mixte
+ Demande de la facilité de cautionnement sur engagement des entreprises
+exportatrices
+[Note: 4 image(s) found on this page. ]
+--- Page 8 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 7/21
+ Demande de dispense de caution dans le cadre de la sous-traitance avec un donneur
+d’ordre étranger
+ Demande de cautionnement sur engagement des entreprises exportatrices installées
+dans les zones d’accélération industrielle
+[Note: 4 image(s) found on this page. ]
+--- Page 9 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 8/21
+ Demande d’ouverture d’un entrepôt privé particulier (EPP)
+ Demande d’ouverture d’un entrepôt privé particulier spécial (EPPS) des carburants
+[Note: 4 image(s) found on this page. ]
+--- Page 10 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 9/21
+ Demande du statut d’Opérateur Economique Agréé (OEA-Simplifications douanières)
+Le clic sur le bouton
+permet à l’utilisateur de charger le document en question à
+partir de son poste de travail (ce bouton est disponible pour tous les types de demandes précités à
+l’exception de la Demande du statut d’Opérateur Economique Agréé (OEA-Simplifications
+douanières):
+Le clic sur le lien
+permet d’afficher le contenu du document annexé.
+[Note: 6 image(s) found on this page. ]
+--- Page 11 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 10/21
+Le clic sur le bouton
+permet de supprimer le document annexé.
+Le clic sur le bouton
+permet à l’utilisateur d’ajouter un document de type
+« Autre »:
+L’alimentation de cette nouvelle ligne ajoutée se fait de la même manière que celle du chargement du
+document annexé, décrite précédemment.
+Le clic sur le bouton
+permet de supprimer la ligne nouvellement ajoutée.
+Le document à annexer doit être sous format PDF. Autrement, un message d’erreur s’affiche:
+[Note: 6 image(s) found on this page. ]
+--- Page 12 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 11/21
+La taille maximale autorisée du document à annexer est de 2 Mo. Autrement, un message d’erreur
+s’affiche:
+[Note: 3 image(s) found on this page. ]
+--- Page 13 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 12/21
+Après clic sur le bouton, le système affiche un message de succès et
+attribue un numéro à la demande nouvellement créée:
+[Note: 4 image(s) found on this page. ]
+--- Page 14 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 13/21
+Dès enregistrement de la nouvelle demande, un mail de notification est envoyé à l’adresse de
+messagerie de l’opérateur (cf. capture1) pour information et à l’adresse de messagerie de la structure
+destinataire pour traitement (cf. capture2):
+Capture1
+[Note: 4 image(s) found on this page. ]
+--- Page 15 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 14/21
+Capture2
+Cette demande transmise à la structure destinataire pour traitement peut être:
+Soumise à l’opérateur pour complément
+Ci-après un mail de notification envoyé à l’adresse de messagerie de l’opérateur, à titre d’illustration:
+Acceptée
+Ci-après un mail de notification envoyé à l’adresse de messagerie de l’opérateur, à titre d’illustration:
+La décison sous format PDF est jointe au mail de notification dans le cas où la demande après son
+acceptation contient une décisison. Ci-dessous un exemple pour illsutration:
+[Note: 5 image(s) found on this page. ]
+--- Page 16 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 15/21
+Rejetée
+Ci-après un mail de notification envoyé à l’adresse de messagerie de l’opérateur, à titre d’illustration:
+1. 2. Consulter une demande
+Cette fonctionnalité permet de consulter une demande. L’utilisateur est invité à cliquer sur le lien
+« Consulter Demande » de l’onglet « Mes Demandes »:
+[Note: 4 image(s) found on this page. ]
+--- Page 17 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 16/21
+Le système affiche la liste de toutes les demandes formulées par l’opérateur en question:
+Cette liste est affichée sous forme d’un tableau récapitulatif. Il comprend les informations suivantes:
+Numéro de la demande
+Type de la demande
+Objet de la demande
+Date de la dernière soumission
+Etat de la dernière soumission. Il prend une des valeurs suivantes: Accepté, rejeté, en attente de
+traitement ou en attente de compléments.
+La dernière colonne intitulée « Actions » est offerte sous forme de lien hypertexte intitulé
+« Consulter ». Le clic sur ce lien permet de consulter toutes les informations relatives à la
+demande en question:
+[Note: 4 image(s) found on this page. ]
+--- Page 18 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 17/21
+L’utilisateur a aussi la possibilité de procéder à la recherche de sa demande à travers la saisie d’autres
+critères offerts, à savoir:
+Numéro de la demande.
+Après saisie du numéro de la demande et clic sur le bouton, le système affiche le
+résultat ci-après:
+Le clic sur le lien
+permet de visualiser l’ensemble des énonciations relatives à la
+demande en question.
+Objet de la demande
+Après saisie de l’objet de la demande et clic sur le bouton, le système affiche la liste
+des demandes correspondant à l’objet de la demande renseigné:
+[Note: 6 image(s) found on this page. ]
+--- Page 19 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 18/21
+Le clic sur le bouton
+permet d’afficher les énonciations de la demande en question:
+1. 3. Compléter une demande
+Dans le cas où une demande soumise nécessite un complément d’information, un mail de notification
+est envoyé à l’utilisateur l’invitant à compléter sa demande tout en précisant les compléments
+demandés par l’agent douanier:
+[Note: 5 image(s) found on this page. ]
+--- Page 20 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 19/21
+L’utilisateur est invité à cliquer sur le lien « Compléter Demande » de l’onglet « Mes Demandes ». Le
+système affiche la liste des demandes ayant l’état « DEMANDE_COMPLEMENTS »:
+Cette liste est affichée sous forme de tableau récapitulatif. Il comprend les informations suivantes:
+-Numéro de la demande
+-Type de la demande
+-Objet de la demande
+-Date de la dernière soumission de la demande
+-Etat de la demande. Il prend la valeur « DEMANDE_COMPLEMENTS »
+-La dernière colonne « Actions » est offerte sous forme de lien hypertexte intitulé « Consulter ». Le clic
+sur ce lien permet de restituer les informations relatives à la demande en question:
+[Note: 4 image(s) found on this page. ]
+--- Page 21 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 20/21
+Après complément par les éléments demandés par l’agent douanier (voir encadré en rouge de l’écran
+ci-dessus) et clic sur le bouton, un message de succès s’affiche:
+[Note: 4 image(s) found on this page. ]
+--- Page 22 (parsed text) --D I W @ N A T I - M e s d e m a n d e s
+- - - P A R T I E O P E R A T E U R - - Guide Utilisateur – Version 2. 0
+Mes demandes – Partie Opérateur
+Page 21/21
+Un mail est envoyé automatiquement à l’adresse de messagerie de l’opérateur:
+Un mail est également envoyé automatiquement à l’adresse de messagerie de la structure
+destinataire pour la suite du traitement.
+[Note: 4 image(s) found on this page. ]

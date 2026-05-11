@@ -1,0 +1,47 @@
+--- Page 1 (parsed text) --Rabat, le 06 Octobre 2021
+CIRCULAIRE N°6235/311
+Objet: Dématérialisation de la procédure d’importation des céréales et des légumineuses.
+Dans le cadre de la poursuite des efforts de dématérialisation, l’Administration des Douanes et
+Impôts Indirects et l’Office National Interprofessionnel des Céréales et des Légumineuses (ONICL)
+ont mis en service un circuit électronique d’échange, via le guichet "PortNet", du récépissé de
+dépôt délivré par les services de l’ONICL et de l’attestation d’importation délivrée par les services
+douaniers. Cette nouvelle mesure entre en vigueur à compter de la date de la présente, selon le
+mode opératoire décrit en annexe.
+Par ailleurs, il est précisé que le circuit physique des deux documents précités sera maintenu
+jusqu’à ce qu’il en soit autrement disposé.
+Toute difficulté d’application sera signalée au service central sous le timbre de la présente ou via
+l’outil d’assistance DAAM.
+SGIA/Diffusion/06-10-21/14h05
+[Note: 3 image(s) found on this page. ]
+--- Page 2 (parsed text) --Annexe à la Circulaire n°6235/311
+Mode opératoire de la procédure d’échange
+des "Récépissé de dépôt" et "Attestation d’importation"
+avec l’ONICL
+1) Identification des produits concernés
+L’identification de ces produits est effectuée sur la base des positions SH arrêtées et
+communiquées à l’ADII par l’ONICL. La liste de ces positions tarifaires fera l’objet de mises à jour
+permanentes.
+2) Récépissé de dépôt
+L’ONICL enregistre le(s) récépissé(s) propre à chaque opérateur sur son système et le(s) transmet à
+l’ADII VIA PortNet.
+3) Déclaration
+L’opérateur enregistre la DUM sur BADR après avoir lié le(s) récépissé(s) à la DUM et procédé à
+l’affectation des quantités (imputations prévisionnelles).
+La douane transmet les éléments de la dernière version de la DUM après chaque modification à
+l’ONICL via Portnet et reçoit un accusé de réception.
+4) Attestation d’importation
+Après enlèvement de la marchandise, l’ADII transmet à l’ONICL, pour chaque récépissé et via
+PortNet, les éléments de l’attestation d’importation extraits de l’imputation douanière et reçoit un
+accusé de réception.
+A cet effet, l’onglet PortNet a été enrichi par l’ajout d’un nouveau document à imputer,
+intitulé « Récépissé de dépôt ».
+L’imputation de ce nouveau document se fait uniquement en poids.
+Ci-dessous un exemple pour illustration:
+[Note: 1 image(s) found on this page. ]
+--- Page 3 (parsed text) --Après délivrance de la mainlevée, une validation automatique de l’imputation du récépissé de
+dépôt est envoyée automatiquement à Portnet:
+[Note: 2 image(s) found on this page. ]
+--- Page 4 (parsed text) --La consultation de ce document est accessible à travers le menu « DEDOUANEMENT/Services/
+Titre de Change ».
+Ci-dessous un exemple:
+[Note: 3 image(s) found on this page. ]

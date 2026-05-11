@@ -1,0 +1,55 @@
+--- Page 1 (parsed text) --Rabat, le 30 mai 2018
+CIRCULAIRE N° 5805/232
+Objet: Classement dans le tarif du droit d’importation des articles dénommés "connecteurs 6Kv à
+perforation d’isolant, référencés CPB25, CPB70 et CPR95".
+REFER: Article 45 ter du Code des Douanes et Impôts Indirects.
+La question a été posée de connaître le classement dans le tarif du droit d’importation des
+articles dénommés "connecteurs 6Kv à perforation d’isolant, référencés CPB25, CPB70 et CPR95".
+Description:
+Il s’agit de connecteurs à perforation d’une tension de 6Kv, composés des éléments suivants:
+ Connecteurs;
+ Visserie en acier protégé contre la corrosion (tête fusible 13 mm);
+ Corps en polyamide renforcé en fibre de verre;
+ Joint élastique qui maintient le corps du connecteur ouvert; et
+ Capuchon.
+Source: Photographie de l’échantillon communiqué par le demandeur.
+[Note: 12 image(s) found on this page. ]
+--- Page 2 (parsed text) --Ces articles présentent, suivant les références, les caractéristiques ci-après:
+Capacité (mm²)
+Type
+Désignation
+Principal
+Dérivation
+Couple de
+serrage
+(N. m)
+Réseau
+CPR95
+16-95
+16-95
+16
+Branchement CPB70
+16-70
+4-25
+14
+Branchement CPB25
+10-25
+10-25
+14
+Source: Documentation fournie par le demandeur.
+Utilisation:
+Ces articles sont utilisés dans les réseaux et/ou les branchements aériens basse tension pour
+assurer la connexion des câbles isolés torsadés basse tension.
+La connexion assurée, dans ce cadre, peut être soit un branchement d’abonné ou une dérivation
+de réseau. Elle est réalisée indifféremment hors ou sous tension électrique de manière
+simultanée.
+Classement:
+Les articles dénommés "connecteurs 6Kv à perforation d’isolant, référencés CPB25, CPB70 et
+CPR95" sont des dispositifs de connexion des circuits électriques, pour une tension excédant
+1. 000 volts.
+Par conséquent, ils sont classés à la position 85. 35 du Système harmonisé, sous-position tarifaire
+8535. 90. 90. 99 et ce, par application des RGI 1 et 6.
+Toute difficulté d'application sera portée à la connaissance de l'Administration Centrale sous le
+timbre de la présente.
+SGIA/Diffusion/30-05-18/11h35
+[Note: 2 image(s) found on this page. ]
