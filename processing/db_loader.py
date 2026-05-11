@@ -6,7 +6,21 @@ from datetime import date
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
-from sqlalchemy import JSON, BigInteger, Column, Date, MetaData, String, Table, Text, create_engine, select, text
+from sqlalchemy import (
+    JSON,
+    BigInteger,
+    Column,
+    Date,
+    ForeignKey,
+    MetaData,
+    PrimaryKeyConstraint,
+    String,
+    Table,
+    Text,
+    create_engine,
+    select,
+    text,
+)
 from sqlalchemy.dialects.postgresql import JSONB, insert as pg_insert
 
 
@@ -16,19 +30,19 @@ metadata = MetaData()
 documents = Table(
     "documents",
     metadata,
-    Column("id", BigInteger, primary_key=True),
+    Column("id", BigInteger, primary_key=True, autoincrement=True),
     Column("reference_number", Text, nullable=False, unique=True),
     Column("publication_date", Date),
     Column("subject", Text),
-    Column("status", Text, nullable=False),
+    Column("status", Text, nullable=False, server_default="Active"),
 )
 
 
 document_chunks = Table(
     "document_chunks",
     metadata,
-    Column("id", BigInteger, primary_key=True),
-    Column("document_id", BigInteger, nullable=False),
+    Column("id", BigInteger, primary_key=True, autoincrement=True),
+    Column("document_id", BigInteger, ForeignKey("documents.id", ondelete="CASCADE"), nullable=False),
     Column("chunk_text", Text, nullable=False),
     Column("vector_embedding", JSONB),
 )
@@ -37,9 +51,10 @@ document_chunks = Table(
 document_relationships = Table(
     "document_relationships",
     metadata,
-    Column("source_id", BigInteger, nullable=False),
-    Column("target_id", BigInteger, nullable=False),
+    Column("source_id", BigInteger, ForeignKey("documents.id", ondelete="CASCADE"), nullable=False),
+    Column("target_id", BigInteger, ForeignKey("documents.id", ondelete="CASCADE"), nullable=False),
     Column("relationship_type", Text, nullable=False),
+    PrimaryKeyConstraint("source_id", "target_id", "relationship_type"),
 )
 
 
@@ -194,6 +209,10 @@ class LoaderArgs:
 
 def run(args: LoaderArgs) -> None:
     engine = create_engine(args.database_url, pool_pre_ping=True)
+
+    # Ensure tables exist
+    metadata.create_all(engine)
+
     id_by_ref: Dict[str, int] = {}
     canceled_target_ids: List[int] = []
 
