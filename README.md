@@ -13,27 +13,35 @@ This project transforms Moroccan Customs "Classement Tarifaire" circulars (text 
 - Local install (more control): start with `setup_env.md`, then `setup_db.md`
 
 2) Put your inputs in:
+- `data/pdf/*.pdf` (optional: PDF input)
 - `data/raw_text/*.txt` (one `.txt` per circular)
 - `data/metadata/*.json` (yearly metadata files)
 
 3) Run the ETL:
+- Extract (optional): `processing/pdf_extractor.py` (converts PDFs to `.txt`)
 - Transform: `processing/regex_processor.py` -> `data/processed/documents.jsonl`
 - Load: `processing/db_loader.py` -> PostgreSQL tables + `data/processed/graph_data.json`
 
-4) (Optional) Visualize:
-- Local (no Docker): copy `data/processed/graph_data.json` to `frontend/public/data/graph_data.json`
-- Docker: `docker-compose.yml` mounts `data/processed/` into the React app automatically
-- Run the React app in `frontend/` (it fetches `/data/graph_data.json`)
+4) Visualize:
+- The graph is available at `http://localhost:5173` (Docker) or your local dev server.
+- The React component in `frontend/src/components/GraphView.tsx` automatically reads the generated data via a shared volume or path.
 
 ## How it works (what happens in each phase)
+
+### Extract phase (`processing/pdf_extractor.py`) - Optional
+
+- Uses `PyMuPDF` to convert `.pdf` files into searchable `.txt` files.
+- Preserves basic layout markers for better regex accuracy.
 
 ### Transform phase (`processing/regex_processor.py`)
 
 - Reads all `.txt` files in `data/raw_text/`
 - Extracts:
   - Circular number, issue date, subject, legal reference (using your exact RegEx patterns)
-  - Tariff codes (sous-positions like `1234.56.78.90`)
-  - Relationships by detecting verbs (`abroge`, `modifie`, `remplace`, `complète`) followed by another circular number
+  - Tariff codes (detects 4, 6, 8, or 10-digit codes like `1234.56.78.90`)
+  - Relationships by detecting:
+    - Verbs (`abroge`, `modifie`, `remplace`, `complète`, `annule`) followed by a circular number
+    - Structural references in `REFER:` or `Réf:` sections
 - Semantic chunking:
   - Splits content into sections (headings) and then paragraph-sized chunks
   - Exports chunks so you can later embed them and run RAG over them
@@ -58,16 +66,18 @@ This project transforms Moroccan Customs "Classement Tarifaire" circulars (text 
 ```
 .
 |- data/
+|  |- pdf/                      # optional: input .pdf files
 |  |- raw_text/                 # input: extracted .txt (one file per circular)
 |  |- metadata/                 # input: yearly metadata .json files
 |  `- processed/                # output: documents.jsonl, graph_data.json
 |- processing/
+|  |- pdf_extractor.py          # PDF to Text extraction script
 |  |- regex_processor.py        # Deliverable 1
 |  |- db_loader.py              # Deliverable 3
-|  `- pipeline.py               # optional helper: runs both steps
+|  `- pipeline.py               # helper: runs all steps
 |- sql/
 |  `- init.sql                  # Deliverable 2
-|- frontend/
+|- frontend/                    # React + Vite + D3 App
 |  |- public/data/              # static mount for graph_data.json
 |  `- src/components/GraphView.tsx
 |- docker-compose.yml

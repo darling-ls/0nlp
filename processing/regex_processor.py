@@ -10,16 +10,21 @@ import pandas as pd
 from tqdm import tqdm
 
 
-# --- Required exact RegEx patterns (as provided) ---
+# --- Required exact RegEx patterns (as provided & enhanced) ---
 CIRCULAR_NUMBER_RE = re.compile(r"CIRCULAIRE N°\s*(\d{4}/\d{3})")
 DATE_OF_ISSUE_RE = re.compile(r"Rabat,\s*le\s*(\d{2}\s*[a-zA-Zéû]+\s*\d{4})")
 SUBJECT_RE = re.compile(r"(?i)Objet\s*:\s*(.*?)(?=\n\n|\nRéf)", re.DOTALL)
 LEGAL_REFERENCE_RE = re.compile(r"(?i)Réf\.?\s*:\s*(.*?)(?=\n\n|La question)", re.DOTALL)
-TARIFF_CODES_RE = re.compile(r"(\d{4}\.\d{2}\.\d{2}\.\d{2})")
 
+# Enhanced to catch 4, 6, 8, 10 digits with optional dots and spaces
+TARIFF_CODES_RE = re.compile(r"\b(\d{2,4}(?:\s?\.\s?\d{2}){0,4})\b")
+
+# Capture references in the "REFER:" or "Réf:" sections
+STRUCTURAL_REF_RE = re.compile(r"(?i)(?:REFER|Réf|Référence)\s*:\s*(.*?)(?=\n\n|Le\s+Service|Toute\s+difficulté)", re.DOTALL)
+REF_NUMBER_ONLY_RE = re.compile(r"(\d{4}/\d{3})")
 
 RELATIONSHIP_RE = re.compile(
-    r"(?i)\b(abroge|modifie|remplace|compl[eè]te)\b.{0,120}?\b(\d{4}/\d{3})\b"
+    r"(?i)\b(abroge|modifie|remplace|compl[eè]te|annule|abrogent|modifient|remplacent|compl[eè]tent)\b.{0,200}?\b(\d{4}/\d{3})\b"
 )
 
 SECTION_TITLES = {
@@ -39,22 +44,22 @@ def _read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8", errors="ignore").replace("\r\n", "\n").replace("\r", "\n")
 
 
-def _clean_inline(text: Optional[str]) -> Optional[str]:
-    if text is None:
+def _clean_inline(text: Any) -> Optional[str]:
+    if not isinstance(text, str) or pd.isna(text):
         return None
     cleaned = re.sub(r"[ \t]+", " ", text.strip())
     cleaned = re.sub(r"\n+", "\n", cleaned).strip()
     return cleaned
 
 
-def _clean_single_line(text: Optional[str]) -> Optional[str]:
-    if text is None:
+def _clean_single_line(text: Any) -> Optional[str]:
+    if not isinstance(text, str) or pd.isna(text):
         return None
     return re.sub(r"\s+", " ", text.strip())
 
 
-def _normalize_ref_number(value: Optional[str]) -> Optional[str]:
-    if not value:
+def _normalize_ref_number(value: Any) -> Optional[str]:
+    if value is None or pd.isna(value):
         return None
     match = re.search(r"(\d{4}/\d{3})", str(value))
     return match.group(1) if match else None
@@ -128,7 +133,15 @@ def _extract_fields(text: str) -> Dict[str, Any]:
     if m:
         legal_reference = _clean_inline(m.group(1))
 
-    tariff_codes = sorted(set(TARIFF_CODES_RE.findall(text)))
+    # Improved tariff code extraction: filter for at least 4 digits to avoid noise
+    raw_codes = TARIFF_CODES_RE.findall(text)
+    tariff_codes = []
+    for code in raw_codes:
+        clean_code = code.replace(" ", "")
+        digits_only = re.sub(r"\D", "", clean_code)
+        if len(digits_only) >= 4:
+            tariff_codes.append(clean_code)
+    tariff_codes = sorted(set(tariff_codes))
 
     return {
         "reference_number": reference_number,
@@ -142,7 +155,7 @@ def _extract_fields(text: str) -> Dict[str, Any]:
 
 def _relationship_type_from_verb(verb: str) -> str:
     v = verb.lower()
-    if v.startswith("abrog") or v == "abroge":
+    if v.startswith("abrog") or v == "abroge" or v == "annule":
         return "CANCELS"
     if v.startswith("modif"):
         return "MODIFIES"
@@ -155,6 +168,8 @@ def _relationship_type_from_verb(verb: str) -> str:
 
 def _extract_relationships(text: str) -> List[Dict[str, Any]]:
     relationships: List[Dict[str, Any]] = []
+    
+    # 1. Verb-based relationships
     for m in RELATIONSHIP_RE.finditer(text):
         verb = m.group(1)
         target = m.group(2)
@@ -171,6 +186,24 @@ def _extract_relationships(text: str) -> List[Dict[str, Any]]:
                 "evidence": evidence[:240] if evidence else None,
             }
         )
+
+    # 2. Structural references (REFER:)
+    m_ref = STRUCTURAL_REF_RE.search(text)
+    if m_ref:
+        ref_block = m_ref.group(1)
+        for target in REF_NUMBER_ONLY_RE.findall(ref_block):
+            # Avoid duplicating if already found by verb
+            if any(r["target_reference_number"] == target for r in relationships):
+                continue
+            relationships.append(
+                {
+                    "relationship_type": "RELATED_TO",
+                    "verb": "refer",
+                    "target_reference_number": target,
+                    "evidence": f"Found in REFER block: {_clean_single_line(ref_block[:100])}",
+                }
+            )
+
     return relationships
 
 
@@ -375,33 +408,40 @@ def run(args: ProcessorArgs) -> None:
     def safe_dict(v: Any) -> Dict[str, Any]:
         return v if isinstance(v, dict) else {}
 
+    def coalesce_val(v1: Any, v2: Any) -> Any:
+        if v1 is not None and not pd.isna(v1):
+            return v1
+        if v2 is not None and not pd.isna(v2):
+            return v2
+        return None
+
     final_docs: List[Dict[str, Any]] = []
     for row in merged.to_dict(orient="records"):
         reference_number = row.get("reference_number")
-        if not reference_number:
+        if not reference_number or pd.isna(reference_number):
             continue
 
-        publication_date = row.get("publication_date") or row.get("publication_date_meta")
-        subject = row.get("subject") or row.get("subject_meta")
+        publication_date = coalesce_val(row.get("publication_date"), row.get("publication_date_meta"))
+        subject = coalesce_val(row.get("subject"), row.get("subject_meta"))
         source_obj = safe_dict(row.get("source"))
 
         final_docs.append(
             {
                 "reference_number": reference_number,
                 "publication_date": publication_date,
-                "subject": _clean_single_line(subject) if subject else None,
+                "subject": _clean_single_line(subject),
                 "status": "Active",  # updated after relationship pass
-                "legal_reference": row.get("legal_reference"),
+                "legal_reference": _clean_inline(row.get("legal_reference")),
                 "tariff_codes": safe_list(row.get("tariff_codes")),
-                "category": row.get("category"),
-                "url": row.get("url"),
+                "category": row.get("category") if not pd.isna(row.get("category")) else None,
+                "url": row.get("url") if not pd.isna(row.get("url")) else None,
                 "relationships": safe_list(row.get("relationships")),
                 "chunks": safe_list(row.get("chunks")),
                 "source": {
                     "text_file": source_obj.get("text_file"),
-                    "metadata_file": row.get("metadata_source_file"),
+                    "metadata_file": row.get("metadata_source_file") if not pd.isna(row.get("metadata_source_file")) else None,
                 },
-                "raw_metadata": row.get("raw_metadata"),
+                "raw_metadata": row.get("raw_metadata") if not pd.isna(row.get("raw_metadata")) else None,
             }
         )
 
