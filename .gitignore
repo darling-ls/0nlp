@@ -9,3 +9,6 @@ dist/
 
 .env
 
+frontend/package-lock.json
+frontend/tsconfig.tsbuildinfo
+data/processed/

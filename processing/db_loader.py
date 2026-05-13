@@ -27,6 +27,8 @@ from sqlalchemy.dialects.postgresql import JSONB, insert as pg_insert
 metadata = MetaData()
 
 
+from sqlalchemy import Index
+
 documents = Table(
     "documents",
     metadata,
@@ -35,6 +37,8 @@ documents = Table(
     Column("publication_date", Date),
     Column("subject", Text),
     Column("status", Text, nullable=False, server_default="Active"),
+    Index("idx_documents_status", "status"),
+    Index("idx_documents_publication_date", "publication_date")
 )
 
 
