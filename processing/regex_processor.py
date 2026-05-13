@@ -326,13 +326,23 @@ def _load_metadata_df(metadata_dir: Path) -> pd.DataFrame:
             pub_raw = coalesce(obj, ("publication_date", "date", "issued_at"))
             pub_dt = _parse_date_maybe(str(pub_raw)) if pub_raw else None
 
+            url_str = coalesce(obj, ("url", "source_url", "link"))
+            doc_id = coalesce(obj, ("document_id", "doc_id"))
+
+            # If doc_id isn't directly present, try extracting from URL
+            if not doc_id and url_str:
+                m_url = re.search(r"documentId=(\d+)", str(url_str))
+                if m_url:
+                    doc_id = m_url.group(1)
+
             records.append(
                 {
                     "reference_number": ref,
+                    "document_id": doc_id,
                     "publication_date": pub_dt.isoformat() if pub_dt else None,
                     "subject": coalesce(obj, ("subject", "description", "objet", "title")),
                     "category": coalesce(obj, ("category", "categorie")),
-                    "url": coalesce(obj, ("url", "source_url", "link")),
+                    "url": url_str,
                     "metadata_source_file": path.name,
                     "raw_metadata": obj,
                 }
@@ -342,6 +352,7 @@ def _load_metadata_df(metadata_dir: Path) -> pd.DataFrame:
         return pd.DataFrame(
             columns=[
                 "reference_number",
+                "document_id",
                 "publication_date",
                 "subject",
                 "category",
@@ -431,6 +442,7 @@ def run(args: ProcessorArgs) -> None:
         final_docs.append(
             {
                 "reference_number": reference_number,
+                "document_id": row.get("document_id") if not pd.isna(row.get("document_id")) else None,
                 "publication_date": publication_date,
                 "subject": _clean_single_line(subject),
                 "status": "Active",  # updated after relationship pass
