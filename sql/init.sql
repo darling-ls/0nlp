@@ -3,6 +3,7 @@ BEGIN;
 CREATE TABLE IF NOT EXISTS documents (
   id BIGSERIAL PRIMARY KEY,
   reference_number TEXT NOT NULL UNIQUE,
+  document_id TEXT,
   publication_date DATE,
   subject TEXT,
   status TEXT NOT NULL DEFAULT 'Active' CHECK (status IN ('Active', 'Abrogated'))

@@ -6,6 +6,7 @@ type RelationshipType = 'CANCELS' | 'MODIFIES' | 'REPLACES' | 'COMPLETES' | stri
 type GraphNode = d3.SimulationNodeDatum & {
   id: string; // reference_number
   reference_number?: string;
+  document_id?: string | null;
   subject?: string | null;
   publication_date?: string | null;
   status?: 'Active' | 'Abrogated' | string;
@@ -208,14 +209,16 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
       if (!query) return 1; // reset
       const ref = (d.reference_number || d.id || '').toLowerCase();
       const subj = (d.subject || '').toLowerCase();
-      return (ref.includes(query) || subj.includes(query)) ? 1 : 0.2;
+      const docId = (d.document_id || '').toLowerCase();
+      return (ref.includes(query) || subj.includes(query) || docId.includes(query)) ? 1 : 0.2;
     });
 
     svg.selectAll('text').attr('opacity', (d: any) => {
       if (!query) return 1;
       const ref = (d.reference_number || d.id || '').toLowerCase();
       const subj = (d.subject || '').toLowerCase();
-      return (ref.includes(query) || subj.includes(query)) ? 1 : 0.2;
+      const docId = (d.document_id || '').toLowerCase();
+      return (ref.includes(query) || subj.includes(query) || docId.includes(query)) ? 1 : 0.2;
     });
   }, [searchQuery]);
 
@@ -224,10 +227,10 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
       <div className="graph-toolbar" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', alignItems: 'center' }}>
         <input
           type="text"
-          placeholder="Search ref or subject..."
+          placeholder="Search ref, subject, or doc ID..."
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
-          style={{ padding: '0.4rem', borderRadius: '4px', border: '1px solid #334155', background: '#0f172a', color: '#f8fafc' }}
+          style={{ padding: '0.4rem', borderRadius: '4px', border: '1px solid #334155', background: '#0f172a', color: '#f8fafc', minWidth: '250px' }}
         />
         <div className="legend">
           <span className="chip" style={{ background: '#ef4444' }}>
@@ -268,17 +271,62 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
       <div style={{ display: 'flex', height: '650px' }}>
         <div ref={containerRef} className="graph-canvas" style={{ flexGrow: 1 }} />
         {selectedNode && (
-          <div style={{ width: '300px', background: '#1e293b', padding: '1rem', borderLeft: '1px solid #334155', overflowY: 'auto' }}>
-            <h3>Document Details</h3>
-            <p><strong>Reference:</strong> {selectedNode.reference_number || selectedNode.id}</p>
-            <p><strong>Status:</strong> <span style={{ color: nodeFill(selectedNode) }}>{selectedNode.status || 'Active'}</span></p>
-            <p><strong>Date:</strong> {selectedNode.publication_date || 'N/A'}</p>
-            <p><strong>Subject:</strong> {selectedNode.subject || 'N/A'}</p>
+          <div style={{ width: '350px', background: '#1e293b', padding: '1.5rem', borderLeft: '1px solid #334155', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+            <h3 style={{ margin: 0, paddingBottom: '0.5rem', borderBottom: '1px solid #334155' }}>Document Details</h3>
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Reference Number</div>
+              <div style={{ fontWeight: 'bold' }}>{selectedNode.reference_number || selectedNode.id}</div>
+            </div>
+
+            {selectedNode.document_id && (
+              <div>
+                <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Document ID</div>
+                <div>{selectedNode.document_id}</div>
+              </div>
+            )}
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Status</div>
+              <div style={{ color: nodeFill(selectedNode), fontWeight: 'bold' }}>{selectedNode.status || 'Active'}</div>
+            </div>
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Publication Date</div>
+              <div>{selectedNode.publication_date || 'N/A'}</div>
+            </div>
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Subject</div>
+              <div style={{ lineHeight: '1.4' }}>{selectedNode.subject || 'N/A'}</div>
+            </div>
+
+            {selectedNode.document_id && (
+              <a
+                href={`/pdf/document_${selectedNode.document_id.replace(/^document_/, '')}.pdf`}
+                target="_blank"
+                rel="noreferrer"
+                style={{
+                  display: 'inline-block',
+                  marginTop: '1rem',
+                  padding: '0.5rem 1rem',
+                  background: '#10b981',
+                  color: 'white',
+                  textDecoration: 'none',
+                  borderRadius: '4px',
+                  textAlign: 'center',
+                  fontWeight: 'bold'
+                }}
+              >
+                View PDF Document
+              </a>
+            )}
+
             <button
               onClick={() => setSelectedNode(null)}
-              style={{ marginTop: '1rem', padding: '0.5rem', background: '#3b82f6', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
+              style={{ marginTop: '0.5rem', padding: '0.5rem', background: 'transparent', border: '1px solid #475569', color: '#cbd5e1', borderRadius: '4px', cursor: 'pointer' }}
             >
-              Close
+              Close Panel
             </button>
           </div>
         )}

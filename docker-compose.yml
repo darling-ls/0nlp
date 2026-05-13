@@ -45,6 +45,7 @@ services:
     volumes:
       # We no longer mount the whole frontend dir for dev, just the data into nginx's html/data
       - ./data/processed:/usr/share/nginx/html/data:ro
+      - ./data/pdf:/usr/share/nginx/html/pdf:ro
 
 volumes:
   pg_data:

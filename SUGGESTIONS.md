@@ -2,16 +2,15 @@
 
 This document outlines proposed improvements to the Legal Knowledge Graph & Tariff Classification Indexer. These suggestions cover bug fixes, optimizations, and new features to enhance the project's utility and robustness.
 
-## 1. Enhancing Python Text Extraction (RegEx & NLP)
+## 1. Enhancing Text Extraction (LLMs & Advanced NLP)
 
-**Current State:** Extraction relies on static RegEx patterns which can be brittle if document formats vary slightly (e.g., typos in "Rabat, le", variations in spacing, differing circular number formats).
+**Current State:** Extraction relies on static RegEx patterns which can be brittle if document formats vary slightly (e.g., typos in OCR, layout changes, complex legal language). While the current RegEx has been optimized, it still fundamentally lacks semantic understanding.
 
 **Suggested Improvements:**
-*   **Fuzzy Matching / Robust RegEx:** Improve the `DATE_OF_ISSUE_RE` and `SUBJECT_RE` to handle more whitespace variations, OCR errors, or missing keywords.
-*   **Tariff Code Validation:** Instead of just looking for digit patterns, implement logic to validate extracted codes against a known taxonomy (if available), or filter out numbers that look like dates or currency amounts.
-*   **Relationship Extraction Enhancement:**
-    *   Expand the list of recognized verbs (e.g., `ajoute`, `supprime`).
-    *   Implement basic NLP (e.g., using spaCy for French) to better understand the dependency tree, rather than relying solely on proximity to a verb.
+*   **Replace RegEx with a Small Language Model (SLM / LLM):** The most impactful change would be to introduce an LLM to parse the unstructured text into JSON directly.
+    *   *Implementation:* You can use a local model like `Mistral 7B` or `Llama 3 8B` (via Ollama) to keep data secure and on-premise, or use cloud APIs (like OpenAI's `gpt-4o-mini` or Anthropic's `claude-3-haiku` for speed and high accuracy).
+    *   *Benefits:* LLMs can easily infer relationships without needing strict verb patterns, accurately summarize the `subject`, and confidently extract `tariff_codes` even when embedded in complex tables or nested paragraphs.
+*   **Tariff Code Validation:** Implement logic to validate extracted codes against a known taxonomy (if available), or filter out numbers that look like dates or currency amounts.
 *   **Chunking Strategy:** Improve the heuristic for detecting headings (`_is_heading`). Use typography cues if available from the PDF extractor, or more sophisticated text structure analysis.
 
 ## 2. Optimizing the Database and Loader
