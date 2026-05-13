@@ -27,14 +27,21 @@ from sqlalchemy.dialects.postgresql import JSONB, insert as pg_insert
 metadata = MetaData()
 
 
+from sqlalchemy import Index
+
+from sqlalchemy import Index
+
 documents = Table(
     "documents",
     metadata,
     Column("id", BigInteger, primary_key=True, autoincrement=True),
     Column("reference_number", Text, nullable=False, unique=True),
+    Column("document_id", Text),
     Column("publication_date", Date),
     Column("subject", Text),
     Column("status", Text, nullable=False, server_default="Active"),
+    Index("idx_documents_status", "status"),
+    Index("idx_documents_publication_date", "publication_date")
 )
 
 
@@ -76,11 +83,12 @@ def _iter_jsonl(path: Path) -> Iterable[Dict[str, Any]]:
             yield json.loads(line)
 
 
-def _upsert_document(conn, reference_number: str, publication_date: Optional[date], subject: Optional[str], status: str) -> int:
+def _upsert_document(conn, reference_number: str, document_id: Optional[str], publication_date: Optional[date], subject: Optional[str], status: str) -> int:
     stmt = (
         pg_insert(documents)
         .values(
             reference_number=reference_number,
+            document_id=document_id,
             publication_date=publication_date,
             subject=subject,
             status=status or "Active",
@@ -89,6 +97,7 @@ def _upsert_document(conn, reference_number: str, publication_date: Optional[dat
             index_elements=[documents.c.reference_number],
             set_={
                 # Keep the richest available values (prefer non-null incoming)
+                "document_id": text("COALESCE(EXCLUDED.document_id, documents.document_id)"),
                 "publication_date": text("COALESCE(EXCLUDED.publication_date, documents.publication_date)"),
                 "subject": text("COALESCE(EXCLUDED.subject, documents.subject)"),
                 "status": text("COALESCE(EXCLUDED.status, documents.status)"),
@@ -133,7 +142,7 @@ def _insert_relationships(
             continue
         target_id = id_by_ref.get(target_ref)
         if not target_id:
-            target_id = _upsert_document(conn, target_ref, None, None, "Active")
+            target_id = _upsert_document(conn, target_ref, None, None, None, "Active")
             id_by_ref[target_ref] = target_id
         rows.append({"source_id": source_id, "target_id": target_id, "relationship_type": rel_type})
         if rel_type == "CANCELS":
@@ -159,6 +168,7 @@ def _export_graph(conn, out_path: Path) -> None:
         select(
             documents.c.id,
             documents.c.reference_number,
+            documents.c.document_id,
             documents.c.publication_date,
             documents.c.subject,
             documents.c.status,
@@ -182,6 +192,7 @@ def _export_graph(conn, out_path: Path) -> None:
                 "id": r.reference_number,  # stable ID for D3
                 "db_id": int(r.id),
                 "reference_number": r.reference_number,
+                "document_id": r.document_id,
                 "publication_date": r.publication_date.isoformat() if r.publication_date else None,
                 "subject": r.subject,
                 "status": r.status,
@@ -213,6 +224,10 @@ def run(args: LoaderArgs) -> None:
     # Ensure tables exist
     metadata.create_all(engine)
 
+    # Run a raw migration just in case the volume already existed and init.sql wasn't run
+    with engine.begin() as conn:
+        conn.execute(text("ALTER TABLE documents ADD COLUMN IF NOT EXISTS document_id TEXT;"))
+
     id_by_ref: Dict[str, int] = {}
     canceled_target_ids: List[int] = []
 
@@ -221,11 +236,12 @@ def run(args: LoaderArgs) -> None:
             ref = doc.get("reference_number")
             if not ref:
                 continue
+            doc_identifier = doc.get("document_id")
             pub_date = _date_from_iso(doc.get("publication_date"))
             subject = doc.get("subject")
             status = doc.get("status") or "Active"
 
-            doc_id = _upsert_document(conn, ref, pub_date, subject, status)
+            doc_id = _upsert_document(conn, ref, doc_identifier, pub_date, subject, status)
             id_by_ref[ref] = doc_id
 
             chunks = doc.get("chunks") if isinstance(doc.get("chunks"), list) else []

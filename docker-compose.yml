@@ -38,13 +38,14 @@ services:
       context: .
       dockerfile: frontend/Dockerfile
     ports:
-      - "5173:5173"
+      - "5173:80"  # Map host 5173 to container 80 (nginx)
     depends_on:
-      - etl
+      etl:
+        condition: service_completed_successfully # Wait for ETL to finish and produce data
     volumes:
-      - ./frontend:/app
-      - /app/node_modules
-      - ./data/processed:/app/public/data:ro
+      # We no longer mount the whole frontend dir for dev, just the data into nginx's html/data
+      - ./data/processed:/usr/share/nginx/html/data:ro
+      - ./data/pdf:/usr/share/nginx/html/pdf:ro
 
 volumes:
   pg_data:

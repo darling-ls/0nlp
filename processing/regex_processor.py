@@ -11,20 +11,20 @@ from tqdm import tqdm
 
 
 # --- Required exact RegEx patterns (as provided & enhanced) ---
-CIRCULAR_NUMBER_RE = re.compile(r"CIRCULAIRE N°\s*(\d{4}/\d{3})")
-DATE_OF_ISSUE_RE = re.compile(r"Rabat,\s*le\s*(\d{2}\s*[a-zA-Zéû]+\s*\d{4})")
-SUBJECT_RE = re.compile(r"(?i)Objet\s*:\s*(.*?)(?=\n\n|\nRéf)", re.DOTALL)
-LEGAL_REFERENCE_RE = re.compile(r"(?i)Réf\.?\s*:\s*(.*?)(?=\n\n|La question)", re.DOTALL)
+CIRCULAR_NUMBER_RE = re.compile(r"(?i)CIRCULAIRE\s+N°\s*(\d{4}\s*/\s*\d{3}|\d{4}-\d{3})")
+DATE_OF_ISSUE_RE = re.compile(r"(?i)Rabat,?\s*le\s*(\d{1,2}\s*[a-zA-Zéû]+\s*\d{4})")
+SUBJECT_RE = re.compile(r"(?i)Objet\s*:\s*(.*?)(?=\n\n|\nRéf|\nLe\s+Directeur)", re.DOTALL)
+LEGAL_REFERENCE_RE = re.compile(r"(?i)Réf\.?\s*:\s*(.*?)(?=\n\n|La question|En\s+application)", re.DOTALL)
 
 # Enhanced to catch 4, 6, 8, 10 digits with optional dots and spaces
 TARIFF_CODES_RE = re.compile(r"\b(\d{2,4}(?:\s?\.\s?\d{2}){0,4})\b")
 
 # Capture references in the "REFER:" or "Réf:" sections
 STRUCTURAL_REF_RE = re.compile(r"(?i)(?:REFER|Réf|Référence)\s*:\s*(.*?)(?=\n\n|Le\s+Service|Toute\s+difficulté)", re.DOTALL)
-REF_NUMBER_ONLY_RE = re.compile(r"(\d{4}/\d{3})")
+REF_NUMBER_ONLY_RE = re.compile(r"(\d{4}\s*/\s*\d{3}|\d{4}-\d{3})")
 
 RELATIONSHIP_RE = re.compile(
-    r"(?i)\b(abroge|modifie|remplace|compl[eè]te|annule|abrogent|modifient|remplacent|compl[eè]tent)\b.{0,200}?\b(\d{4}/\d{3})\b"
+    r"(?i)\b(abroge|modifie|remplace|compl[eè]te|annule|ajoute|supprime|abrogent|modifient|remplacent|compl[eè]tent)\b.{0,200}?\b(\d{4}\s*/\s*\d{3}|\d{4}-\d{3})\b"
 )
 
 SECTION_TITLES = {
@@ -61,7 +61,10 @@ def _clean_single_line(text: Any) -> Optional[str]:
 def _normalize_ref_number(value: Any) -> Optional[str]:
     if value is None or pd.isna(value):
         return None
-    match = re.search(r"(\d{4}/\d{3})", str(value))
+    val_str = str(value).replace(" ", "")
+    # Normalize dash to slash
+    val_str = val_str.replace("-", "/")
+    match = re.search(r"(\d{4}/\d{3})", val_str)
     return match.group(1) if match else None
 
 
@@ -155,13 +158,13 @@ def _extract_fields(text: str) -> Dict[str, Any]:
 
 def _relationship_type_from_verb(verb: str) -> str:
     v = verb.lower()
-    if v.startswith("abrog") or v == "abroge" or v == "annule":
+    if v.startswith("abrog") or v == "abroge" or v == "annule" or v.startswith("supprim"):
         return "CANCELS"
     if v.startswith("modif"):
         return "MODIFIES"
     if v.startswith("remplac"):
         return "REPLACES"
-    if v.startswith("compl"):
+    if v.startswith("compl") or v.startswith("ajout"):
         return "COMPLETES"
     return "RELATED_TO"
 
@@ -323,13 +326,23 @@ def _load_metadata_df(metadata_dir: Path) -> pd.DataFrame:
             pub_raw = coalesce(obj, ("publication_date", "date", "issued_at"))
             pub_dt = _parse_date_maybe(str(pub_raw)) if pub_raw else None
 
+            url_str = coalesce(obj, ("url", "source_url", "link"))
+            doc_id = coalesce(obj, ("document_id", "doc_id"))
+
+            # If doc_id isn't directly present, try extracting from URL
+            if not doc_id and url_str:
+                m_url = re.search(r"documentId=(\d+)", str(url_str))
+                if m_url:
+                    doc_id = m_url.group(1)
+
             records.append(
                 {
                     "reference_number": ref,
+                    "document_id": doc_id,
                     "publication_date": pub_dt.isoformat() if pub_dt else None,
                     "subject": coalesce(obj, ("subject", "description", "objet", "title")),
                     "category": coalesce(obj, ("category", "categorie")),
-                    "url": coalesce(obj, ("url", "source_url", "link")),
+                    "url": url_str,
                     "metadata_source_file": path.name,
                     "raw_metadata": obj,
                 }
@@ -339,6 +352,7 @@ def _load_metadata_df(metadata_dir: Path) -> pd.DataFrame:
         return pd.DataFrame(
             columns=[
                 "reference_number",
+                "document_id",
                 "publication_date",
                 "subject",
                 "category",
@@ -428,6 +442,7 @@ def run(args: ProcessorArgs) -> None:
         final_docs.append(
             {
                 "reference_number": reference_number,
+                "document_id": row.get("document_id") if not pd.isna(row.get("document_id")) else None,
                 "publication_date": publication_date,
                 "subject": _clean_single_line(subject),
                 "status": "Active",  # updated after relationship pass

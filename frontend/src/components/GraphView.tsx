@@ -6,6 +6,7 @@ type RelationshipType = 'CANCELS' | 'MODIFIES' | 'REPLACES' | 'COMPLETES' | stri
 type GraphNode = d3.SimulationNodeDatum & {
   id: string; // reference_number
   reference_number?: string;
+  document_id?: string | null;
   subject?: string | null;
   publication_date?: string | null;
   status?: 'Active' | 'Abrogated' | string;
@@ -46,6 +47,10 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [stats, setStats] = useState<{ nodes: number; links: number } | null>(null);
+  const [searchQuery, setSearchQuery] = useState("");
+  const [searchResults, setSearchResults] = useState<GraphNode[]>([]);
+  const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null);
+  const graphDataRef = useRef<GraphData | null>(null);
 
   const markerId = useMemo(() => `arrow-${Math.random().toString(36).slice(2)}`, []);
 
@@ -63,6 +68,7 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
       const data = (await res.json()) as GraphData;
 
       if (destroyed) return;
+      graphDataRef.current = data;
 
       container.innerHTML = '';
       const width = Math.max(900, container.clientWidth || 900);
@@ -112,7 +118,11 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
         .attr('r', 7)
         .attr('fill', (d) => nodeFill(d))
         .attr('stroke', '#0f172a')
-        .attr('stroke-width', 1.5);
+        .attr('stroke-width', 1.5)
+        .style('cursor', 'pointer')
+        .on('click', (event, d) => {
+          setSelectedNode(d);
+        });
 
       const labels = g
         .append('g')
@@ -149,7 +159,7 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
         .force('collide', d3.forceCollide().radius(22));
 
       const drag = d3
-        .drag<SVGCircleElement, GraphNode>()
+        .drag<any, GraphNode>()
         .on('start', (event, d) => {
           if (!event.active) simulation.alphaTarget(0.3).restart();
           d.fx = d.x;
@@ -165,7 +175,7 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
           d.fy = null;
         });
 
-      nodes.call(drag);
+      nodes.call(drag as any);
 
       simulation.on('tick', () => {
         links
@@ -190,9 +200,54 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
     };
   }, [dataUrl, markerId]);
 
+  // Effect to highlight searched nodes and populate search results
+  useEffect(() => {
+    if (!containerRef.current) return;
+    const svg = d3.select(containerRef.current).select('svg');
+    if (svg.empty()) return;
+
+    const query = searchQuery.trim().toLowerCase();
+
+    if (!query) {
+      setSearchResults([]);
+      svg.selectAll('circle').attr('opacity', 1);
+      svg.selectAll('text').attr('opacity', 1);
+      return;
+    }
+
+    const matchedNodes: GraphNode[] = [];
+
+    svg.selectAll('circle').attr('opacity', (d: any) => {
+      const ref = (d.reference_number || d.id || '').toLowerCase();
+      const subj = (d.subject || '').toLowerCase();
+      const docId = (d.document_id || '').toLowerCase();
+      const isMatch = ref.includes(query) || subj.includes(query) || docId.includes(query);
+      if (isMatch) matchedNodes.push(d as GraphNode);
+      return isMatch ? 1 : 0.2;
+    });
+
+    svg.selectAll('text').attr('opacity', (d: any) => {
+      const ref = (d.reference_number || d.id || '').toLowerCase();
+      const subj = (d.subject || '').toLowerCase();
+      const docId = (d.document_id || '').toLowerCase();
+      return (ref.includes(query) || subj.includes(query) || docId.includes(query)) ? 1 : 0.2;
+    });
+
+    // Deduplicate array (d3 selection iterates multiple times sometimes or we push refs)
+    const uniqueMatches = Array.from(new Set(matchedNodes));
+    setSearchResults(uniqueMatches);
+  }, [searchQuery]);
+
   return (
     <section className="graph-shell">
-      <div className="graph-toolbar">
+      <div className="graph-toolbar" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', alignItems: 'center' }}>
+        <input
+          type="text"
+          placeholder="Search ref, subject, or doc ID..."
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          style={{ padding: '0.4rem', borderRadius: '4px', border: '1px solid #334155', background: '#0f172a', color: '#f8fafc', minWidth: '250px' }}
+        />
         <div className="legend">
           <span className="chip" style={{ background: '#ef4444' }}>
             CANCELS
@@ -229,7 +284,98 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
         </div>
       ) : null}
 
-      <div ref={containerRef} className="graph-canvas" />
+      <div style={{ display: 'flex', height: '650px' }}>
+        <div ref={containerRef} className="graph-canvas" style={{ flexGrow: 1 }} />
+        {selectedNode && (
+          <div style={{ width: '350px', background: '#1e293b', padding: '1.5rem', borderLeft: '1px solid #334155', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+            <h3 style={{ margin: 0, paddingBottom: '0.5rem', borderBottom: '1px solid #334155' }}>Document Details</h3>
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Reference Number</div>
+              <div style={{ fontWeight: 'bold' }}>{selectedNode.reference_number || selectedNode.id}</div>
+            </div>
+
+            {selectedNode.document_id && (
+              <div>
+                <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Document ID</div>
+                <div>{selectedNode.document_id}</div>
+              </div>
+            )}
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Status</div>
+              <div style={{ color: nodeFill(selectedNode), fontWeight: 'bold' }}>{selectedNode.status || 'Active'}</div>
+            </div>
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Publication Date</div>
+              <div>{selectedNode.publication_date || 'N/A'}</div>
+            </div>
+
+            <div>
+              <div style={{ fontSize: '0.85rem', color: '#94a3b8', marginBottom: '0.25rem' }}>Subject</div>
+              <div style={{ lineHeight: '1.4' }}>{selectedNode.subject || 'N/A'}</div>
+            </div>
+
+            {selectedNode.document_id && (
+              <a
+                href={`/pdf/document_${selectedNode.document_id.replace(/^document_/, '')}.pdf`}
+                target="_blank"
+                rel="noreferrer"
+                style={{
+                  display: 'inline-block',
+                  marginTop: '1rem',
+                  padding: '0.5rem 1rem',
+                  background: '#10b981',
+                  color: 'white',
+                  textDecoration: 'none',
+                  borderRadius: '4px',
+                  textAlign: 'center',
+                  fontWeight: 'bold'
+                }}
+              >
+                View PDF Document
+              </a>
+            )}
+
+            <button
+              onClick={() => setSelectedNode(null)}
+              style={{ marginTop: '0.5rem', padding: '0.5rem', background: 'transparent', border: '1px solid #475569', color: '#cbd5e1', borderRadius: '4px', cursor: 'pointer' }}
+            >
+              Close Panel
+            </button>
+          </div>
+        )}
+
+        {!selectedNode && searchResults.length > 0 && (
+          <div style={{ width: '350px', background: '#1e293b', padding: '1.5rem', borderLeft: '1px solid #334155', overflowY: 'auto', display: 'flex', flexDirection: 'column' }}>
+            <h3 style={{ margin: 0, paddingBottom: '0.5rem', borderBottom: '1px solid #334155', marginBottom: '1rem' }}>Search Results ({searchResults.length})</h3>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+              {searchResults.map((node, i) => (
+                <div
+                  key={i}
+                  onClick={() => setSelectedNode(node)}
+                  style={{
+                    padding: '0.75rem',
+                    background: '#0f172a',
+                    border: '1px solid #334155',
+                    borderRadius: '4px',
+                    cursor: 'pointer',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    gap: '0.25rem'
+                  }}
+                >
+                  <div style={{ fontWeight: 'bold', color: '#f8fafc' }}>{node.reference_number || node.id}</div>
+                  <div style={{ fontSize: '0.8rem', color: '#94a3b8', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                    {node.subject || 'No subject'}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
     </section>
   );
 }

@@ -3,6 +3,7 @@ BEGIN;
 CREATE TABLE IF NOT EXISTS documents (
   id BIGSERIAL PRIMARY KEY,
   reference_number TEXT NOT NULL UNIQUE,
+  document_id TEXT,
   publication_date DATE,
   subject TEXT,
   status TEXT NOT NULL DEFAULT 'Active' CHECK (status IN ('Active', 'Abrogated'))
@@ -23,6 +24,8 @@ CREATE TABLE IF NOT EXISTS document_relationships (
 );
 
 CREATE INDEX IF NOT EXISTS idx_documents_reference_number ON documents(reference_number);
+CREATE INDEX IF NOT EXISTS idx_documents_status ON documents(status);
+CREATE INDEX IF NOT EXISTS idx_documents_publication_date ON documents(publication_date);
 CREATE INDEX IF NOT EXISTS idx_document_chunks_document_id ON document_chunks(document_id);
 CREATE INDEX IF NOT EXISTS idx_document_relationships_source_id ON document_relationships(source_id);
 CREATE INDEX IF NOT EXISTS idx_document_relationships_target_id ON document_relationships(target_id);
