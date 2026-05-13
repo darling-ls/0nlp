@@ -224,6 +224,10 @@ def run(args: LoaderArgs) -> None:
     # Ensure tables exist
     metadata.create_all(engine)
 
+    # Run a raw migration just in case the volume already existed and init.sql wasn't run
+    with engine.begin() as conn:
+        conn.execute(text("ALTER TABLE documents ADD COLUMN IF NOT EXISTS document_id TEXT;"))
+
     id_by_ref: Dict[str, int] = {}
     canceled_target_ids: List[int] = []
 
