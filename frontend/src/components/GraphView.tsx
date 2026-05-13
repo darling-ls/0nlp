@@ -48,7 +48,9 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
   const [error, setError] = useState<string | null>(null);
   const [stats, setStats] = useState<{ nodes: number; links: number } | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
+  const [searchResults, setSearchResults] = useState<GraphNode[]>([]);
   const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null);
+  const graphDataRef = useRef<GraphData | null>(null);
 
   const markerId = useMemo(() => `arrow-${Math.random().toString(36).slice(2)}`, []);
 
@@ -66,6 +68,7 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
       const data = (await res.json()) as GraphData;
 
       if (destroyed) return;
+      graphDataRef.current = data;
 
       container.innerHTML = '';
       const width = Math.max(900, container.clientWidth || 900);
@@ -197,7 +200,7 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
     };
   }, [dataUrl, markerId]);
 
-  // Effect to highlight searched nodes
+  // Effect to highlight searched nodes and populate search results
   useEffect(() => {
     if (!containerRef.current) return;
     const svg = d3.select(containerRef.current).select('svg');
@@ -205,21 +208,34 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
 
     const query = searchQuery.trim().toLowerCase();
 
+    if (!query) {
+      setSearchResults([]);
+      svg.selectAll('circle').attr('opacity', 1);
+      svg.selectAll('text').attr('opacity', 1);
+      return;
+    }
+
+    const matchedNodes: GraphNode[] = [];
+
     svg.selectAll('circle').attr('opacity', (d: any) => {
-      if (!query) return 1; // reset
+      const ref = (d.reference_number || d.id || '').toLowerCase();
+      const subj = (d.subject || '').toLowerCase();
+      const docId = (d.document_id || '').toLowerCase();
+      const isMatch = ref.includes(query) || subj.includes(query) || docId.includes(query);
+      if (isMatch) matchedNodes.push(d as GraphNode);
+      return isMatch ? 1 : 0.2;
+    });
+
+    svg.selectAll('text').attr('opacity', (d: any) => {
       const ref = (d.reference_number || d.id || '').toLowerCase();
       const subj = (d.subject || '').toLowerCase();
       const docId = (d.document_id || '').toLowerCase();
       return (ref.includes(query) || subj.includes(query) || docId.includes(query)) ? 1 : 0.2;
     });
 
-    svg.selectAll('text').attr('opacity', (d: any) => {
-      if (!query) return 1;
-      const ref = (d.reference_number || d.id || '').toLowerCase();
-      const subj = (d.subject || '').toLowerCase();
-      const docId = (d.document_id || '').toLowerCase();
-      return (ref.includes(query) || subj.includes(query) || docId.includes(query)) ? 1 : 0.2;
-    });
+    // Deduplicate array (d3 selection iterates multiple times sometimes or we push refs)
+    const uniqueMatches = Array.from(new Set(matchedNodes));
+    setSearchResults(uniqueMatches);
   }, [searchQuery]);
 
   return (
@@ -328,6 +344,35 @@ export default function GraphView({ dataUrl }: { dataUrl: string }) {
             >
               Close Panel
             </button>
+          </div>
+        )}
+
+        {!selectedNode && searchResults.length > 0 && (
+          <div style={{ width: '350px', background: '#1e293b', padding: '1.5rem', borderLeft: '1px solid #334155', overflowY: 'auto', display: 'flex', flexDirection: 'column' }}>
+            <h3 style={{ margin: 0, paddingBottom: '0.5rem', borderBottom: '1px solid #334155', marginBottom: '1rem' }}>Search Results ({searchResults.length})</h3>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+              {searchResults.map((node, i) => (
+                <div
+                  key={i}
+                  onClick={() => setSelectedNode(node)}
+                  style={{
+                    padding: '0.75rem',
+                    background: '#0f172a',
+                    border: '1px solid #334155',
+                    borderRadius: '4px',
+                    cursor: 'pointer',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    gap: '0.25rem'
+                  }}
+                >
+                  <div style={{ fontWeight: 'bold', color: '#f8fafc' }}>{node.reference_number || node.id}</div>
+                  <div style={{ fontSize: '0.8rem', color: '#94a3b8', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                    {node.subject || 'No subject'}
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         )}
       </div>

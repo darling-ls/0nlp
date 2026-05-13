@@ -2,11 +2,11 @@
 __pycache__/
 *.pyc
 .pytest_cache/
-data/pdf/
+
 node_modules/
 dist/
 .vite/
-0nlp/
+
 .env
 
 frontend/package-lock.json
